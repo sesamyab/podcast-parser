@@ -1,0 +1,80 @@
+{
+  "name": "@sesamy/podcast-parser",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/",
+    "tag": "latest"
+  },
+  "version": "1.0.0",
+  "main": "dist/podcast-schemas.cjs",
+  "module": "dist/podcast-schemas.mjs",
+  "types": "dist/podcast-schemas.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/podcast-schemas.cjs",
+      "import": "./dist/podcast-schemas.mjs",
+      "types": "./dist/podcast-schemas.d.ts"
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "rimraf build/**/* && tsc && vite build --config vite.dev.config.ts",
+    "build:prod": "rimraf build/**/* && tsc && vite build && dts-bundle-generator --config ./dts-bundle-generator.config.ts && copyfiles ./package.json build && copyfiles ./README.md build",
+    "preview": "vite preview",
+    "type-check": "tsc",
+    "semantic-release": "semantic-release",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier . --write",
+    "test": "vitest"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ],
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      [
+        "@semantic-release/npm",
+        {
+          "npmPublish": true,
+          "tarballDir": "dist",
+          "pkgRoot": "build"
+        }
+      ],
+      "@semantic-release/github",
+      [
+        "@semantic-release/git",
+        {
+          "assets": [
+            "CHANGELOG.md",
+            "package.json"
+          ],
+          "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
+        }
+      ]
+    ]
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/git": "10.0.1",
+    "@types/node": "20.12.7",
+    "@typescript-eslint/eslint-plugin": "7.5.0",
+    "@typescript-eslint/parser": "7.5.0",
+    "copyfiles": "2.4.1",
+    "dts-bundle-generator": "9.3.1",
+    "eslint": "9.1.1",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-prettier": "5.1.3",
+    "prettier": "3.2.5",
+    "semantic-release": "23.0.7",
+    "typescript": "5.4.5",
+    "vite": "5.2.8",
+    "vitest": "1.5.0"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
