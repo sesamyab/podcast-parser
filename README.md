@@ -1,3 +1,18 @@
 # podcast-parser
 
-A library for parsing podcasts feeds to the Sesamy format. It can also generate an RSS feed from a Sesamy JSON feed.
+A library for parsing podcast feeds to JSON and the Sesamy format.
+
+## Installation
+
+```bash
+npm install @sesamy/podcast-parser
+```
+
+## Usage
+
+```javascript
+const { parseFeedToJson, parseFeedToSesamy } = require('@sesamy/podcast-parser');
+
+const podcastFeed = await parseFeedToJson(podcast_feed_url);
+const sesamyPodcastFeed = parseFeedToSesamy(podcastFeed);
+```
