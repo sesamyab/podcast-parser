@@ -1,0 +1,989 @@
+
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/template/podspace.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sesamy="http://schemas.sesamy.com/feed/1.0">
+  <channel>
+    <ttl>60</ttl>
+    <generator>sesamy.com</generator>
+    <title>Spår</title>
+    <link>https://sesamy.com/podcasts/sid:InYYzPf__ogPcPBsoTtxs</link>
+    <atom:link href="https://feed.pod.space/spar" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link rel="payment" href="https://sesamy.com/podcasts/sid:InYYzPf__ogPcPBsoTtxs"></atom:link>
+    <language>sv</language>
+    <copyright>Anton Berg &amp; Martin Johnson</copyright>
+    <itunes:keywords></itunes:keywords>
+    <itunes:author>Third Ear Studio</itunes:author>
+    <itunes:subtitle>Spår</itunes:subtitle>
+    <itunes:summary>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;I ett känt kriminalfall hittar vi det okända och följer spåren. Vi berättar om Sveriges mest omtvistade fall - där förtroendet för rättsväsendet urholkats. Spår skildrar okända platser och ljusskygga människor från Sveriges undre värld.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Spår är en samproduktion mellan Acast och A-one Produktion och Third Ear Studio. Följ Spår på Instagram och Facebook för mer information: @sparpodcast&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+    <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;I ett känt kriminalfall hittar vi det okända och följer spåren. Vi berättar om Sveriges mest omtvistade fall - där förtroendet för rättsväsendet urholkats. Spår skildrar okända platser och ljusskygga människor från Sveriges undre värld.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Spår är en samproduktion mellan Acast och A-one Produktion och Third Ear Studio. Följ Spår på Instagram och Facebook för mer information: @sparpodcast&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br /&gt;</description>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email>info+d826bce9-27ec-46d1-89f7-306cc3c0416a@mg.pippa.io</itunes:email>
+    </itunes:owner>
+    <itunes:type>serial</itunes:type>
+    <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+    <image>
+      <url>https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg</url>
+      <link>https://play.acast.com/s/sparpodcast/152377</link>
+      <title>Spår</title>
+    </image>
+    <itunes:category text="News"></itunes:category>
+    <itunes:category text="Society &amp; Culture"></itunes:category>
+    <itunes:category text="News &amp; Politics"></itunes:category>
+    <itunes:block>no</itunes:block>
+    <sesamy:sesamy-item sample="false" locked="true" permissions="rss_62cbe56b4fbc1e0011942df1|rss_sesamy_catrine-da-costa|d2edWmywhM65BEETmjZ0l">
+      <pubDate>Mon, 11 Jul 2022 22:01:01 GMT</pubDate>
+      <itunes:duration>51:53</itunes:duration>
+      <guid isPermaLink="false">62cbe56b4fbc1e0011942df1</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/6-fallet-catrine-da-costa-likmaskar-och-kassettband</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:summary>&lt;p&gt;Ett domskäl går aldrig att överklaga, vilket gör att Thomas Algén och Rättsläkaren Teo måste leva med att anses ha styckats Catrine da Costa för evig framtid. Men, nu är också de barnpsykologer som Spår kontaktat för att få hjälp med att gå igenom kassettbanden återkommit. Vad betyder egentligen åklagarens viktigaste vittne. Kan hon bevittnat det som påstås? Och vad kan likmaskar 5-14 mm från 1984 säga oss idag?&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vill du stödja Spårs journalistik bli prenumerant. Du kan prenumerera via Thirdearstudio.com och då får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland, DOKland och Uppgång och Fall. Du kan också prenumerera via Acast: &amp;nbsp; https://plus.acast.com/s/sparpodcast eller via Apple Podcaster: https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/p&gt;&lt;p&gt;&amp;nbsp;See acast.com/privacy for privacy and opt-out information.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr&gt;&lt;p style=&apos;color:grey; font-size:0.75em;&apos;&gt; Our GDPR privacy policy was updated on August 8, 2022. Visit &lt;a style=&apos;color:grey;&apos; target=&apos;_blank&apos; rel=&apos;noopener noreferrer&apos; href=&apos;https://acast.com/privacy&apos;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</itunes:summary>
+      <title>6. Fallet Catrine da Costa - Likmaskar och kassettband</title>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/62cbe56b4fbc1e0011942df1.mp3" length="49693601" type="audio/mpeg"></enclosure>
+      <itunes:subtitle>&lt;p&gt;Ett domskäl går aldrig att överklaga, vilket gör att Thomas Algén och Rättsläkaren Teo måste leva med att anses ha styckats Catrine da Costa för evig framtid. Men, nu är också de barnpsykologer som Spår kontaktat för att få hjälp med att gå igenom kasse</itunes:subtitle>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+    </sesamy:sesamy-item>
+    <sesamy:sesamy-item sample="false" locked="true" permissions="rss_62c2ab4db00d000012a79db0|rss_sesamy_catrine-da-costa|d2edWmywhM65BEETmjZ0l">
+      <pubDate>Mon, 04 Jul 2022 22:01:22 GMT</pubDate>
+      <itunes:duration>40:46</itunes:duration>
+      <guid isPermaLink="false">62c2ab4db00d000012a79db0</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/5-fallet-catrine-da-costa-paradoxen</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:summary>&lt;p&gt;När till slut rättegången i tingsrätten ska avslutas, så kollapsar den. Nämndemän visar sig ha pratat med en journalist och uttalat sig i förväg om de båda männens skuld. Rättens ordförande och en nämndeman vill fria de båda, men fyra andra nämndemän anser dem skyldiga. Till slut beslutar man att ta om hela rättegången, från början. Och då friar man dem för mord, samtidigt som man i domskälet kommer anse dem vara skyldiga till styckningen. En paradox som kommer ge eko genom decennier.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vill du stödja Spårs journalistik och få exklusiv tillgång till säsongen en gång i veckan bli prenumerant. Du kan prenumerera via Thirdearstudio.com och då får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland, DOKland och Uppgång och Fall. Du kan också prenumerera via Acast: &amp;nbsp; https://plus.acast.com/s/sparpodcast eller via Apple Podcaster: https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/p&gt;&lt;p&gt;&amp;nbsp;See acast.com/privacy for privacy and opt-out information.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr&gt;&lt;p style=&apos;color:grey; font-size:0.75em;&apos;&gt; Our GDPR privacy policy was updated on August 8, 2022. Visit &lt;a style=&apos;color:grey;&apos; target=&apos;_blank&apos; rel=&apos;noopener noreferrer&apos; href=&apos;https://acast.com/privacy&apos;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</itunes:summary>
+      <title>5. Fallet Catrine da Costa - Paradoxen</title>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/62c2ab4db00d000012a79db0.mp3" length="39149696" type="audio/mpeg"></enclosure>
+      <itunes:subtitle>&lt;p&gt;När till slut rättegången i tingsrätten ska avslutas, så kollapsar den. Nämndemän visar sig ha pratat med en journalist och uttalat sig i förväg om de båda männens skuld. Rättens ordförande och en nämndeman vill fria de båda, men fyra andra nämndemän an</itunes:subtitle>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+    </sesamy:sesamy-item>
+    <sesamy:sesamy-item sample="false" locked="true" permissions="rss_62b94cdff8670a001146dd8c|rss_sesamy_catrine-da-costa|d2edWmywhM65BEETmjZ0l">
+      <pubDate>Mon, 27 Jun 2022 22:01:06 GMT</pubDate>
+      <itunes:duration>1:03:34</itunes:duration>
+      <guid isPermaLink="false">62b94cdff8670a001146dd8c</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/4-fallet-catrine-da-costa-framkallade-minnen</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:summary>&lt;p&gt;Det börjar läcka ut i media att åklagarens huvudvittne är ett litet barn, som enligt barnets mamma och polisens misstankar ska ha bevittnat en rituell styckning. Och dotterns mamma börjar nu också minnas att barnet två år tidigare pratat om någon som hon kallar Fotografen, vilket får polisen att tro att mordet och styckningen finns på bild. När också de uppgifterna läcks till media så framträder två nya vittnen, fotohandlarparet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vill du stödja Spårs journalistik och få exklusiv tillgång till säsongen en gång i veckan bli prenumerant. Du kan prenumerera via Thirdearstudio.com och då får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland, DOKland och Uppgång och Fall. Du kan också prenumerera via Acast: &amp;nbsp; https://plus.acast.com/s/sparpodcast eller via Apple Podcaster: https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/p&gt;&lt;p&gt;&amp;nbsp;See acast.com/privacy for privacy and opt-out information.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr&gt;&lt;p style=&apos;color:grey; font-size:0.75em;&apos;&gt; Our GDPR privacy policy was updated on August 8, 2022. Visit &lt;a style=&apos;color:grey;&apos; target=&apos;_blank&apos; rel=&apos;noopener noreferrer&apos; href=&apos;https://acast.com/privacy&apos;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</itunes:summary>
+      <title>4. Fallet Catrine da Costa - Framkallade minnen</title>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/62b94cdff8670a001146dd8c.mp3" length="61029679" type="audio/mpeg"></enclosure>
+      <itunes:subtitle>&lt;p&gt;Det börjar läcka ut i media att åklagarens huvudvittne är ett litet barn, som enligt barnets mamma och polisens misstankar ska ha bevittnat en rituell styckning. Och dotterns mamma börjar nu också minnas att barnet två år tidigare pratat om någon som ho</itunes:subtitle>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+    </sesamy:sesamy-item>
+    <sesamy:sesamy-item sample="false" locked="true" permissions="rss_62b0448067529d00126e5ad3|rss_sesamy_catrine-da-costa|d2edWmywhM65BEETmjZ0l">
+      <pubDate>Mon, 20 Jun 2022 22:01:44 GMT</pubDate>
+      <itunes:duration>1:00:03</itunes:duration>
+      <guid isPermaLink="false">62b0448067529d00126e5ad3</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/3-fallet-catrine-da-costa-barnet</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:summary>&lt;p&gt;Polisen har inga bevis alls som ska binda rättsläkaren Teo till mordet och styckningen av Catrine da Costa. Men, från ett oväntat håll kommer det att komma ett vittne som ska ha sett allt. Ett litet barn. Bara 17 månader gammalt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Vill du stödja Spårs journalistik och få exklusiv tillgång till säsongen en gång i veckan bli prenumerant. Du kan prenumerera via Thirdearstudio.com och då får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland, DOKland och Uppgång och Fall. Du kan också prenumerera via Acast: &amp;nbsp; https://plus.acast.com/s/sparpodcast eller via Apple Podcaster: https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/p&gt;&lt;br&gt;&lt;p&gt;See acast.com/privacy for privacy and opt-out information.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br /&gt;&lt;hr&gt;&lt;p style=&apos;color:grey; font-size:0.75em;&apos;&gt; Our GDPR privacy policy was updated on August 8, 2022. Visit &lt;a style=&apos;color:grey;&apos; target=&apos;_blank&apos; rel=&apos;noopener noreferrer&apos; href=&apos;https://acast.com/privacy&apos;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</itunes:summary>
+      <title>3. Fallet Catrine da Costa - Barnet</title>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/62b0448067529d00126e5ad3.mp3" length="57661568" type="audio/mpeg"></enclosure>
+      <itunes:subtitle>&lt;p&gt;Polisen har inga bevis alls som ska binda rättsläkaren Teo till mordet och styckningen av Catrine da Costa. Men, från ett oväntat håll kommer det att komma ett vittne som ska ha sett allt. Ett litet barn. Bara 17 månader gammalt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;</itunes:subtitle>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+    </sesamy:sesamy-item>
+    <item>
+      <title>1. Fallet Catrine da Costa - Allmänläkaren och Obducenten</title>
+      <pubDate>Tue, 14 Jun 2022 08:44:00 GMT</pubDate>
+      <itunes:duration>31:53</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/629ee6ff30a61300135f40a4.mp3" length="30169216" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">629ee6ff30a61300135f40a4</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/premium-fallet-catrine-da-costa-allmanlakaren-och-obducenten</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+      <description>&lt;p&gt;För 38 år sen försvinner den prostituerade och hemlösa kvinnan Catrine da Costa spårlöst pingsthelgen 1984, ingen vet vart hon tagit vägen, och inte många saknar henne. Men, i mitten av juli larmar en man som brukar promenera med en hund vid Karlberg om att några plastsäckar börjat lukta illa. När polisen kommer på plats ser de delar av en kropp, som de misstänker tillhör en kvinna. Det kommer bli starten på en polisutredning som skakar om hela Sverige.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Vill du stödja Spårs journalistik och få exklusiv tillgång till säsongen en gång i veckan bli prenumerant. Du kan prenumerera via&amp;nbsp;&lt;a href=&quot;http://thirdearstudio.com/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Thirdearstudio.com&lt;/a&gt;&amp;nbsp;och då&amp;nbsp;får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland,&amp;nbsp;DOKland och Uppgång och Fall. Du kan&amp;nbsp;också prenumerera via&amp;nbsp;Acast:&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://plus.acast.com/s/sparpodcast&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://plus.acast.com/s/sparpodcast&lt;/a&gt;&amp;nbsp;eller via&amp;nbsp;Apple Podcaster:&amp;nbsp;&lt;a href=&quot;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&amp;nbsp;See&amp;nbsp;&lt;a href=&quot;http://acast.com/privacy&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;acast.com/privacy&lt;/a&gt;&amp;nbsp;for privacy and opt-out information.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;För 38 år sen försvinner den prostituerade och hemlösa kvinnan Catrine da Costa spårlöst pingsthelgen 1984, ingen vet vart hon tagit vägen, och inte många saknar henne. Men, i mitten av juli larmar en man som brukar promenera med en hund vid Karlberg om att några plastsäckar börjat lukta illa. När polisen kommer på plats ser de delar av en kropp, som de misstänker tillhör en kvinna. Det kommer bli starten på en polisutredning som skakar om hela Sverige.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Vill du stödja Spårs journalistik och få exklusiv tillgång till säsongen en gång i veckan bli prenumerant. Du kan prenumerera via&amp;nbsp;&lt;a href=&quot;http://thirdearstudio.com/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Thirdearstudio.com&lt;/a&gt;&amp;nbsp;och då&amp;nbsp;får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland,&amp;nbsp;DOKland och Uppgång och Fall. Du kan&amp;nbsp;också prenumerera via&amp;nbsp;Acast:&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://plus.acast.com/s/sparpodcast&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://plus.acast.com/s/sparpodcast&lt;/a&gt;&amp;nbsp;eller via&amp;nbsp;Apple Podcaster:&amp;nbsp;&lt;a href=&quot;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&amp;nbsp;See&amp;nbsp;&lt;a href=&quot;http://acast.com/privacy&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;acast.com/privacy&lt;/a&gt;&amp;nbsp;for privacy and opt-out information.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+      <itunes:subtitle>&lt;p&gt;För 38 år sen försvinner den prostituerade och hemlösa kvinnan Catrine da Costa spårlöst pingsthelgen 1984, ingen vet vart hon tagit vägen, och inte många saknar henne. Men, i mitten av juli larmar en man som brukar promenera med en hund vid Karlberg om</itunes:subtitle>
+    </item>
+    <sesamy:sesamy-item sample="false" locked="true" permissions="rss_62a7425aa530f800130df9a2|rss_sesamy_catrine-da-costa|d2edWmywhM65BEETmjZ0l">
+      <pubDate>Mon, 13 Jun 2022 22:02:26 GMT</pubDate>
+      <itunes:duration>49:59</itunes:duration>
+      <guid isPermaLink="false">62a7425aa530f800130df9a2</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/premium-rattslakaren-teo-2</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:summary>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Snart hittar polisen ytterligare plastsäckar, och lyckas fastställa identiteten på den styckade kvinnan. Det är Catrine da Costa. Men, de gör redan från början en rad misstag, de varken väger eller kollar plastsäckarna för fingeravtryck. De hittar också en blodig handduk vid fyndplatsen, som de sen slarvar bort. Och snart så dyker det upp en man på polisstationen i Stockholm, som vill att de utreder hans dotters självmord igen – och som ger polisen vad de anser är ett avgörande tips. Mellan fyndplatserna ligger rättsläkarstationen. Och där arbetar rättsläkaren Teo.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Det här är det andra avsnittet i den här säsongen som publiceras enbart för prenumeranter. Vill du stödja Spårs journalistik och få exklusiv tillgång till säsongen en gång i veckan bli prenumerant. Du kan prenumerera via&amp;nbsp;&lt;a href=&quot;http://thirdearstudio.com/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Thirdearstudio.com&lt;/a&gt;&amp;nbsp;och då&amp;nbsp;får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland,&amp;nbsp;DOKland och Uppgång och Fall. Du kan&amp;nbsp;också prenumerera via&amp;nbsp;Acast:&amp;nbsp;&lt;a href=&quot;https://plus.acast.com/s/sparpodcast&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://plus.acast.com/s/sparpodcast&lt;/a&gt;&amp;nbsp;eller via&amp;nbsp;Apple Podcaster:&amp;nbsp;&lt;a href=&quot;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&amp;nbsp;See&amp;nbsp;&lt;a href=&quot;http://acast.com/privacy&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;acast.com/privacy&lt;/a&gt;&amp;nbsp;for privacy and opt-out information.&lt;/p&gt;&lt;br /&gt;&lt;hr&gt;&lt;p style=&apos;color:grey; font-size:0.75em;&apos;&gt; Our GDPR privacy policy was updated on August 8, 2022. Visit &lt;a style=&apos;color:grey;&apos; target=&apos;_blank&apos; rel=&apos;noopener noreferrer&apos; href=&apos;https://acast.com/privacy&apos;&gt;acast.com/privacy&lt;/a&gt; for more information.&lt;/p&gt;</itunes:summary>
+      <title>2. Fallet Catrine da Costa -  Rättsläkaren Teo</title>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/62a7425aa530f800130df9a2.mp3" length="47995008" type="audio/mpeg"></enclosure>
+      <itunes:subtitle>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Snart hittar polisen ytterligare plastsäckar, och lyckas fastställa identiteten på den styckade kvinnan. Det är Catrine da Costa. Men, de gör redan från början en rad misstag, de varken väger eller kollar plastsäckarna för fingeravtryck. </itunes:subtitle>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+    </sesamy:sesamy-item>
+    <item>
+      <title>Trailer Fallet Catrine Da Costa</title>
+      <pubDate>Mon, 06 Jun 2022 23:16:40 GMT</pubDate>
+      <itunes:duration>3:20</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/629e0de7514c8d0012282ffe.mp3" length="8003432" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">629e0de7514c8d0012282ffe</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/trailer-fallet-catrine-da-costa</link>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>8</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fallet Catrine da Costa granskar en av Sveriges största och längsta rättsprocesser. Det handlar om åtalet mot två män, den ena kom att kallas Allmänläkaren, den andra Obducenten som ska ha mördat och styckat Catrine da Costa. Det fanns ingen teknisk bevisning som kunde binda de båda männen till varken fyndplats, eller en påstådd brottsplats. Och i historiens epicentrum finns ett litet barn, som 17 månader gammal ska ha bevittnat allt. Allmänläkarens dotter.&amp;nbsp;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Vill du stödja Spårs journalistik och få exklusiv tillgång till säsongen en gång i veckan bli prenumerant. Du kan prenumerera via&amp;nbsp;&lt;a href=&quot;http://thirdearstudio.com/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Thirdearstudio.com&lt;/a&gt;&amp;nbsp;och då&amp;nbsp;får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland,&amp;nbsp;DOKland och Uppgång och Fall. Du kan&amp;nbsp;också prenumerera via&amp;nbsp;Acast:&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://plus.acast.com/s/sparpodcast&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://plus.acast.com/s/sparpodcast&lt;/a&gt;&amp;nbsp;eller via&amp;nbsp;Apple Podcaster:&amp;nbsp;&lt;a href=&quot;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&amp;nbsp;See&amp;nbsp;&lt;a href=&quot;http://acast.com/privacy&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;acast.com/privacy&lt;/a&gt;&amp;nbsp;for privacy and opt-out information.&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fallet Catrine da Costa granskar en av Sveriges största och längsta rättsprocesser. Det handlar om åtalet mot två män, den ena kom att kallas Allmänläkaren, den andra Obducenten som ska ha mördat och styckat Catrine da Costa. Det fanns ingen teknisk bevisning som kunde binda de båda männen till varken fyndplats, eller en påstådd brottsplats. Och i historiens epicentrum finns ett litet barn, som 17 månader gammal ska ha bevittnat allt. Allmänläkarens dotter.&amp;nbsp;&lt;/p&gt;&lt;br&gt;&lt;p&gt;Vill du stödja Spårs journalistik och få exklusiv tillgång till säsongen en gång i veckan bli prenumerant. Du kan prenumerera via&amp;nbsp;&lt;a href=&quot;http://thirdearstudio.com/&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Thirdearstudio.com&lt;/a&gt;&amp;nbsp;och då&amp;nbsp;får du full tillgång till den här podden och alla andra program vi gör på Third Ear Studio, såsom Skuggland,&amp;nbsp;DOKland och Uppgång och Fall. Du kan&amp;nbsp;också prenumerera via&amp;nbsp;Acast:&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://plus.acast.com/s/sparpodcast&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://plus.acast.com/s/sparpodcast&lt;/a&gt;&amp;nbsp;eller via&amp;nbsp;Apple Podcaster:&amp;nbsp;&lt;a href=&quot;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://podcasts.apple.com/se/channel/third-ear-se/id6442569298?l=en&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&amp;nbsp;See&amp;nbsp;&lt;a href=&quot;http://acast.com/privacy&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;acast.com/privacy&lt;/a&gt;&amp;nbsp;for privacy and opt-out information.&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+      <itunes:subtitle>&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Fallet Catrine da Costa granskar en av Sveriges största och längsta rättsprocesser. Det handlar om åtalet mot två män, den ena kom att kallas Allmänläkaren, den andra Obducenten som ska ha mördat och styckat Catrine da Costa. Det fanns ingen </itunes:subtitle>
+    </item>
+    <item>
+      <title>Teaser - Vi återvänder den 7e juni.</title>
+      <pubDate>Mon, 30 May 2022 23:22:55 GMT</pubDate>
+      <itunes:duration>5:50</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/6294a926ea7b260013c4b4dd.mp3" length="13989728" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">6294a926ea7b260013c4b4dd</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/teaser-vi-atervander-den-7e-juni</link>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+      <description>Ni har väntat länge. Den sjunde juni återvänder vi. Mer info kommer då. &lt;br /&gt;</description>
+      <itunes:summary>Ni har väntat länge. Den sjunde juni återvänder vi. Mer info kommer då. &lt;br /&gt;</itunes:summary>
+      <itunes:subtitle>Ni har väntat länge. Den sjunde juni återvänder vi. Mer info kommer då. &lt;br /&gt;</itunes:subtitle>
+    </item>
+    <item>
+      <title>Vi har inte glömt er.</title>
+      <pubDate>Thu, 25 Nov 2021 01:02:21 GMT</pubDate>
+      <itunes:duration>6:45</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/619ea8d8edb4280012618a1d.mp3" length="6482299" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">619ea8d8edb4280012618a1d</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://shows.acast.com/sparpodcast/episodes/vi-har-inte-glomt-er</link>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/show-cover.jpg"></itunes:image>
+      <description>&lt;p&gt;Det här är en liten hälsning från Anton &amp;amp; Martin. Vi har inte glömt er. Vi kommer komma tillbaka. Vi lovar. Under tiden, så kan ni lyssna på det här:&lt;/p&gt;&lt;br&gt;&lt;p&gt;På Apple  &lt;a href=&quot;https://podcasts.apple.com/se/podcast/skuggland/id1594888074&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://podcasts.apple.com/se/podcast/skuggland/id1594888074&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;På Acast: &lt;a href=&quot;https://aca.st/391073&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://aca.st/391073&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;Det här är en liten hälsning från Anton &amp;amp; Martin. Vi har inte glömt er. Vi kommer komma tillbaka. Vi lovar. Under tiden, så kan ni lyssna på det här:&lt;/p&gt;&lt;br&gt;&lt;p&gt;På Apple  &lt;a href=&quot;https://podcasts.apple.com/se/podcast/skuggland/id1594888074&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://podcasts.apple.com/se/podcast/skuggland/id1594888074&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;På Acast: &lt;a href=&quot;https://aca.st/391073&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://aca.st/391073&lt;/a&gt;&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+      <itunes:subtitle>&lt;p&gt;Det här är en liten hälsning från Anton &amp;amp; Martin. Vi har inte glömt er. Vi kommer komma tillbaka. Vi lovar. Under tiden, så kan ni lyssna på det här:&lt;/p&gt;&lt;br&gt;&lt;p&gt;På Apple  &lt;a href=&quot;https://podcasts.apple.com/se/podcast/skuggland/id1594888074&quot; rel=&quot;noo</itunes:subtitle>
+    </item>
+    <item>
+      <title>Specialavsnitt: Vår serie på HBO Nordic om Knutby</title>
+      <pubDate>Sun, 28 Mar 2021 22:01:00 GMT</pubDate>
+      <itunes:duration>9:02</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/7041e034-210c-419f-8c28-b6fe966c01c4.mp3" length="13023424" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">7041e034-210c-419f-8c28-b6fe966c01c4</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/specialavsnitt-varseriepahbonordicomknutby</link>
+      <itunes:subtitle>Den 4 april släpps vår dokumentärserie &quot;Knutby: I Blind Tro&quot; på HBO Nordic. Med anledning av detta berättar vi, tillsammans med seriens regissör Henrik Georgsson, om vårt arbete och vad ni kan förvänta er från serien. Det blir sex avsnitt som...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae71b.jpg"></itunes:image>
+      <description>&lt;p&gt;&lt;em&gt;Den 4 april släpps vår dokumentärserie &quot;Knutby: I Blind Tro&quot; på HBO Nordic. Med anledning av detta berättar vi, tillsammans med seriens regissör Henrik Georgsson, om vårt arbete och vad ni kan förvänta er från serien. Det blir sex avsnitt som alla släpps samtidigt om ett av Sveriges mest omdiskuterade rättsfall: Knutbydramat som utspelade sig 2004.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vi berättar om skotten, polisutredningen och domarna men också om sekten och hur den fick sitt slut. Tack vare aldrig tidigare visat material och människor som aldrig tidigare vågat berätta kan vi lägga nya pusselbitar till det som hänt i Knutby.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Serien är producerad av Ruth Reid för Warner Brothers ITVP, med Anton Berg, Martin Johnson och Martina Iacobaeus som exekutiva producenter. Exekutiva producenter för HBO Europe är Hanne Palmquist,&amp;nbsp;Hanka Kastelicova&amp;nbsp;och Antony Root. Dokumentärserien är producerad av Warner Bros. ITVP Sweden för HBO Europe.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&quot;Knutby: I blind tro&quot;,&amp;nbsp;en dokumentärserie i sex avsnitt, blir tillgänglig på HBO Nordic och i alla HBO Europes länder den 4 april.&lt;/em&gt;&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;&lt;em&gt;Den 4 april släpps vår dokumentärserie &quot;Knutby: I Blind Tro&quot; på HBO Nordic. Med anledning av detta berättar vi, tillsammans med seriens regissör Henrik Georgsson, om vårt arbete och vad ni kan förvänta er från serien. Det blir sex avsnitt som alla släpps samtidigt om ett av Sveriges mest omdiskuterade rättsfall: Knutbydramat som utspelade sig 2004.&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vi berättar om skotten, polisutredningen och domarna men också om sekten och hur den fick sitt slut. Tack vare aldrig tidigare visat material och människor som aldrig tidigare vågat berätta kan vi lägga nya pusselbitar till det som hänt i Knutby.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Serien är producerad av Ruth Reid för Warner Brothers ITVP, med Anton Berg, Martin Johnson och Martina Iacobaeus som exekutiva producenter. Exekutiva producenter för HBO Europe är Hanne Palmquist,&amp;nbsp;Hanka Kastelicova&amp;nbsp;och Antony Root. Dokumentärserien är producerad av Warner Bros. ITVP Sweden för HBO Europe.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&quot;Knutby: I blind tro&quot;,&amp;nbsp;en dokumentärserie i sex avsnitt, blir tillgänglig på HBO Nordic och i alla HBO Europes länder den 4 april.&lt;/em&gt;&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>6. Brandkärrsmordet – extra avsnitt</title>
+      <pubDate>Mon, 09 Sep 2019 23:00:00 GMT</pubDate>
+      <itunes:duration>34:39</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/c912608c-e755-4f14-a20a-c6518e50425d.mp3" length="49914496" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">c912608c-e755-4f14-a20a-c6518e50425d</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/6.brandkarrsmordet-extraavsnitt</link>
+      <itunes:subtitle>Spår har låtit före detta kammaråklagare och rättsexpert Marie Wallin (www.rattnu.se) titta på Anton och Martins granskning av mordet i Brandkärr. Efter att ha lyssnat på Spårs fem avsnitt och dessutom läst hela förundersökningen riktar Marie Wallin nu...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg"></itunes:image>
+      <description>&lt;p&gt;Spår har låtit före detta kammaråklagare och rättsexpert Marie Wallin (&lt;a href=&quot;http://www.rattnu.se/&quot; target=&quot;_blank&quot;&gt;www.rattnu.se&lt;/a&gt;) titta på Anton och Martins granskning av mordet i Brandkärr. Efter att ha lyssnat på Spårs fem avsnitt och dessutom läst hela förundersökningen riktar Marie Wallin nu hård kritik mot polisutredningen. Wallin menar att den innehåller så allvarliga brister att Son Do aldrig borde dömts för brottet och därför bör beviljas resning av Högsta Domstolen.&lt;/p&gt;&lt;p&gt;Resningsansökan kommer lämnas in 1 oktober 2019 säger advokat Elsa Segerros. I avsnittet berättar hon att resningsansökan baseras på den granskning Spår gjort och hon anser att Spår nu klarlagt att centrala personer i utredningen ljugit i förhör, en omständighet som tidigare varit avgörande i resningsfall, till exempel för Kaj Linna.&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;Spår har låtit före detta kammaråklagare och rättsexpert Marie Wallin (&lt;a href=&quot;http://www.rattnu.se/&quot; target=&quot;_blank&quot;&gt;www.rattnu.se&lt;/a&gt;) titta på Anton och Martins granskning av mordet i Brandkärr. Efter att ha lyssnat på Spårs fem avsnitt och dessutom läst hela förundersökningen riktar Marie Wallin nu hård kritik mot polisutredningen. Wallin menar att den innehåller så allvarliga brister att Son Do aldrig borde dömts för brottet och därför bör beviljas resning av Högsta Domstolen.&lt;/p&gt;&lt;p&gt;Resningsansökan kommer lämnas in 1 oktober 2019 säger advokat Elsa Segerros. I avsnittet berättar hon att resningsansökan baseras på den granskning Spår gjort och hon anser att Spår nu klarlagt att centrala personer i utredningen ljugit i förhör, en omständighet som tidigare varit avgörande i resningsfall, till exempel för Kaj Linna.&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>5. Brandkärrsmordet - Ett helt annat motiv</title>
+      <pubDate>Tue, 30 Apr 2019 00:05:00 GMT</pubDate>
+      <itunes:duration>54:53</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/53504c60-2fce-4455-96a3-7946504d82ad.mp3" length="79037632" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">53504c60-2fce-4455-96a3-7946504d82ad</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/5.ettheltannatmotiv</link>
+      <itunes:subtitle>Spår hittar kopplingen till Halmstads-ärendet när vi ringer Skatteverket. Efter 11 minuter i telefonkö får vi ett svar som polisen borde haft i sin förundersökning från allra första början. Plötsligt får hela persongalleriet kring den sjuårige pojken e...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae727.jpg"></itunes:image>
+      <description>Spår hittar kopplingen till Halmstads-ärendet när vi ringer Skatteverket. Efter 11 minuter i telefonkö får vi ett svar som polisen borde haft i sin förundersökning från allra första början. Plötsligt får hela persongalleriet kring den sjuårige pojken en ny formation. Och helt andra motiv kan skönjas. Det betyder också att uppgifter som lämnats i förhör nu måste omvärderas. Det finns goda skäl att tro att minst en person ljugit i förhören och att det skett för att dölja andra motiv bakom vad som egentligen hände i Brandkärr 21 april 2006.&lt;br /&gt;</description>
+      <itunes:summary>Spår hittar kopplingen till Halmstads-ärendet när vi ringer Skatteverket. Efter 11 minuter i telefonkö får vi ett svar som polisen borde haft i sin förundersökning från allra första början. Plötsligt får hela persongalleriet kring den sjuårige pojken en ny formation. Och helt andra motiv kan skönjas. Det betyder också att uppgifter som lämnats i förhör nu måste omvärderas. Det finns goda skäl att tro att minst en person ljugit i förhören och att det skett för att dölja andra motiv bakom vad som egentligen hände i Brandkärr 21 april 2006.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>4. Brandkärrsmordet - En annan utredning ger nytt ljus</title>
+      <pubDate>Tue, 23 Apr 2019 00:04:00 GMT</pubDate>
+      <itunes:duration>58:42</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/6cf3f75e-55fd-4898-92b8-45667daa1947.mp3" length="84536128" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">6cf3f75e-55fd-4898-92b8-45667daa1947</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/4.enannanutredninggernyttljus</link>
+      <itunes:subtitle>Samtidigt som utredningen kring mordet i Brandkärr skedde påbörjades en större polisutredning i Halmstad, Helsingborg och Malmö. Polisen förhörde över 400 vietnameser, många DNA-testades, och då fann polisen häpnadsväckande sanningar kring några av de ...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae72e.jpg"></itunes:image>
+      <description>Samtidigt som utredningen kring mordet i Brandkärr skedde påbörjades en större polisutredning i Halmstad, Helsingborg och Malmö. Polisen förhörde över 400 vietnameser, många DNA-testades, och då fann polisen häpnadsväckande sanningar kring några av de barn som följt till Sverige för att söka uppehållstillstånd. Ärendet växte till en härva om människosmuggling och skenäktenskap. Finns det en koppling till fallet i Brandkärr? Spår undersöker också om Son Do verkligen kunnat utföra mordet? Hinner han utföra dådet på 22 minuter?&lt;br /&gt;</description>
+      <itunes:summary>Samtidigt som utredningen kring mordet i Brandkärr skedde påbörjades en större polisutredning i Halmstad, Helsingborg och Malmö. Polisen förhörde över 400 vietnameser, många DNA-testades, och då fann polisen häpnadsväckande sanningar kring några av de barn som följt till Sverige för att söka uppehållstillstånd. Ärendet växte till en härva om människosmuggling och skenäktenskap. Finns det en koppling till fallet i Brandkärr? Spår undersöker också om Son Do verkligen kunnat utföra mordet? Hinner han utföra dådet på 22 minuter?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>3. Brandkärrsmordet - En sjuårings berättelse</title>
+      <pubDate>Tue, 16 Apr 2019 00:03:00 GMT</pubDate>
+      <itunes:duration>1:01:47</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/d1f42701-ffba-4004-86a2-707656181d98.mp3" length="88990912" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">d1f42701-ffba-4004-86a2-707656181d98</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/2.ensjuaringsberattelse</link>
+      <itunes:subtitle>Spår får som första utomstående en kopia av de två videoförhören med den sjuåriga pojken. Det är dessa förhör som fällt avgörandet i fallet. Spår låter tre experter på barnförhör granska hur de gått till. Stämmer det verkligen som Tingsrätten skriver i...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae735.jpg"></itunes:image>
+      <description>&lt;p&gt;Spår får som första utomstående en kopia av de två videoförhören med den sjuåriga pojken. Det är dessa förhör som fällt avgörandet i fallet. Spår låter tre experter på barnförhör granska hur de gått till. Stämmer det verkligen som Tingsrätten skriver i sin dom att pojken är trovärdig och att utpekandet skett utan motstridigheter?&lt;/p&gt;&lt;br&gt;&lt;p&gt;Varför pekar då pojken ut en mördare som han såg skjuta med höger hand när Son Do är vänsterhänt? Och varför ställer inte polisen frågor om örfilen och mobilsamtalet som pojken tvingades till på sjukhuset?&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;Spår får som första utomstående en kopia av de två videoförhören med den sjuåriga pojken. Det är dessa förhör som fällt avgörandet i fallet. Spår låter tre experter på barnförhör granska hur de gått till. Stämmer det verkligen som Tingsrätten skriver i sin dom att pojken är trovärdig och att utpekandet skett utan motstridigheter?&lt;/p&gt;&lt;br&gt;&lt;p&gt;Varför pekar då pojken ut en mördare som han såg skjuta med höger hand när Son Do är vänsterhänt? Och varför ställer inte polisen frågor om örfilen och mobilsamtalet som pojken tvingades till på sjukhuset?&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>2. Brandkärrsmordet - Lost in translation – Son Do I fängelset</title>
+      <pubDate>Tue, 09 Apr 2019 00:02:00 GMT</pubDate>
+      <itunes:duration>51:45</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/df9686ac-632a-4e60-98fc-e57f8556c3b2.mp3" length="74533888" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">df9686ac-632a-4e60-98fc-e57f8556c3b2</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/2.lostintranslation-sondoifangelset</link>
+      <itunes:subtitle>Spår träffar Son Do, mannen som är dömd till livstids fängelse för mordet på den 32-åriga kvinnan i Brandkärr 2006. Han nekar alltjämt till brottet. Anton och Martin granskar polisutredningen och hittar märkliga omständigheter kring den rekonstruktion ...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae73c.jpg"></itunes:image>
+      <description>&lt;p&gt;Spår träffar Son Do, mannen som är dömd till livstids fängelse för mordet på den 32-åriga kvinnan i Brandkärr 2006. Han nekar alltjämt till brottet. Anton och Martin granskar polisutredningen och hittar märkliga omständigheter kring den rekonstruktion som gjordes när Son Do ville visa att han hade alibi vid mordtillfället.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Dessutom reder Spår ut oklarheter i förhören. Son Do skyller på dåliga tolkar. Polisen menar att det är Son Do som ljuger. Men Spår hittar en annan förklaring.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;Spår träffar Son Do, mannen som är dömd till livstids fängelse för mordet på den 32-åriga kvinnan i Brandkärr 2006. Han nekar alltjämt till brottet. Anton och Martin granskar polisutredningen och hittar märkliga omständigheter kring den rekonstruktion som gjordes när Son Do ville visa att han hade alibi vid mordtillfället.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Dessutom reder Spår ut oklarheter i förhören. Son Do skyller på dåliga tolkar. Polisen menar att det är Son Do som ljuger. Men Spår hittar en annan förklaring.&amp;nbsp;&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>1. Brandkärrsmordet - Mörda en mor inför ett barn</title>
+      <pubDate>Mon, 01 Apr 2019 23:00:00 GMT</pubDate>
+      <itunes:duration>34:58</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/7dd6e1db-b688-4cd5-bad3-a3c137898fff.mp3" length="50359744" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">7dd6e1db-b688-4cd5-bad3-a3c137898fff</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/1.mordaenmorinforettbarn</link>
+      <itunes:subtitle>Brandkärr, Nyköping, 2006. På kvällen den 21 april, en fredag, skjuts en 32-årig kvinna till döds hemma i sitt kök. Mordet verkar vara mycket iskallt utfört. Ett skott från nära håll av en man som inte brytt sig om att maskera sig. Ändå låter mördaren ...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae743.jpg"></itunes:image>
+      <description>&lt;p&gt;&lt;strong&gt;Brandkärr, Nyköping, 2006.&lt;/strong&gt; På kvällen den 21 april, en fredag, skjuts en 32-årig kvinna till döds hemma i sitt kök. Mordet verkar vara mycket iskallt utfört. Ett skott från nära håll av en man som inte brytt sig om att maskera sig. Ändå låter mördaren det enda vittnet till mordet överleva. Och det är här fallet sticker ut från andra mord: Allting verkar ha skett inför ögonen på kvinnans son. En sjuårig pojke. Han pekar sedan ut mördaren. Men är det verkligen rätt man som är dömd för mordet?&lt;/p&gt;&lt;br&gt;&lt;p&gt;Spårs granskning av Brandkärrsmordet består av 5 avsnitt, om du lyssnar via Acast-appen kan du välja att betala 29 SEK/månad för att stödja Spårs granskningar. Som tack för att du stödjer Spår så får du tillgång till alla 5 avsnitt direkt!&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;&lt;strong&gt;Brandkärr, Nyköping, 2006.&lt;/strong&gt; På kvällen den 21 april, en fredag, skjuts en 32-årig kvinna till döds hemma i sitt kök. Mordet verkar vara mycket iskallt utfört. Ett skott från nära håll av en man som inte brytt sig om att maskera sig. Ändå låter mördaren det enda vittnet till mordet överleva. Och det är här fallet sticker ut från andra mord: Allting verkar ha skett inför ögonen på kvinnans son. En sjuårig pojke. Han pekar sedan ut mördaren. Men är det verkligen rätt man som är dömd för mordet?&lt;/p&gt;&lt;br&gt;&lt;p&gt;Spårs granskning av Brandkärrsmordet består av 5 avsnitt, om du lyssnar via Acast-appen kan du välja att betala 29 SEK/månad för att stödja Spårs granskningar. Som tack för att du stödjer Spår så får du tillgång till alla 5 avsnitt direkt!&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Trailer Brandkärrsmordet - Premiär 2 april</title>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 GMT</pubDate>
+      <itunes:duration>3:30</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/3a86df37-de3d-4e10-a653-c3d07318d0f8.mp3" length="5044672" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">3a86df37-de3d-4e10-a653-c3d07318d0f8</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/trailerbrandkarrsmordet-premiar2april</link>
+      <itunes:subtitle>Säsong 7</itunes:subtitle>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>7</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae74a.jpg"></itunes:image>
+      <description>Säsong 7&lt;br /&gt;</description>
+      <itunes:summary>Säsong 7&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>5. Förlösamordet – Sara och en intressant icke misstänkt</title>
+      <pubDate>Tue, 28 Nov 2017 00:24:42 GMT</pubDate>
+      <itunes:duration>1:23:09</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/1d4fb0da-3246-4eb0-8b67-ee7d0cb9cf33.mp3" length="119763136" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">1d4fb0da-3246-4eb0-8b67-ee7d0cb9cf33</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/5.forlosamordet-saraochenintressantickemisstankt</link>
+      <itunes:subtitle>I sista avsnittet åker Spår till Ystads anstalt och träffar Sara Lundblad. Intervjun får en märklig start, men till slut svarar Sara på frågorna om sin inblandning i mordet på sin egen pappa.Polisen medger nu för Spår att personen som Martin Törnblad ...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae74f.jpg"></itunes:image>
+      <description>&lt;p&gt;I sista avsnittet åker Spår till Ystads anstalt och träffar Sara Lundblad. Intervjun får en märklig start, men till slut svarar Sara på frågorna om sin inblandning i mordet på sin egen pappa.&lt;/p&gt;&lt;p&gt;Polisen medger nu för Spår att personen som Martin Törnblad pekar ut som mördaren, “Skytten”, varit intressant under hela utredningen. Ändå har man beslutat att aldrig förhöra personen som misstänkt.&lt;/p&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;p&gt;I sista avsnittet åker Spår till Ystads anstalt och träffar Sara Lundblad. Intervjun får en märklig start, men till slut svarar Sara på frågorna om sin inblandning i mordet på sin egen pappa.&lt;/p&gt;&lt;p&gt;Polisen medger nu för Spår att personen som Martin Törnblad pekar ut som mördaren, “Skytten”, varit intressant under hela utredningen. Ändå har man beslutat att aldrig förhöra personen som misstänkt.&lt;/p&gt;&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>4. Förlösamordet - Martins nya version</title>
+      <pubDate>Tue, 21 Nov 2017 00:03:00 GMT</pubDate>
+      <itunes:duration>1:10:05</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/f049dedf-7f97-4382-b77b-e817323abd58.mp3" length="100935424" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">f049dedf-7f97-4382-b77b-e817323abd58</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/4.forlosamordet-martinsnyaversion</link>
+      <itunes:subtitle>Martin Törnblad vill träffa Spår för att berätta hur han menar att mordet på Göran Lundblad verkligen gick till. Han säger att han ska berätta allt. Inför vårt möte får vi all post han skickat och tagit emot under sina tre år i fängelse. Nästan fyra ki...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae756.jpg"></itunes:image>
+      <description>Martin Törnblad vill träffa Spår för att berätta hur han menar att mordet på Göran Lundblad verkligen gick till. Han säger att han ska berätta allt. Inför vårt möte får vi all post han skickat och tagit emot under sina tre år i fängelse. Nästan fyra kilo brev. Flest brev går mellan Martin Törnblad och Therese Tang.&lt;br /&gt;</description>
+      <itunes:summary>Martin Törnblad vill träffa Spår för att berätta hur han menar att mordet på Göran Lundblad verkligen gick till. Han säger att han ska berätta allt. Inför vårt möte får vi all post han skickat och tagit emot under sina tre år i fängelse. Nästan fyra kilo brev. Flest brev går mellan Martin Törnblad och Therese Tang.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>3. Förlösamordet - Tystnaden i rättsalen</title>
+      <pubDate>Tue, 14 Nov 2017 00:01:00 GMT</pubDate>
+      <itunes:duration>1:06:45</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/63cc08da-9408-4ae6-b5b3-35ad1c7f8a83.mp3" length="96146560" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">63cc08da-9408-4ae6-b5b3-35ad1c7f8a83</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/3.forlosamordet-tystnadenirattsalen</link>
+      <itunes:subtitle>När rättegången inleds så vilar åklagaren tungt på Therese Tang vittnesmål. Det är hennes trovärdighet som bygger både domen i tingsrätten och hovrätten. Men även fast man tror på vad Therese Tang berättar så går man aldrig in på djupet i frågan om var...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae75d.jpg"></itunes:image>
+      <description>När rättegången inleds så vilar åklagaren tungt på Therese Tang vittnesmål. Det är hennes trovärdighet som bygger både domen i tingsrätten och hovrätten. Men även fast man tror på vad Therese Tang berättar så går man aldrig in på djupet i frågan om var berättelsen kommer ifrån. Varför erkänner Martin från första början? Själv lämnar han inget svar utan sitter tyst i rättssalen, efter det att han pekat ut en helt ny mördare.&lt;br /&gt;</description>
+      <itunes:summary>När rättegången inleds så vilar åklagaren tungt på Therese Tang vittnesmål. Det är hennes trovärdighet som bygger både domen i tingsrätten och hovrätten. Men även fast man tror på vad Therese Tang berättar så går man aldrig in på djupet i frågan om var berättelsen kommer ifrån. Varför erkänner Martin från första början? Själv lämnar han inget svar utan sitter tyst i rättssalen, efter det att han pekat ut en helt ny mördare.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>2. Förlösamordet - Att locka fram ett erkännande</title>
+      <pubDate>Tue, 07 Nov 2017 00:01:00 GMT</pubDate>
+      <itunes:duration>54:58</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/c2996fea-0fc2-4166-b3a8-f5d8adb89563.mp3" length="79168384" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">c2996fea-0fc2-4166-b3a8-f5d8adb89563</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/forlosamordet-attlockaframetterkannande</link>
+      <itunes:subtitle>Det blir till slut en privatperson som löser fallet med den försvunne Göran Lundblad. Therese Tang, operativ chef för Missing People i Kalmar blir den som lyckas dyrka upp Martin Törnblads hemlighet. Under några intensiva dygn nära midsommar 2014 öppna...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae764.jpg"></itunes:image>
+      <description>Det blir till slut en privatperson som löser fallet med den försvunne Göran Lundblad. Therese Tang, operativ chef för Missing People i Kalmar blir den som lyckas dyrka upp Martin Törnblads hemlighet. Under några intensiva dygn nära midsommar 2014 öppnar sig Martin för Therese och erkänner var kroppen är begravd. Men resten av erkännandet blir omtvistat. Är det verkligen Martin som är den som skjutit Göran?&lt;br /&gt;</description>
+      <itunes:summary>Det blir till slut en privatperson som löser fallet med den försvunne Göran Lundblad. Therese Tang, operativ chef för Missing People i Kalmar blir den som lyckas dyrka upp Martin Törnblads hemlighet. Under några intensiva dygn nära midsommar 2014 öppnar sig Martin för Therese och erkänner var kroppen är begravd. Men resten av erkännandet blir omtvistat. Är det verkligen Martin som är den som skjutit Göran?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>1. Förlösamordet - Mångmiljonären som försvann</title>
+      <pubDate>Tue, 31 Oct 2017 00:01:00 GMT</pubDate>
+      <itunes:duration>33:54</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/c5b9d050-b8e4-4fba-ba62-414f3c55f887.mp3" length="33674793" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">c5b9d050-b8e4-4fba-ba62-414f3c55f887</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/forlosamordet-mangmiljonarensomforsvann</link>
+      <itunes:subtitle>En dag i augusti 2012 försvinner plötsligt mångmiljonären och lantbrukaren Göran Lundblad från sin gård i den lilla byn Norra Förlösa, norr om Kalmar. Kvar finns hans dotter Sara Lundblad, 24 år gammal och hennes pojkvän Martin Törnblad, 21 år gammal. ...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>6</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae76b.jpg"></itunes:image>
+      <description>En dag i augusti 2012 försvinner plötsligt mångmiljonären och lantbrukaren Göran Lundblad från sin gård i den lilla byn Norra Förlösa, norr om Kalmar. Kvar finns hans dotter Sara Lundblad, 24 år gammal och hennes pojkvän Martin Törnblad, 21 år gammal. De har växt upp bredvid varandra, på granngårdarna och de har bestämt sig för att ignorera den gamla släktfejden mellan de båda familjerna. De är kära och de vill ha en framtid tillsammans. Men polisen och Saras lillasyster Maria fattar snart misstankar, något står inte rätt till. Är Sara och Martin inblandade i Görans försvinnande?&lt;br /&gt;</description>
+      <itunes:summary>En dag i augusti 2012 försvinner plötsligt mångmiljonären och lantbrukaren Göran Lundblad från sin gård i den lilla byn Norra Förlösa, norr om Kalmar. Kvar finns hans dotter Sara Lundblad, 24 år gammal och hennes pojkvän Martin Törnblad, 21 år gammal. De har växt upp bredvid varandra, på granngårdarna och de har bestämt sig för att ignorera den gamla släktfejden mellan de båda familjerna. De är kära och de vill ha en framtid tillsammans. Men polisen och Saras lillasyster Maria fattar snart misstankar, något står inte rätt till. Är Sara och Martin inblandade i Görans försvinnande?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Trailer Förlösamordet - Premiär 31 oktober</title>
+      <pubDate>Wed, 25 Oct 2017 23:06:00 GMT</pubDate>
+      <itunes:duration>4:06</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/227c4489-63d7-4770-b34b-3bbd987085ea.mp3" length="5059211" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">227c4489-63d7-4770-b34b-3bbd987085ea</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/trailerforlosamordet-premiar31oktober</link>
+      <itunes:subtitle>Säsong 6</itunes:subtitle>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>6</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae772.jpg"></itunes:image>
+      <description>Säsong 6&lt;br /&gt;</description>
+      <itunes:summary>Säsong 6&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Kalamarksmordet:  Hela historien på 60 minuter</title>
+      <pubDate>Mon, 10 Jul 2017 08:45:00 GMT</pubDate>
+      <itunes:duration>59:59</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/a9e60922-63a0-47e9-8300-bef38acdfcb5.mp3" length="59189525" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">a9e60922-63a0-47e9-8300-bef38acdfcb5</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kalamarksmordet-helahistorienpa60minuter</link>
+      <itunes:subtitle>I tretton års tid satt Kaj Linna inspärrad i fängelse. Dömd för ett rånmord han envist hävdade han var oskyldig till. I maj 2015 började Spår vår undersökning och granskning av fallet. Det blev totalt 8 avsnitt under drygt två års tid. Till slut bidrog...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae777.jpg"></itunes:image>
+      <description>I tretton års tid satt Kaj Linna inspärrad i fängelse. Dömd för ett rånmord han envist hävdade han var oskyldig till. I maj 2015 började Spår vår undersökning och granskning av fallet. Det blev totalt 8 avsnitt under drygt två års tid. Till slut bidrog framförallt vår intervju med vittnet “Nils” till att Kaj Linna beviljades resning i slutet av 2016. Den 15:e juni 2017 frikände Hovrätten Kaj Linna helt från alla mordanklagelser. Detta är en sammanfattning av Spårs 8 avsnitt långa första säsong. Hela historien på 60 minuter. Nu vet vi vad som var viktigt och vad som till slut avgjorde. Det här är historien om hur en podcast spelade en avgörande roll när nu Kaj Linna åter är fri man igen.&lt;br /&gt;</description>
+      <itunes:summary>I tretton års tid satt Kaj Linna inspärrad i fängelse. Dömd för ett rånmord han envist hävdade han var oskyldig till. I maj 2015 började Spår vår undersökning och granskning av fallet. Det blev totalt 8 avsnitt under drygt två års tid. Till slut bidrog framförallt vår intervju med vittnet “Nils” till att Kaj Linna beviljades resning i slutet av 2016. Den 15:e juni 2017 frikände Hovrätten Kaj Linna helt från alla mordanklagelser. Detta är en sammanfattning av Spårs 8 avsnitt långa första säsong. Hela historien på 60 minuter. Nu vet vi vad som var viktigt och vad som till slut avgjorde. Det här är historien om hur en podcast spelade en avgörande roll när nu Kaj Linna åter är fri man igen.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>5. Sprängningen av Fontainebleau - Den hemliga avlyssningen</title>
+      <pubDate>Mon, 03 Jul 2017 23:01:00 GMT</pubDate>
+      <itunes:duration>1:02:57</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/4cd6ae36-bce2-4b24-80e8-199c447bdd54.mp3" length="61555526" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">4cd6ae36-bce2-4b24-80e8-199c447bdd54</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/5.sprangningenavfontainebleau-denhemligaavlyssningen</link>
+      <itunes:subtitle>Polisen spelade in det avgörande samtalet redan 1983 kort efter att de två ägarna släppts. Det tog två år innan polisen lyckades fastställa att de två ägarna sagt över telefon att &quot;då måste VI ta&amp;nbsp;och spränga upp hela fan igen&quot;. Det k...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae77e.jpg"></itunes:image>
+      <description>Polisen spelade in det avgörande samtalet redan 1983 kort efter att de två ägarna släppts. Det tog två år innan polisen lyckades fastställa att de två ägarna sagt över telefon att &quot;då måste VI ta och spränga upp hela fan igen&quot;. Det kom att bli Skandias viktigaste bevis i civilrättsprocessen mot de två ägarna. Spår har fått ut samtalet och låter en av Sveriges skickligaste ljudtekniker bearbeta filen. Stämmer det verkligen det polisen sa? Var de två ägarna skyldiga?&lt;br /&gt;</description>
+      <itunes:summary>Polisen spelade in det avgörande samtalet redan 1983 kort efter att de två ägarna släppts. Det tog två år innan polisen lyckades fastställa att de två ägarna sagt över telefon att &quot;då måste VI ta och spränga upp hela fan igen&quot;. Det kom att bli Skandias viktigaste bevis i civilrättsprocessen mot de två ägarna. Spår har fått ut samtalet och låter en av Sveriges skickligaste ljudtekniker bearbeta filen. Stämmer det verkligen det polisen sa? Var de två ägarna skyldiga?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>4. Sprängningen av Fontainebleau - Konsten att stämma en försäkringsjätte</title>
+      <pubDate>Mon, 26 Jun 2017 23:00:00 GMT</pubDate>
+      <itunes:duration>48:58</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/30f9de33-2c91-48e9-8f7d-3932742616cd.mp3" length="48128164" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">30f9de33-2c91-48e9-8f7d-3932742616cd</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/4.sprangningenavfontainebleau-konstenattstammaenforsakringsjatte</link>
+      <itunes:subtitle>Historien kunde ha stannat här. Blivit bortglömd. Om än olöst. Men så blir det inte. Leif Silbersky bes...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae785.jpg"></itunes:image>
+      <description>Historien kunde ha stannat här. Blivit bortglömd. Om än olöst. Men så blir det inte. Leif Silbersky bestämmer sig för att stämma Skandia och i en snårig rättegångsprocess som kommer att pågå under flera år försöker Skandia lyckas med det som både polis och åklagare misslyckats med. Att binda de två ägarna till bomben. Samtidigt som Ingmar Arbro och Conrad Öberg kämpar för att peka ut en alternativ gärningsman. Och alla medel verkar vara tillåtna.&lt;br /&gt;</description>
+      <itunes:summary>Historien kunde ha stannat här. Blivit bortglömd. Om än olöst. Men så blir det inte. Leif Silbersky bestämmer sig för att stämma Skandia och i en snårig rättegångsprocess som kommer att pågå under flera år försöker Skandia lyckas med det som både polis och åklagare misslyckats med. Att binda de två ägarna till bomben. Samtidigt som Ingmar Arbro och Conrad Öberg kämpar för att peka ut en alternativ gärningsman. Och alla medel verkar vara tillåtna.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>3. Sprängningen av Fontainebleau - Härvan växer</title>
+      <pubDate>Mon, 19 Jun 2017 23:00:00 GMT</pubDate>
+      <itunes:duration>51:03</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/f7a92f58-b8a4-4ce1-aede-6b18f2cf9306.mp3" length="50130681" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">f7a92f58-b8a4-4ce1-aede-6b18f2cf9306</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/3.sprangningenavfontainebleau-harvanvaxer</link>
+      <itunes:subtitle>Ju längre polisutredningen pågår desto svårare får åklagaren att binda de två ägarna Conrad Öberg och Ingemar Arbro till sprängningen. Motivet är dessutom oklart. Varför spränga sin egen restaurang? Men när polisen istället får ett genombrott handlar d...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae78c.jpg"></itunes:image>
+      <description>Ju längre polisutredningen pågår desto svårare får åklagaren att binda de två ägarna Conrad Öberg och Ingemar Arbro till sprängningen. Motivet är dessutom oklart. Varför spränga sin egen restaurang? Men när polisen istället får ett genombrott handlar det om branden 4 månader tidigare. Kan det kanske vara samma gärningsman som först försökte bränna ner Fontainebleau - som sen sprängde allt i luften?&lt;br /&gt;</description>
+      <itunes:summary>Ju längre polisutredningen pågår desto svårare får åklagaren att binda de två ägarna Conrad Öberg och Ingemar Arbro till sprängningen. Motivet är dessutom oklart. Varför spränga sin egen restaurang? Men när polisen istället får ett genombrott handlar det om branden 4 månader tidigare. Kan det kanske vara samma gärningsman som först försökte bränna ner Fontainebleau - som sen sprängde allt i luften?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Kalamarksmordet: Världens friaste livstidsfånge - del 2/2</title>
+      <pubDate>Thu, 15 Jun 2017 16:10:00 GMT</pubDate>
+      <itunes:duration>52:41</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/d395b999-29b8-4a76-af51-5c184f1a53aa.mp3" length="50583758" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">d395b999-29b8-4a76-af51-5c184f1a53aa</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kalamarksmordet-varldensfriastelivstidsfange-del2</link>
+      <itunes:subtitle>Torsdag 15 juni 2017 friades Kaj Linna för mordet i Kalamark 13 år tidigare. Aldrig förr har en person suttit så länge i ett svenskt fängelse för ett brott han inte begått. Spår släpper nu ett extra avsnitt där vi träffar Kaj Linna i friheten. Vi gör ...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae793.jpg"></itunes:image>
+      <description>Torsdag 15 juni 2017 friades Kaj Linna för mordet i Kalamark 13 år tidigare. Aldrig förr har en person suttit så länge i ett svenskt fängelse för ett brott han inte begått. Spår släpper nu ett extra avsnitt där vi träffar Kaj Linna i friheten. Vi gör en analys av domstolsförhandlingarna och vad som sades där, ni får höra förhör och så berättar hovrättspresident Margareta Bergström hur man resonerat när man nu friar Kaj Linna. Dessutom får ni höra när Kaj Linna träffar sin familj och hans första simtur på 13 år.&lt;br /&gt;</description>
+      <itunes:summary>Torsdag 15 juni 2017 friades Kaj Linna för mordet i Kalamark 13 år tidigare. Aldrig förr har en person suttit så länge i ett svenskt fängelse för ett brott han inte begått. Spår släpper nu ett extra avsnitt där vi träffar Kaj Linna i friheten. Vi gör en analys av domstolsförhandlingarna och vad som sades där, ni får höra förhör och så berättar hovrättspresident Margareta Bergström hur man resonerat när man nu friar Kaj Linna. Dessutom får ni höra när Kaj Linna träffar sin familj och hans första simtur på 13 år.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>2. Sprängningen av Fontainebleau - Spåren på kontoret</title>
+      <pubDate>Mon, 12 Jun 2017 23:00:00 GMT</pubDate>
+      <itunes:duration>33:19</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/e9101d3a-154f-4dfb-9b51-9f4324437253.mp3" length="33108804" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">e9101d3a-154f-4dfb-9b51-9f4324437253</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/2.sprangningenavfontainebleau-sparenpakontoret</link>
+      <itunes:subtitle>Bara några dagar efter sprängningen skiftar fokus för polisen. Utanför de två ägarnas kontor hittas en plastsäck med sprängmedelsförpackningar. Och på kontoret hittar man rester av sprängmedel. Och de grips. Åklagaren Lennart Ekstrand begär dem häktade...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae79a.jpg"></itunes:image>
+      <description>Bara några dagar efter sprängningen skiftar fokus för polisen. Utanför de två ägarnas kontor hittas en plastsäck med sprängmedelsförpackningar. Och på kontoret hittar man rester av sprängmedel. Och de grips. Åklagaren Lennart Ekstrand begär dem häktade. Men eftersom ingen dömts för sprängningen råder fortfarande sekretess kring utredningen och Spår beger sig ut på jakt efter de två ägarna. Är de ens i livet?&lt;br /&gt;</description>
+      <itunes:summary>Bara några dagar efter sprängningen skiftar fokus för polisen. Utanför de två ägarnas kontor hittas en plastsäck med sprängmedelsförpackningar. Och på kontoret hittar man rester av sprängmedel. Och de grips. Åklagaren Lennart Ekstrand begär dem häktade. Men eftersom ingen dömts för sprängningen råder fortfarande sekretess kring utredningen och Spår beger sig ut på jakt efter de två ägarna. Är de ens i livet?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>1. Sprängningen av Fontainebleau - En känslig historia</title>
+      <pubDate>Mon, 05 Jun 2017 23:00:00 GMT</pubDate>
+      <itunes:duration>35:44</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/9978b4a6-f275-4d4e-a428-502c72efec4b.mp3" length="35421031" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">9978b4a6-f275-4d4e-a428-502c72efec4b</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/1.sprangningenavfontainebleau-enkanslighistoria</link>
+      <itunes:subtitle>När nattklubben och restaurangen Fontainebleau sprängs tidigt på morgonen nyårsafton 1982 börjar en historia som än idag inte fått ett tillfredställande slut. Spår får tips från flera håll, men det är TV-kocken och krögaren Niklas Ekstedt som till slut...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7a1.jpg"></itunes:image>
+      <description>När nattklubben och restaurangen Fontainebleau sprängs tidigt på morgonen nyårsafton 1982 börjar en historia som än idag inte fått ett tillfredställande slut. Spår får tips från flera håll, men det är TV-kocken och krögaren Niklas Ekstedt som till slut får oss att börja granska fallet. Det är något märkligt med åklagarens roll. Och ägarna? De försvann från krogbranschen helt efteråt. Varför? Dessutom får vi en varning. Fallet är tydligen fortfarande känsligt.&lt;br /&gt;</description>
+      <itunes:summary>När nattklubben och restaurangen Fontainebleau sprängs tidigt på morgonen nyårsafton 1982 börjar en historia som än idag inte fått ett tillfredställande slut. Spår får tips från flera håll, men det är TV-kocken och krögaren Niklas Ekstedt som till slut får oss att börja granska fallet. Det är något märkligt med åklagarens roll. Och ägarna? De försvann från krogbranschen helt efteråt. Varför? Dessutom får vi en varning. Fallet är tydligen fortfarande känsligt.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Kalamarksmordet: Den nya rättegången - del 1/2</title>
+      <pubDate>Tue, 30 May 2017 13:08:00 GMT</pubDate>
+      <itunes:duration>38:35</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/85861878-4c6c-42cc-8710-de81e9065027.mp3" length="37056080" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">85861878-4c6c-42cc-8710-de81e9065027</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kalamarksmordet-dennyarattegangen</link>
+      <itunes:subtitle>Tretton år efter det grymma våldsdådet i Kalamark där Roger Lindberg mördades och hans bror Sune Lindberg attackerades av en maskerad gärningsman tar man nu om hovrättsförhandl...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7a8.jpg"></itunes:image>
+      <description>&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px;&quot;&gt;Tretton år efter det grymma våldsdådet i Kalamark där Roger Lindberg mördades och hans bror Sune Lindberg attackerades av en maskerad gärningsman tar man nu om hovrättsförhandlingarna. Mannen som är dömd för brottet, Kaj Linna, har beviljats en mycket sällsynt resning. Högsta Domstolen anser att det råder så stora oklarheter kring trovärdigheten hos huvudvittnet att man anser att rättegången ska tas om. I det här specialavsnittet av Spår får ni höra om den nya rättegången och de dolda telefonavlyssningar som polisen gjort med huvudvittnet. Mannen vi kallar Nils. Ännu en gång ska hans historia och utpekande granskas. Frågan är om hans trovärdighet är körd i botten - eller om den räcker för att återigen få Kaj Linna fälld trots avsaknad av teknisk bevisning.&lt;/span&gt;&lt;br /&gt;</description>
+      <itunes:summary>&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px;&quot;&gt;Tretton år efter det grymma våldsdådet i Kalamark där Roger Lindberg mördades och hans bror Sune Lindberg attackerades av en maskerad gärningsman tar man nu om hovrättsförhandlingarna. Mannen som är dömd för brottet, Kaj Linna, har beviljats en mycket sällsynt resning. Högsta Domstolen anser att det råder så stora oklarheter kring trovärdigheten hos huvudvittnet att man anser att rättegången ska tas om. I det här specialavsnittet av Spår får ni höra om den nya rättegången och de dolda telefonavlyssningar som polisen gjort med huvudvittnet. Mannen vi kallar Nils. Ännu en gång ska hans historia och utpekande granskas. Frågan är om hans trovärdighet är körd i botten - eller om den räcker för att återigen få Kaj Linna fälld trots avsaknad av teknisk bevisning.&lt;/span&gt;&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Trailer Sprängningen av Fontainebleau - Premiär 6 juni</title>
+      <pubDate>Wed, 24 May 2017 00:00:00 GMT</pubDate>
+      <itunes:duration>3:40</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/0779b3dc-9c82-4e30-9cba-9fdf35f124fe.mp3" length="3526566" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">0779b3dc-9c82-4e30-9cba-9fdf35f124fe</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/trailersprangningenavfontainebleau-premiar6juni</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7af.jpg"></itunes:image>
+      <description>Spår&lt;br /&gt;</description>
+      <itunes:summary>Spår&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Kaj Linna beviljas resning</title>
+      <pubDate>Fri, 13 Jan 2017 05:00:00 GMT</pubDate>
+      <itunes:duration>39:53</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/c0dbe406-f887-47db-ae80-54521134865d.mp3" length="40455320" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">c0dbe406-f887-47db-ae80-54521134865d</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kajlinnabeviljasresning</link>
+      <itunes:subtitle>Efter tolv och ett halvt år i fängelse, dömd för ett mord han hela tiden nekar till att ha utfört, beviljas Kaj Linna resning den 29 december 2016. Därför gör vi ett extra avsnitt av Spår om mordet i Kalamark. Spårs granskning har nämligen lett till...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7b4.jpg"></itunes:image>
+      <description>Efter tolv och ett halvt år i fängelse, dömd för ett mord han hela tiden nekar till att ha utfört, beviljas Kaj Linna resning den 29 december 2016. Därför gör vi ett extra avsnitt av Spår om mordet i Kalamark. Spårs granskning har nämligen lett till att Högsta Domstolen fattar sitt beslut. I den intervju med huvudvittnet “Nils” som Spår gör nämner han detaljer som HD hänger upp sitt beslut på. “Avgörande” säger Kaj Linna själv, och nu räknar han med att släppas fri. Men vad ska han göra då?&lt;br /&gt;</description>
+      <itunes:summary>Efter tolv och ett halvt år i fängelse, dömd för ett mord han hela tiden nekar till att ha utfört, beviljas Kaj Linna resning den 29 december 2016. Därför gör vi ett extra avsnitt av Spår om mordet i Kalamark. Spårs granskning har nämligen lett till att Högsta Domstolen fattar sitt beslut. I den intervju med huvudvittnet “Nils” som Spår gör nämner han detaljer som HD hänger upp sitt beslut på. “Avgörande” säger Kaj Linna själv, och nu räknar han med att släppas fri. Men vad ska han göra då?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>5. Raggarmordet -  Förhören är nyckeln</title>
+      <pubDate>Tue, 29 Nov 2016 05:00:00 GMT</pubDate>
+      <itunes:duration>1:14:59</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/004d5f3c-69f0-44d6-b5de-3a0aa667a5c6.mp3" length="73107560" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">004d5f3c-69f0-44d6-b5de-3a0aa667a5c6</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/5.raggarmordet-forhorenarnyckeln</link>
+      <itunes:subtitle>I sista avsnittet återvänder vi till de polisförhör vi grävt fram från Malmö Stadsarkiv. Här gömmer sig den stora förklaringen. Vi visar vad som hänt och hur den forskning som idag är relevant kan sprida ett nytt ljus på det gamla fallet. Och så...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7bb.jpg"></itunes:image>
+      <description>I sista avsnittet återvänder vi till de polisförhör vi grävt fram från Malmö Stadsarkiv. Här gömmer sig den stora förklaringen. Vi visar vad som hänt och hur den forskning som idag är relevant kan sprida ett nytt ljus på det gamla fallet. Och så ställer till slut göteborgsraggaren Janne upp på intervju. Fanns det en kropp i den rosa Cadillacen eller inte? Allra sist: ett nytt hopp tänds för Rolle.&lt;br /&gt;</description>
+      <itunes:summary>I sista avsnittet återvänder vi till de polisförhör vi grävt fram från Malmö Stadsarkiv. Här gömmer sig den stora förklaringen. Vi visar vad som hänt och hur den forskning som idag är relevant kan sprida ett nytt ljus på det gamla fallet. Och så ställer till slut göteborgsraggaren Janne upp på intervju. Fanns det en kropp i den rosa Cadillacen eller inte? Allra sist: ett nytt hopp tänds för Rolle.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>4. Raggarmordet - Råstams sju pärmar</title>
+      <pubDate>Tue, 22 Nov 2016 05:00:00 GMT</pubDate>
+      <itunes:duration>56:21</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/a00ea3d2-3c32-4e48-9ca2-8857ac0c08a5.mp3" length="55974992" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">a00ea3d2-3c32-4e48-9ca2-8857ac0c08a5</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/4.raggarmordet-rastamssjuparmar</link>
+      <itunes:subtitle>Spår har läst de 7 pärmar som journalisten Hannes Råstam haft på sitt kontor på SVT. Vad byggde han sin misstro på, den som sa att Jan Guillou kan ha haft fel, att Keith Cederholm kanske ändå inte var oskyldig? Vi pratar också med Bo Göranssons familj,...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7c2.jpg"></itunes:image>
+      <description>Spår har läst de 7 pärmar som journalisten Hannes Råstam haft på sitt kontor på SVT. Vad byggde han sin misstro på, den som sa att Jan Guillou kan ha haft fel, att Keith Cederholm kanske ändå inte var oskyldig? Vi pratar också med Bo Göranssons familj, hans bror och syster. När Bo försvann blev det &quot;som att öppna dörren till djävulens grotta” enligt brodern Mats Göransson.&lt;br /&gt;</description>
+      <itunes:summary>Spår har läst de 7 pärmar som journalisten Hannes Råstam haft på sitt kontor på SVT. Vad byggde han sin misstro på, den som sa att Jan Guillou kan ha haft fel, att Keith Cederholm kanske ändå inte var oskyldig? Vi pratar också med Bo Göranssons familj, hans bror och syster. När Bo försvann blev det &quot;som att öppna dörren till djävulens grotta” enligt brodern Mats Göransson.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Mini EP 2 - Raggarmordet - Att minnas ett namn</title>
+      <pubDate>Mon, 14 Nov 2016 23:05:00 GMT</pubDate>
+      <itunes:duration>6:35</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/8e5b8790-7810-440e-92bd-0ff4ac750958.mp3" length="6321449" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">8e5b8790-7810-440e-92bd-0ff4ac750958</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/miniep2-raggarmordet-attminnasettnamn</link>
+      <itunes:subtitle>Redan 1983 fanns teorin om att offret Bo Göransson åkt från Malmö till Helsingborg i en annan bil och under en annan kväll. Fortfarande idag hävdar Rick och Rolle att de pratat med en medfånge när de satt i fängelse som påstår sig ha kört Göransson...</itunes:subtitle>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7c9.jpg"></itunes:image>
+      <description>Redan 1983 fanns teorin om att offret Bo Göransson åkt från Malmö till Helsingborg i en annan bil och under en annan kväll. Fortfarande idag hävdar Rick och Rolle att de pratat med en medfånge när de satt i fängelse som påstår sig ha kört Göransson redan på fredagen. Kan den här personen kanske vittna om detta nu, när brottet är preskriberat? Men frågan är också - vad hette nu personen?&lt;br /&gt;</description>
+      <itunes:summary>Redan 1983 fanns teorin om att offret Bo Göransson åkt från Malmö till Helsingborg i en annan bil och under en annan kväll. Fortfarande idag hävdar Rick och Rolle att de pratat med en medfånge när de satt i fängelse som påstår sig ha kört Göransson redan på fredagen. Kan den här personen kanske vittna om detta nu, när brottet är preskriberat? Men frågan är också - vad hette nu personen?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Mini EP 1 - Raggarmordet - Var kom de 7 pärmarna från?</title>
+      <pubDate>Mon, 07 Nov 2016 23:05:00 GMT</pubDate>
+      <itunes:duration>7:56</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/008a732b-6a25-41bf-adea-d398ea2f14c9.mp3" length="7632179" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">008a732b-6a25-41bf-adea-d398ea2f14c9</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/miniep1-raggarmordet-varkomde7parmarnafran</link>
+      <itunes:subtitle>Medan vi arbetar på med att läsa innehållet i de 7 pärmarna som kommer från Hannes Råstams kontor får vi reda på vem som från början satt materialet i Råstams händer. Dessutom får vi tag i två mammor som tvingats följa händelserna från två helt olika...</itunes:subtitle>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7ce.jpg"></itunes:image>
+      <description>Medan vi arbetar på med att läsa innehållet i de 7 pärmarna som kommer från Hannes Råstams kontor får vi reda på vem som från början satt materialet i Råstams händer. Dessutom får vi tag i två mammor som tvingats följa händelserna från två helt olika håll.&lt;br /&gt;</description>
+      <itunes:summary>Medan vi arbetar på med att läsa innehållet i de 7 pärmarna som kommer från Hannes Råstams kontor får vi reda på vem som från början satt materialet i Råstams händer. Dessutom får vi tag i två mammor som tvingats följa händelserna från två helt olika håll.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>3. Raggarmordet - Tunga tvivel</title>
+      <pubDate>Mon, 31 Oct 2016 23:05:00 GMT</pubDate>
+      <itunes:duration>50:20</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/e3c27c61-0112-409e-bebc-2471caa73fa3.mp3" length="49443118" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">e3c27c61-0112-409e-bebc-2471caa73fa3</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/3.raggarmordet-tungatvivel</link>
+      <itunes:subtitle>Dags för detaljnivå. Rick, Rolle och Jeppsson berättar om hur förhören gick till. Hur de nekades ett rättvist försvar. En gammal advokat visar på nytt samma arrogans. Bilden klarnar. Men så får vi tag i raggarna från Göteborg. Och saken blir...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7d3.jpg"></itunes:image>
+      <description>Dags för detaljnivå. Rick, Rolle och Jeppsson berättar om hur förhören gick till. Hur de nekades ett rättvist försvar. En gammal advokat visar på nytt samma arrogans. Bilden klarnar. Men så får vi tag i raggarna från Göteborg. Och saken blir komplicerad. Grävande journalisten Hannes Råstam har också varit intresserad av fallet. Spår får låna Råstams sju pärmar. De ska innehålla en sensation.&lt;br /&gt;</description>
+      <itunes:summary>Dags för detaljnivå. Rick, Rolle och Jeppsson berättar om hur förhören gick till. Hur de nekades ett rättvist försvar. En gammal advokat visar på nytt samma arrogans. Bilden klarnar. Men så får vi tag i raggarna från Göteborg. Och saken blir komplicerad. Grävande journalisten Hannes Råstam har också varit intresserad av fallet. Spår får låna Råstams sju pärmar. De ska innehålla en sensation.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>2. Raggarmordet - Röster ur det förflutna</title>
+      <pubDate>Mon, 24 Oct 2016 22:05:00 GMT</pubDate>
+      <itunes:duration>46:06</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/2a92b283-1a75-4ad8-8396-499c641de0d9.mp3" length="45383076" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">2a92b283-1a75-4ad8-8396-499c641de0d9</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/2.raggarmordet-rosterurdetforflutna</link>
+      <itunes:subtitle>Spår får kontakt med raggarna från 1979. En titt i arkiven ger oss en gammal förundersökning som någon sparat trots alla bestämmelser om att den bör förstöras. Dessutom 60 kassettband från polisen. Går det fortfarande att höra hur förhören gick till?...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7da.jpg"></itunes:image>
+      <description>Spår får kontakt med raggarna från 1979. En titt i arkiven ger oss en gammal förundersökning som någon sparat trots alla bestämmelser om att den bör förstöras. Dessutom 60 kassettband från polisen. Går det fortfarande att höra hur förhören gick till? En resa till Helsingborg blir till en road trip i en Hells Angels-bil och slutar med att vänner som delade cell återses för första gången på 30 år.&lt;br /&gt;</description>
+      <itunes:summary>Spår får kontakt med raggarna från 1979. En titt i arkiven ger oss en gammal förundersökning som någon sparat trots alla bestämmelser om att den bör förstöras. Dessutom 60 kassettband från polisen. Går det fortfarande att höra hur förhören gick till? En resa till Helsingborg blir till en road trip i en Hells Angels-bil och slutar med att vänner som delade cell återses för första gången på 30 år.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>1. Raggarmordet - Vända upp himmel och jord</title>
+      <pubDate>Mon, 17 Oct 2016 22:05:00 GMT</pubDate>
+      <itunes:duration>40:34</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/8e0b4c91-572b-4f4d-8d21-18d1563deaba.mp3" length="40069562" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">8e0b4c91-572b-4f4d-8d21-18d1563deaba</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/1.raggarmordet-vandaupphimmelochjord</link>
+      <itunes:subtitle>Jan Guillou lyckades med en journalistisk bragd när hans undersökningar ledde till att Keith Cederholm friades från det så kallade Raggarmordet. Spår börjar hemma hos Guillou för att få höra hur allt började. Varför blev hans granskning så kritiserad...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7e1.jpg"></itunes:image>
+      <description>Jan Guillou lyckades med en journalistisk bragd när hans undersökningar ledde till att Keith Cederholm friades från det så kallade Raggarmordet. Spår börjar hemma hos Guillou för att få höra hur allt började. Varför blev hans granskning så kritiserad av andra journalister? Och hur kan det komma sig att Guillou fortfarande är så säker på att ingen av de dömda var skyldiga överhuvudtaget?&lt;br /&gt;</description>
+      <itunes:summary>Jan Guillou lyckades med en journalistisk bragd när hans undersökningar ledde till att Keith Cederholm friades från det så kallade Raggarmordet. Spår börjar hemma hos Guillou för att få höra hur allt började. Varför blev hans granskning så kritiserad av andra journalister? Och hur kan det komma sig att Guillou fortfarande är så säker på att ingen av de dömda var skyldiga överhuvudtaget?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Trailer Raggarmordet - Premiär 18 oktober</title>
+      <pubDate>Mon, 10 Oct 2016 08:05:00 GMT</pubDate>
+      <itunes:duration>4:17</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/6ec5bc73-ba64-4eca-a91f-00220921f5e4.mp3" length="4116293" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">6ec5bc73-ba64-4eca-a91f-00220921f5e4</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/trailerraggarmordet-premiar18oktober</link>
+      <itunes:subtitle>Spår är tillbaka med en fjärde säsong. Premiär tisdag 18 oktober. Följ oss på #raggarmordet</itunes:subtitle>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7e8.jpg"></itunes:image>
+      <description>Spår är tillbaka med en fjärde säsong. Premiär tisdag 18 oktober. Följ oss på #raggarmordet&lt;br /&gt;</description>
+      <itunes:summary>Spår är tillbaka med en fjärde säsong. Premiär tisdag 18 oktober. Följ oss på #raggarmordet&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>6. Operation Playa - 100-miljoners-rättegången</title>
+      <pubDate>Mon, 18 Apr 2016 22:10:00 GMT</pubDate>
+      <itunes:duration>1:14:05</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/87f0f068-2832-4810-882d-35df5323a3b4.mp3" length="72241504" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">87f0f068-2832-4810-882d-35df5323a3b4</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/6.operationplaya-100-miljoners-rattegangen</link>
+      <itunes:subtitle>Det kommer dröja nästan 1,5 år efter att alla de misstänkta grips, innan rättegångarna påbörjas i april 2012. Och det kommer att bli Sveriges mest kostsamma internationella kokainfall genom tiderna. Men redan från början upplever försvarsadvokaterna...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7ed.jpg"></itunes:image>
+      <description>Det kommer dröja nästan 1,5 år efter att alla de misstänkta grips, innan rättegångarna påbörjas i april 2012. Och det kommer att bli Sveriges mest kostsamma internationella kokainfall genom tiderna. Men redan från början upplever försvarsadvokaterna att någonting inte stämmer - är bevisningen som läggs fram korrekt? Och saknas det inte material?&lt;br /&gt;</description>
+      <itunes:summary>Det kommer dröja nästan 1,5 år efter att alla de misstänkta grips, innan rättegångarna påbörjas i april 2012. Och det kommer att bli Sveriges mest kostsamma internationella kokainfall genom tiderna. Men redan från början upplever försvarsadvokaterna att någonting inte stämmer - är bevisningen som läggs fram korrekt? Och saknas det inte material?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>5. Operation Playa - Kodspråk</title>
+      <pubDate>Mon, 11 Apr 2016 22:10:00 GMT</pubDate>
+      <itunes:duration>58:03</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/98c1f105-d36e-425d-a6ad-b0ef8073dc7e.mp3" length="56852664" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">98c1f105-d36e-425d-a6ad-b0ef8073dc7e</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/5.operationplaya-kodsprak</link>
+      <itunes:subtitle>Det kommer att bli det största beslaget av kokain någonsin taget av den franska tullen. 1.2 ton kokain. 15 dagar efter att Mauritz Andersson grips så sker något av det mest omstridda i hela operation Playa - beslaget av nio kilo kokain ombord på båten...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7f4.jpg"></itunes:image>
+      <description>Det kommer att bli det största beslaget av kokain någonsin taget av den franska tullen. 1.2 ton kokain. 15 dagar efter att Mauritz Andersson grips så sker något av det mest omstridda i hela Operation Playa - beslaget av nio kilo kokain ombord på båten Gloria, i Göteborg. Mycket pekar på att kokainet har blivit placerat där, av svensk polis.&lt;br /&gt;</description>
+      <itunes:summary>Det kommer att bli det största beslaget av kokain någonsin taget av den franska tullen. 1.2 ton kokain. 15 dagar efter att Mauritz Andersson grips så sker något av det mest omstridda i hela Operation Playa - beslaget av nio kilo kokain ombord på båten Gloria, i Göteborg. Mycket pekar på att kokainet har blivit placerat där, av svensk polis.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>4. Operation Playa - Infiltratörerna</title>
+      <pubDate>Mon, 04 Apr 2016 22:10:00 GMT</pubDate>
+      <itunes:duration>48:16</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/9c1f0098-ff56-4d11-ba9c-931a773d8082.mp3" length="47455687" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">9c1f0098-ff56-4d11-ba9c-931a773d8082</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/4.operationplaya-infiltratorerna</link>
+      <itunes:subtitle>Polisen påbörjar sitt arbete i december 2008. De har dock inte mycket att få efter och tar därför till en mycket omstridd metod - undercoveragenter. Och Mauritz Andersson som inte vet om att polisen hör varenda ord han säger över telefon, planerar för...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae7fb.jpg"></itunes:image>
+      <description>Polisen påbörjar sitt arbete i december 2008. De har dock inte mycket att gå efter och tar därför till en mycket omstridd metod - undercoveragenter. Mauritz Andersson som inte vet om att polisen hör varenda ord han säger över telefon, planerar för fullt för att smuggla kokain.&lt;br /&gt;</description>
+      <itunes:summary>Polisen påbörjar sitt arbete i december 2008. De har dock inte mycket att gå efter och tar därför till en mycket omstridd metod - undercoveragenter. Mauritz Andersson som inte vet om att polisen hör varenda ord han säger över telefon, planerar för fullt för att smuggla kokain.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>3. Operation Playa - Bankrånaren</title>
+      <pubDate>Mon, 28 Mar 2016 22:10:00 GMT</pubDate>
+      <itunes:duration>40:32</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/8352f0c2-fe59-46d4-93db-154c8394697e.mp3" length="40031060" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">8352f0c2-fe59-46d4-93db-154c8394697e</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/3.operationplaya-bankranaren</link>
+      <itunes:subtitle>2008 ska den andra lyckade kokainsmugglingen ha skett. Kokainet ska ha lämnats över till Mauritz Andersson från en vän till Jonas Falk. Men hur troligt är det? Och vem är egentligen Jonas Falk? Och vem är hans moster, den utpekade bulvanen?</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae802.jpg"></itunes:image>
+      <description>2008 ska den andra lyckade kokainsmugglingen ha skett. Kokainet ska ha lämnats över till Mauritz Andersson från en vän till Jonas Falk. Men hur troligt är det? Och vem är egentligen Jonas Falk? Och vem är hans moster, den utpekade bulvanen?&lt;br /&gt;</description>
+      <itunes:summary>2008 ska den andra lyckade kokainsmugglingen ha skett. Kokainet ska ha lämnats över till Mauritz Andersson från en vän till Jonas Falk. Men hur troligt är det? Och vem är egentligen Jonas Falk? Och vem är hans moster, den utpekade bulvanen?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>2. Operation Playa - En båt kommer lastad</title>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 GMT</pubDate>
+      <itunes:duration>34:30</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/197e063b-40d3-473f-a1ec-6caef37af10d.mp3" length="34239400" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">197e063b-40d3-473f-a1ec-6caef37af10d</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/2.operationplaya-enbatkommerlastad</link>
+      <itunes:subtitle>2006 ska den första lyckade kokainsmugglingen ha skett till England. Men frågetecknen mot åtalet hopar sig. Mauritz Andersson blir bogserad in till hamn i England av kustbevakningen, skulle de inte ha upptäckt något av kokainet? Och vad gör Jonas Falk...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae809.jpg"></itunes:image>
+      <description>2006 ska den första lyckade kokainsmugglingen ha skett till England. Men frågetecknen mot åtalet hopar sig. Mauritz Andersson blir bogserad in till hamn i England av kustbevakningen, skulle de inte ha upptäckt något av kokainet? Och vad gör Jonas Falk i England?&lt;br /&gt;</description>
+      <itunes:summary>2006 ska den första lyckade kokainsmugglingen ha skett till England. Men frågetecknen mot åtalet hopar sig. Mauritz Andersson blir bogserad in till hamn i England av kustbevakningen, skulle de inte ha upptäckt något av kokainet? Och vad gör Jonas Falk i England?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>1. Operation Playa - Kokainhärvan</title>
+      <pubDate>Tue, 15 Mar 2016 02:00:00 GMT</pubDate>
+      <itunes:duration>30:10</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/f16d5459-004c-43ee-b972-2a545a78bdeb.mp3" length="30083632" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">f16d5459-004c-43ee-b972-2a545a78bdeb</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/1.operationplaya-kokainharvan</link>
+      <itunes:subtitle>2009 sitter smugglaren Mauritz Andersson i en segelbåt. Han kryssar fram och tillbaka i väntan på en motorbåt fullastad med kokain. På andra sidan Atlanten sitter polis och bevakar honom med en GPS. De väntar på rätt tillfälle att slå till. Mauritz...</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae810.jpg"></itunes:image>
+      <description>2009 sitter smugglaren Mauritz Andersson i en segelbåt. Han kryssar fram och tillbaka i väntan på en motorbåt fullastad med kokain. På andra sidan Atlanten sitter polis och bevakar honom med en GPS. De väntar på rätt tillfälle att slå till. Mauritz Andersson är kuriren. Hjärnan bakom allt, enligt åklagaren, är Jonas Falk. Känd f.d. bankrånare. Men hur väl underbyggd är polisens hypotes? Vad har de egentligen för bevis?&lt;br /&gt;</description>
+      <itunes:summary>2009 sitter smugglaren Mauritz Andersson i en segelbåt. Han kryssar fram och tillbaka i väntan på en motorbåt fullastad med kokain. På andra sidan Atlanten sitter polis och bevakar honom med en GPS. De väntar på rätt tillfälle att slå till. Mauritz Andersson är kuriren. Hjärnan bakom allt, enligt åklagaren, är Jonas Falk. Känd f.d. bankrånare. Men hur väl underbyggd är polisens hypotes? Vad har de egentligen för bevis?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Trailer Operation Playa - Premiär 15 mars</title>
+      <pubDate>Wed, 09 Mar 2016 09:00:00 GMT</pubDate>
+      <itunes:duration>4:05</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/aea4bbd7-4961-412c-a20b-e8fe38b80376.mp3" length="3936117" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">aea4bbd7-4961-412c-a20b-e8fe38b80376</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/traileroperationplaya-premiar15mars</link>
+      <itunes:subtitle>Trailer för Operation playa som släpps den 15 mars. #operationplaya</itunes:subtitle>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae817.png"></itunes:image>
+      <description>Trailer för Operation Playa som släpps den 15 mars. #operationplaya&lt;br /&gt;</description>
+      <itunes:summary>Trailer för Operation Playa som släpps den 15 mars. #operationplaya&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>5. Rinkebymordet - Jakten</title>
+      <pubDate>Mon, 02 Nov 2015 23:04:00 GMT</pubDate>
+      <itunes:duration>43:26</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/8bb93ecd-fb3c-4756-83b7-1ad621d74c1f.mp3" length="42812992" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">8bb93ecd-fb3c-4756-83b7-1ad621d74c1f</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/5.rinkebymordet-jakten</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae81c.jpg"></itunes:image>
+      <description>En sen eftermiddag ringer den äldsta brodern Özkan och berättar att han ansökt om att få tidsbestämt livstidsstraff. Samtidigt påbörjar Spår en vindlande jakt på åklagarens huvudvittne, farbrodern som kanske kan ge svar på vad som hände under de avgörande polisförhören. Och i den intensiva jakten träder helt andra personer fram som aldrig tidigare talat offentligt om vad de sett eller gjort.&lt;br /&gt;</description>
+      <itunes:summary>En sen eftermiddag ringer den äldsta brodern Özkan och berättar att han ansökt om att få tidsbestämt livstidsstraff. Samtidigt påbörjar Spår en vindlande jakt på åklagarens huvudvittne, farbrodern som kanske kan ge svar på vad som hände under de avgörande polisförhören. Och i den intensiva jakten träder helt andra personer fram som aldrig tidigare talat offentligt om vad de sett eller gjort.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>4. Rinkebymordet - Engagemanget</title>
+      <pubDate>Mon, 26 Oct 2015 23:02:00 GMT</pubDate>
+      <itunes:duration>50:07</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/9276fe80-91a8-4bf6-b6da-18b462b53674.mp3" length="49238701" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">9276fe80-91a8-4bf6-b6da-18b462b53674</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/4.rinkebymordet-engagemanget</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae823.jpg"></itunes:image>
+      <description>Efter att domarna har fallit börjar flera av Sveriges mest erfarna granskande journalister granska fallet och hittar flera luckor i åklagarens linje. Gick allt verkligen rätt till? Är en mobiltelefon som en kroppsdel? Och hur långt får man gå i jakten på sanningen? Dessutom, Spår hittar ett tidigare ohört vittne.&lt;br /&gt;</description>
+      <itunes:summary>Efter att domarna har fallit börjar flera av Sveriges mest erfarna granskande journalister granska fallet och hittar flera luckor i åklagarens linje. Gick allt verkligen rätt till? Är en mobiltelefon som en kroppsdel? Och hur långt får man gå i jakten på sanningen? Dessutom, Spår hittar ett tidigare ohört vittne.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>3. Rinkebymordet - Erkännandet</title>
+      <pubDate>Mon, 19 Oct 2015 22:04:00 GMT</pubDate>
+      <itunes:duration>49:49</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/e7be0212-c668-467a-8029-a1f535f010c2.mp3" length="48956161" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">e7be0212-c668-467a-8029-a1f535f010c2</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/3.rinkebymordet-erkannandet</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae82a.jpg"></itunes:image>
+      <description>I det tredje avsnittet av Spår kliver vi in i rättssalen där flera av åklagarens viktigaste vittnen ändrar sina utsagor och där slagsmål utbryter. Försvarsadvokaterna blir chockade av domarna men både tingsrätt och hovrätt följer åklagarens linje om att alla bröderna har planerat och utfört mordet tillsammans. Och för den äldsta utav bröderna väntar en livstidsdom. Men varför är det ingen som tror på bröderna? Kan de ha grävt sin egen grav?&lt;br /&gt;</description>
+      <itunes:summary>I det tredje avsnittet av Spår kliver vi in i rättssalen där flera av åklagarens viktigaste vittnen ändrar sina utsagor och där slagsmål utbryter. Försvarsadvokaterna blir chockade av domarna men både tingsrätt och hovrätt följer åklagarens linje om att alla bröderna har planerat och utfört mordet tillsammans. Och för den äldsta utav bröderna väntar en livstidsdom. Men varför är det ingen som tror på bröderna? Kan de ha grävt sin egen grav?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>2. Rinkebymordet - Hypotesen</title>
+      <pubDate>Tue, 13 Oct 2015 00:00:00 GMT</pubDate>
+      <itunes:duration>52:29</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/409bbafe-9c87-415e-8ff6-04bb40818a39.mp3" length="51509889" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">409bbafe-9c87-415e-8ff6-04bb40818a39</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/2.rinkebymordet-hypotesen</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae831.jpg"></itunes:image>
+      <description>I andra avsnittet så följer vi polisutredningen. Polisen är snabbt de tre bröderna Yildiz och deras kusin på spåret och de grips en dryg vecka efter mordet. Men hur hållbar är egentligen polisens hypotes om att det verkligen är alla bröderna som är inblandade? Och hur trovärdigt är deras viktigaste vittne?&lt;br /&gt;</description>
+      <itunes:summary>I andra avsnittet så följer vi polisutredningen. Polisen är snabbt de tre bröderna Yildiz och deras kusin på spåret och de grips en dryg vecka efter mordet. Men hur hållbar är egentligen polisens hypotes om att det verkligen är alla bröderna som är inblandade? Och hur trovärdigt är deras viktigaste vittne?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>1. Rinkebymordet - Upptakten</title>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 GMT</pubDate>
+      <itunes:duration>34:02</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/f929465a-feaa-4311-b53d-7464f2d95cb9.mp3" length="33803466" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">f929465a-feaa-4311-b53d-7464f2d95cb9</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/1rinkebymordet-upptakten</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae838.jpg"></itunes:image>
+      <description>I februari 2002 avrättas en ung man i tunnelbanan i Rinkeby. Det är kulmen på en konflikt mellan två unga män, som började i slagsmål och slutade i skottlossning. En kamp om status och makt. En konflikt som kommer få enorma konsekvenser för alla som står nära.&lt;br /&gt;</description>
+      <itunes:summary>I februari 2002 avrättas en ung man i tunnelbanan i Rinkeby. Det är kulmen på en konflikt mellan två unga män, som började i slagsmål och slutade i skottlossning. En kamp om status och makt. En konflikt som kommer få enorma konsekvenser för alla som står nära.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Lägesrapport september 2015</title>
+      <pubDate>Thu, 17 Sep 2015 08:00:00 GMT</pubDate>
+      <itunes:duration>24:10</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/baefe7a6-ad93-4616-9545-c6ab051d7874.mp3" length="24320843" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">baefe7a6-ad93-4616-9545-c6ab051d7874</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/lagesrapportseptember2015</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae83f.jpg"></itunes:image>
+      <description>Vi uppdaterar läget i Kalamarks-fallet och svarar på flera vanliga frågor som vi har fått av er lyssnare när det gäller Kaj Linna, resningsansökan, likheter med andra fall och Nils roll i historien. Dessutom senaste nytt om fortsättningen av Spår.&lt;br /&gt;</description>
+      <itunes:summary>Vi uppdaterar läget i Kalamarks-fallet och svarar på flera vanliga frågor som vi har fått av er lyssnare när det gäller Kaj Linna, resningsansökan, likheter med andra fall och Nils roll i historien. Dessutom senaste nytt om fortsättningen av Spår.&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>5. Kalamarksmordet - 87 mil söder om Kalamark</title>
+      <pubDate>Tue, 16 Jun 2015 00:00:00 GMT</pubDate>
+      <itunes:duration>1:04:09</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/45a7b88e-bc64-4ccf-b72f-2660d62803b1.mp3" length="62712920" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">45a7b88e-bc64-4ccf-b72f-2660d62803b1</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kalamarksmordet05-87milsoderomkalamark</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae846.jpg"></itunes:image>
+      <description>I sista delen summerar vi Kalamarksmordet 2004. Vi tittar närmare på den resningsansökan som nu ska lämnas in. Där finns ett unikt dokument utfärdat av en professor som antyder att det finns en annan gärningsman. En seriemördare. Och så huvudvittnet Nils. Vad är det han döljer?&lt;br /&gt;</description>
+      <itunes:summary>I sista delen summerar vi Kalamarksmordet 2004. Vi tittar närmare på den resningsansökan som nu ska lämnas in. Där finns ett unikt dokument utfärdat av en professor som antyder att det finns en annan gärningsman. En seriemördare. Och så huvudvittnet Nils. Vad är det han döljer?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>4. Kalamarksmordet - Kronvittnet synas</title>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 GMT</pubDate>
+      <itunes:duration>37:23</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/17e9578a-e389-490f-98c1-7a85ec6c5a11.mp3" length="37011348" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">17e9578a-e389-490f-98c1-7a85ec6c5a11</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kalamarksmordet04-kronvittnetsynas</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae84d.jpg"></itunes:image>
+      <description>Kaj Linna är utpekad av åklagarens huvudvittne. Men försvaret menar att vittnet ljuger. Spår träffar denne ”Nils” för att höra hans version. Dessutom: en gömd snusprilla, ett par återfunna byxor och varför så bråttom TILL ett brott?&lt;br /&gt;</description>
+      <itunes:summary>Kaj Linna är utpekad av åklagarens huvudvittne. Men försvaret menar att vittnet ljuger. Spår träffar denne ”Nils” för att höra hans version. Dessutom: en gömd snusprilla, ett par återfunna byxor och varför så bråttom TILL ett brott?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>3. Kalamarksmordet - Juridiska krumbukter</title>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 GMT</pubDate>
+      <itunes:duration>36:12</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/f4c63cee-78b8-4e3f-9875-f55b27497ec6.mp3" length="35882025" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">f4c63cee-78b8-4e3f-9875-f55b27497ec6</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kalamarksmordet03-</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae854.jpg"></itunes:image>
+      <description>I spårs tredje avsnitt följer vi rättegångarna. Spår har lyssnat igenom 28 timmar från både tings- och hovrätt. Hur stark var egentligen indiciekedjan? Och hur trovärdigt vittnade huvudvittnet Nils? Och vad betyder det att en av lagmännen idag minns en detalj helt fel?&lt;br /&gt;</description>
+      <itunes:summary>I spårs tredje avsnitt följer vi rättegångarna. Spår har lyssnat igenom 28 timmar från både tings- och hovrätt. Hur stark var egentligen indiciekedjan? Och hur trovärdigt vittnade huvudvittnet Nils? Och vad betyder det att en av lagmännen idag minns en detalj helt fel?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>2. Kalamarksmordet - En havererande polisutredning</title>
+      <pubDate>Mon, 25 May 2015 23:00:00 GMT</pubDate>
+      <itunes:duration>30:49</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/457280e9-7e78-4601-a38c-d1216d92f026.mp3" length="30714387" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">457280e9-7e78-4601-a38c-d1216d92f026</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kalamarksmordet02-enhavererandepolisutredning</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae85b.jpg"></itunes:image>
+      <description>I andra avsnittet tittar vi närmare på polisutredningen. Varför pressades inte &quot;Bertil&quot; och &quot;Nils&quot; hårdare i förhören? Varför vägrade poliser utföra förhör som de beordrats göra? Och varför säger en av poliserna idag att det här är ett ”traumatiskt ärende?&lt;br /&gt;</description>
+      <itunes:summary>I andra avsnittet tittar vi närmare på polisutredningen. Varför pressades inte &quot;Bertil&quot; och &quot;Nils&quot; hårdare i förhören? Varför vägrade poliser utföra förhör som de beordrats göra? Och varför säger en av poliserna idag att det här är ett ”traumatiskt ärende?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>1. Kalamarksmordet - Två rika bröder i enslig mark</title>
+      <pubDate>Tue, 19 May 2015 00:00:00 GMT</pubDate>
+      <itunes:duration>30:38</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/8d467a2f-9eb0-4792-9af8-a45bcb3ab0d6.mp3" length="30526307" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">8d467a2f-9eb0-4792-9af8-a45bcb3ab0d6</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/kalamarksmordet01-tvarikabroderiensligmark</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae862.jpg"></itunes:image>
+      <description>I april 2004 begås ett grovt våldsbrott i den lilla byn Kalamark utanför Piteå. Två äldre bröder attackeras på kvällen och den ena brodern slås brutalt ihjäl. När polisen börjar utreda brottet dyker uppgifter om mystiska försäljare upp. Vilka är männen som säljer brandläckare? Hur rika var bröderna? Och varför fastnar polisen för Kaj Linna?&lt;br /&gt;</description>
+      <itunes:summary>I april 2004 begås ett grovt våldsbrott i den lilla byn Kalamark utanför Piteå. Två äldre bröder attackeras på kvällen och den ena brodern slås brutalt ihjäl. När polisen börjar utreda brottet dyker uppgifter om mystiska försäljare upp. Vilka är männen som säljer brandläckare? Hur rika var bröderna? Och varför fastnar polisen för Kaj Linna?&lt;br /&gt;</itunes:summary>
+    </item>
+    <item>
+      <title>Trailer Kalamarksmordet - Premiär 19 maj</title>
+      <pubDate>Sun, 26 Apr 2015 16:18:20 GMT</pubDate>
+      <itunes:duration>1:35</itunes:duration>
+      <enclosure url="https://splice.sesamy.com/sid:InYYzPf__ogPcPBsoTtxs/ab9d2bff-47c1-42ce-aa73-ef3b0d012c3e.mp3" length="1534089" type="audio/mpeg"></enclosure>
+      <guid isPermaLink="false">ab9d2bff-47c1-42ce-aa73-ef3b0d012c3e</guid>
+      <itunes:explicit>yes</itunes:explicit>
+      <link>https://play.acast.com/s/sparpodcast/trailer-premiar-19-maj</link>
+      <itunes:subtitle>Spår</itunes:subtitle>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:image href="https://assets.pippa.io/shows/616ebe1886d7b1398620b943/616ebe33c7e6e70013cae869.jpg"></itunes:image>
+      <description>Trailer för Spår #Kalamark&lt;br /&gt;</description>
+      <itunes:summary>Trailer för Spår #Kalamark&lt;br /&gt;</itunes:summary>
+    </item>
+    <sesamy:product>
+      <id>d2edWmywhM65BEETmjZ0l</id>
+      <price>49</price>
+      <currency>SEK</currency>
+      <title>Alla podcasts från Third Ear Studio</title>
+      <description>Lyssna obegränsat på alla podcasts från Third Ear Studio. Avsluta när du vill.</description>
+      <type>Recurring</type>
+    </sesamy:product>
+    <sesamy:feed-id>sid:InYYzPf__ogPcPBsoTtxs</sesamy:feed-id>
+    <sesamy:private>no</sesamy:private>
+    <sesamy:user></sesamy:user>
+    <pubDate>Mon, 11 Jul 2022 22:01:01 GMT</pubDate>
+    <googleplay:block>no</googleplay:block>
+  </channel>
+</rss>

@@ -1,7 +1,2 @@
-export function parseRss() {
-  return {};
-}
-
-export function generateRss() {
-  return {};
-}
+export * from './feed-parser';
+export * from './sesamy-parser';

@@ -7,14 +7,14 @@
     "tag": "latest"
   },
   "version": "1.0.0",
-  "main": "dist/podcast-schemas.cjs",
-  "module": "dist/podcast-schemas.mjs",
-  "types": "dist/podcast-schemas.d.ts",
+  "main": "dist/podcast-parser.cjs",
+  "module": "dist/podcast-parser.mjs",
+  "types": "dist/podcast-parser.d.ts",
   "exports": {
     ".": {
-      "require": "./dist/podcast-schemas.cjs",
-      "import": "./dist/podcast-schemas.mjs",
-      "types": "./dist/podcast-schemas.d.ts"
+      "require": "./dist/podcast-parser.cjs",
+      "import": "./dist/podcast-parser.mjs",
+      "types": "./dist/podcast-parser.d.ts"
     }
   },
   "scripts": {
@@ -61,20 +61,24 @@
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@types/node": "20.12.7",
-    "@typescript-eslint/eslint-plugin": "7.5.0",
-    "@typescript-eslint/parser": "7.5.0",
+    "@types/sanitize-html": "^2.11.0",
+    "@typescript-eslint/eslint-plugin": "7.7.1",
+    "@typescript-eslint/parser": "7.7.1",
     "copyfiles": "2.4.1",
-    "dts-bundle-generator": "9.3.1",
+    "dts-bundle-generator": "9.5.1",
     "eslint": "9.1.1",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-prettier": "5.1.3",
     "prettier": "3.2.5",
-    "semantic-release": "23.0.7",
+    "semantic-release": "23.0.8",
     "typescript": "5.4.5",
-    "vite": "5.2.8",
-    "vitest": "1.5.0"
+    "vite": "5.2.10",
+    "vitest": "1.5.2"
   },
   "dependencies": {
-    "zod": "^3.22.4"
+    "@sesamy/podcast-schemas": "^1.3.0",
+    "fast-xml-parser": "^4.3.6",
+    "sanitize-html": "^2.13.0",
+    "zod": "^3.23.4"
   }
 }
