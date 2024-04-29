@@ -1,0 +1,11 @@
+# 1.0.0 (2024-04-29)
+
+
+### Bug Fixes
+
+* get the build working ([33cf7da](https://github.com/sesamyab/podcast-parser/commit/33cf7daa6d639d3fde86b520ba86077f001380a1))
+
+
+### Features
+
+* expose parser ([93d3684](https://github.com/sesamyab/podcast-parser/commit/93d3684919fec78c6097a2421003d94ff1e41ac8))
