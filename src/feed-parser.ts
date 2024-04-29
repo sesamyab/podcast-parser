@@ -15,7 +15,7 @@ export default async function parseFeedToJson(text: string): Promise<RssFeed> {
   const options = {
     ignoreAttributes: false,
     attributeNamePrefix: '@_',
-    attributeValueProcessor: (key: string, value: string) => {
+    attributeValueProcessor: (_key: string, value: string) => {
       if (value.toLowerCase() === 'true') {
         return true;
       }
