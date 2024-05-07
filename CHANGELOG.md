@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/sesamyab/podcast-parser/compare/v1.0.1...v1.0.2) (2024-05-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency zod to v3.23.6 ([bc91757](https://github.com/sesamyab/podcast-parser/commit/bc91757991ff3f3322483ea3befff80d23a09b1e))
+
 ## [1.0.1](https://github.com/sesamyab/podcast-parser/compare/v1.0.0...v1.0.1) (2024-05-02)
 
 
