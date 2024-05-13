@@ -1,3 +1,4 @@
+import { XMLBuilder } from 'fast-xml-parser';
 import iso6392BTo1 from './utils/country-codes';
 import { Item, Rss, RssBoolean, SesamyFeed, SesamyFeedEpisode } from '@sesamy/podcast-schemas';
 
@@ -62,7 +63,7 @@ function renderItem(episode: SesamyFeedEpisode) {
   return item;
 }
 
-export function generateRssFeed(feed: SesamyFeed): Rss {
+export function generateRssFeed(feed: SesamyFeed): string {
   const episodes: Item[] = feed.episodes.filter(episode => !episode.isLocked).map(renderItem);
 
   const lockedEpisodes: Item[] = feed.episodes.filter(episode => episode.isLocked).map(renderItem);
@@ -88,7 +89,6 @@ export function generateRssFeed(feed: SesamyFeed): Rss {
       description: feed.description,
       pubDate: utcDate(feed.publishDate),
       lastBuildDate: new Date().toUTCString(),
-      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
       language: iso6392BTo1(feed.language!) || 'en',
       ttl: 30,
       image: {
@@ -132,8 +132,6 @@ export function generateRssFeed(feed: SesamyFeed): Rss {
   };
 
   if (feed.user) {
-    console.log('feed.user', feed.user);
-
     rss.channel['sesamy:user'] = {
       'sesamy:id': feed.user.id,
       'sesamy:name': feed.user.name,
@@ -141,5 +139,17 @@ export function generateRssFeed(feed: SesamyFeed): Rss {
     };
   }
 
-  return rss;
+  const options = {
+    format: true,
+    ignoreAttributes: false,
+    allowBooleanAttributes: true,
+    suppressBooleanAttributes: false,
+    suppressEmptyNode: true,
+  };
+
+  const builder = new XMLBuilder(options);
+
+  return `<?xml version="1.0"?>\n${builder.build({
+    rss,
+  })}`;
 }
