@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/sesamyab/podcast-parser/compare/v1.0.2...v1.0.3) (2024-05-14)
+
+
+### Bug Fixes
+
+* add serializer ([d0d47e3](https://github.com/sesamyab/podcast-parser/commit/d0d47e3547a7c0a969eb910570c43678a1dfcdf4))
+* **deps:** update dependency zod to v3.23.8 ([e835753](https://github.com/sesamyab/podcast-parser/commit/e835753e5a91d816118ccb966b60077fc8570728))
+* return rss as string ([5e2faf2](https://github.com/sesamyab/podcast-parser/commit/5e2faf22cfa39315283060805b16b9e2a60e1b82))
+
 ## [1.0.2](https://github.com/sesamyab/podcast-parser/compare/v1.0.1...v1.0.2) (2024-05-07)
 
 
