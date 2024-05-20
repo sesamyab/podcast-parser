@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/sesamyab/podcast-parser/compare/v1.0.4...v1.0.5) (2024-05-20)
+
+
+### Bug Fixes
+
+* selling point updates ([51adabf](https://github.com/sesamyab/podcast-parser/commit/51adabf28fb5b791e3d144194a78e32445c37bdf))
+
 ## [1.0.4](https://github.com/sesamyab/podcast-parser/compare/v1.0.3...v1.0.4) (2024-05-20)
 
 
