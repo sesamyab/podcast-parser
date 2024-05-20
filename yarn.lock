@@ -744,10 +744,10 @@
     lodash-es "^4.17.21"
     read-pkg-up "^11.0.0"
 
-"@sesamy/podcast-schemas@^1.4.2":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@sesamy/podcast-schemas/-/podcast-schemas-1.4.2.tgz#cab19af7df44a5a9d5f61dbced19dcd428fd7cd9"
-  integrity sha512-rMXjqbNXDSpyqTjtk9AiuFWDNl6hDlnjZzryzsdFIcK7hx8yQnpEQ6wjAlLFWt2HKAaq7U8xVw2b0g5O8+9/QA==
+"@sesamy/podcast-schemas@^1.4.3":
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/@sesamy/podcast-schemas/-/podcast-schemas-1.4.3.tgz#06749db85ba80eebe68fa95ba5634d9d099c5ae2"
+  integrity sha512-LU4fpCmuTXHT4OKatvxu/ZI/pebhFrtO/PlG/N0g+LSWj1WS4HUJltgWCpdkugF9O5GOhmOHQsf5nr2svdbPMA==
   dependencies:
     zod "^3.23.8"
 

@@ -9,6 +9,8 @@ export default async function parseFeedToJson(text: string): Promise<RssFeed> {
     'itunes:category',
     'sesamy:sesamy-item',
     'sesamy:product',
+    'sesamy:selling-point',
+    'sesamy:price-override',
     'enclosure',
   ];
 
