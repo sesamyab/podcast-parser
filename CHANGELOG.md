@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/sesamyab/podcast-parser/compare/v1.0.3...v1.0.4) (2024-05-20)
+
+
+### Bug Fixes
+
+* add sesamy prefixed elements ([1478997](https://github.com/sesamyab/podcast-parser/commit/1478997402a6d8923f74d916c0956be2aa005453))
+* upgrade schemas ([58572a9](https://github.com/sesamyab/podcast-parser/commit/58572a91b51af17998cb986a0ca88f5c91ef92d6))
+
 ## [1.0.3](https://github.com/sesamyab/podcast-parser/compare/v1.0.2...v1.0.3) (2024-05-14)
 
 
