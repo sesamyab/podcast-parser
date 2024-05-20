@@ -77,7 +77,7 @@
     "vitest": "1.6.0"
   },
   "dependencies": {
-    "@sesamy/podcast-schemas": "^1.4.1",
+    "@sesamy/podcast-schemas": "^1.4.2",
     "fast-xml-parser": "^4.4.0",
     "sanitize-html": "^2.13.0",
     "zod": "^3.23.8"

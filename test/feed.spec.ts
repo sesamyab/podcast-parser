@@ -1,5 +1,5 @@
 import { describe, it } from 'vitest';
-import { sesamyFeedSchema } from '../../src/json/sesamy-feed';
+import { sesamyFeedSchema } from '@sesamy/podcast-schemas';
 
 export const feed = {
   description: 'Test description',
