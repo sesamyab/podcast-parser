@@ -133,21 +133,21 @@ export function parseFeedToSesamy(feed: RssFeed) {
 
   const products = rawProducts.map(item => {
     const lockedEpisodeWithImage = lockedRssItems.find(lockedEpisode => {
-      return lockedEpisode.permissions.includes(item.id) && lockedEpisode.image;
+      return item['sesamy:id'] && lockedEpisode.permissions.includes(item['sesamy:id']) && lockedEpisode.image;
     });
 
     const product = sesamyFeedProductSchema.parse({
-      id: item.id,
-      title: item.title,
-      description: item.description,
+      id: item['sesamy:id'] || item.id,
+      title: item['sesamy:title'] || item.title,
+      description: item['sesamy:description'] || item.description,
       type: item.type,
-      priceOverrides: item['price-overrides'] ?? [],
-      price: item.price,
-      currency: item.currency,
-      period: item.period,
-      time: item.time,
-      productType: item.product_type,
-      purchaseType: item.purchase_type,
+      priceOverrides: item['sesamy:price-overrides'] ?? [],
+      price: item['sesamy:price'] || item.price,
+      currency: item['sesamy:currency'] || item.currency,
+      period: item['sesamy:period'] || item.period,
+      time: item['sesamy:time'] || item.time,
+      productType: item['sesamy:product-type'],
+      purchaseType: item['sesamy:purchase-type'],
 
       // We get the first episode image or fallback to the show image
       image: item.image ?? lockedEpisodeWithImage?.image ?? image,
