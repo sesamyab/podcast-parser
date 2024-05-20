@@ -135,7 +135,7 @@ export function generateRssFeed(feed: SesamyFeed): string {
         'sesamy:period': product.period,
         time: product.time,
         'sesamy:time': product.time,
-        'sesamy:selling-points': product.sellingPoints || [],
+        'sesamy:selling-point': product.sellingPoints || [],
       })),
       'sesamy:sesamy-item': lockedEpisodes,
       item: episodes,
