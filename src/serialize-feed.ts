@@ -131,6 +131,7 @@ export function generateRssFeed(feed: SesamyFeed): string {
         'sesamy:image': product.image,
         purchase_type: product.purchaseType,
         'sesamy:purchase-type': product.purchaseType,
+        'sesamy:product-type': product.productType,
         period: product.period,
         'sesamy:period': product.period,
         time: product.time,
