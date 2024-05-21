@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/sesamyab/podcast-parser/compare/v1.0.5...v1.1.0) (2024-05-21)
+
+
+### Features
+
+* add purchase type ([43da6df](https://github.com/sesamyab/podcast-parser/commit/43da6dfcffef78e7243f4eb50fd675f11abbf27e))
+
 ## [1.0.5](https://github.com/sesamyab/podcast-parser/compare/v1.0.4...v1.0.5) (2024-05-20)
 
 
