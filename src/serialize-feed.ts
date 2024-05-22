@@ -54,6 +54,10 @@ function renderItem(episode: SesamyFeedEpisode) {
     pubDate: utcDate(episode.publishDate)!,
   };
 
+  if (episode.isLocked) {
+    item['@_locked'] = true;
+  }
+
   if (episode.image) {
     item['itunes:image'] = {
       '@_href': episode.image,
