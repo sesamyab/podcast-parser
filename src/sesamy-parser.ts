@@ -199,7 +199,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
   const sesamyFeed: SesamyFeed = {
     title: channel['sesamy:title'] || channel.title,
     titleWithUsername: channel.title,
-    subtitle: channel['itunes:subtitle'],
+    subtitle: channel['itunes:subtitle'] || channel.description,
     externalIds: {
       acastId: channel['acast:showId'],
       spotifyUrl: spotifyLink?.['@_href'],
