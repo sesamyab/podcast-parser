@@ -1,7 +1,7 @@
 import { RssFeed } from '@sesamy/podcast-schemas';
 import { XMLParser } from 'fast-xml-parser';
 
-export default async function parseFeedToJson(text: string): Promise<RssFeed> {
+export async function parseFeedToJson(text: string): Promise<RssFeed> {
   const arrayNodes = [
     'item',
     'atom:link',
