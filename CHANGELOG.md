@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/sesamyab/podcast-parser/compare/v1.2.0...v1.2.1) (2024-05-22)
+
+
+### Bug Fixes
+
+* remove default export ([2d58fe1](https://github.com/sesamyab/podcast-parser/commit/2d58fe11367b5347e0f4a0627f7117bdf020abad))
+
 # [1.2.0](https://github.com/sesamyab/podcast-parser/compare/v1.1.0...v1.2.0) (2024-05-22)
 
 
