@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/sesamyab/podcast-parser/compare/v1.2.2...v1.2.3) (2024-05-22)
+
+
+### Bug Fixes
+
+* set locked attribute ([d2a7493](https://github.com/sesamyab/podcast-parser/commit/d2a7493ba3a97aa2e9a250d8c49a1ff9a0c4dd10))
+
 ## [1.2.2](https://github.com/sesamyab/podcast-parser/compare/v1.2.1...v1.2.2) (2024-05-22)
 
 
