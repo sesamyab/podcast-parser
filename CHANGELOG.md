@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/sesamyab/podcast-parser/compare/v1.1.0...v1.2.0) (2024-05-22)
+
+
+### Bug Fixes
+
+* remove imports ([ea47cfd](https://github.com/sesamyab/podcast-parser/commit/ea47cfda6a77ee6d05ecdbe51f0c0e313cd45828))
+
+
+### Features
+
+* add package type ([f5674f1](https://github.com/sesamyab/podcast-parser/commit/f5674f12720eb4fc684a7b633f5d03bb360257f8))
+
 # [1.1.0](https://github.com/sesamyab/podcast-parser/compare/v1.0.5...v1.1.0) (2024-05-21)
 
 
