@@ -5,10 +5,7 @@ import {
   RssFeed,
   ItunesCategory,
   Item,
-  sesamyFeedProductSchema,
   sesamyFeedEpisodeSchema,
-  sesamyFeedSchema,
-  SesamyProduct,
   SesamyFeed,
   SesamyFeedProduct,
 } from '@sesamy/podcast-schemas';
