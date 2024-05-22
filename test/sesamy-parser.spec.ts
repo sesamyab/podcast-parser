@@ -8,6 +8,7 @@ global.structuredClone = obj => JSON.parse(JSON.stringify(obj));
 const fredagspodden = fs.readFileSync('./test/fixtures/fredagspodden.rss');
 const spar = fs.readFileSync('./test/fixtures/spar.rss');
 const acast = fs.readFileSync('./test/fixtures/acast.rss');
+const kjente = fs.readFileSync('./test/fixtures/kjente.rss');
 
 describe('Sesamy parser service tests', () => {
   it('Check podspace feed', async () => {
@@ -40,6 +41,131 @@ describe('Sesamy parser service tests', () => {
 
     expect(sesamyFeed.categories[0]).toBe('Personal Journals');
     expect(sesamyFeed.sesamy.isPrivate).toBe(false);
+  });
+
+  it('Check Kjente Proxy feed', async () => {
+    const sparJson = await parseFeedToJson(kjente.toString());
+    const sesamyFeed = parseFeedToSesamy(sparJson);
+
+    expect(sesamyFeed.title).toBe('Markus Test');
+    expect(sesamyFeed.subtitle).toBe(
+      'Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj',
+    );
+    expect(sesamyFeed.products.length).toBe(3);
+
+    expect(sesamyFeed).toEqual({
+      title: 'Markus Test',
+      titleWithUsername: 'Markus Test',
+      externalIds: {},
+      subtitle:
+        'Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj',
+      description:
+        'Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj',
+      descriptionWithHtml:
+        'Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj',
+      summary:
+        'Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj',
+      image:
+        'https://assets.pod.space/system/shows/images/420/557/4c-/large/1660572666058-e3f2c312c751a91ad2ce104f36cbd69e.jpeg',
+      link: 'https://commerce.sesamy.dev/products/sid:kTVA3vfdEG1CMeXFzlM4q',
+      author: 'Even C Jystad',
+      owner: {
+        name: 'Markus',
+        email: 'markus@sesamy.com',
+      },
+      publishDate: '2022-08-15T14:14:23.000Z',
+      language: 'en',
+      rssUrl: 'https://feed.sesamy.dev/sid:kTVA3vfdEG1CMeXFzlM4q',
+      copyright: 'Sesamy AB',
+      isHidden: false,
+      isExplicit: false,
+      isComplete: false,
+      podcastType: 'EPISODIC',
+      totalSeasons: 0,
+      totalEpisodes: 1,
+      episodes: [
+        {
+          guid: '62fa54bf2c75a2001385f865',
+          title: 'Forord - Kjente Norske Ordtak',
+          subtitle: 'Even snakker om kjente norske ordtak.',
+          description: 'Even snakker om kjente norske ordtak.',
+          descriptionWithHtml: '<p>Even snakker om kjente norske ordtak.</p>',
+          summary: '',
+          url: 'https://splice.sesamy.dev/sid:kTVA3vfdEG1CMeXFzlM4q/62fa54bf2c75a2001385f865.mp3',
+          link: 'https://pod.space/kjentenorskeordtak/forord',
+          image:
+            'https://assets.pod.space/system/shows/images/420/557/4c-/large/1660572666058-e3f2c312c751a91ad2ce104f36cbd69e.jpeg',
+          duration: 71,
+          isExplicit: false,
+          publishDate: '2022-08-15T14:14:23.000Z',
+          episodeType: 'trailer',
+          contentType: 'audio/mpeg',
+          contentLength: 1149056,
+          episode: undefined,
+          isLocked: false,
+          isSample: false,
+          isSesamy: false,
+          permissions: ['rss_ob7yXk1n984zMpyh-w9Un', 'rss_1K-03nMwHqboV2DsVuhwn', 'rss_kazJObDoNRFOJ-aApucZU'],
+        },
+      ],
+      products: [
+        {
+          id: 'rss_1K-03nMwHqboV2DsVuhwn',
+          title: 'Markus Bundle',
+          description: 'The test show bundle',
+          priceOverrides: [],
+          sellingPoints: [],
+          price: 5,
+          currency: 'EUR',
+          period: 'MONTH',
+          time: 1,
+          purchaseType: 'RECURRING',
+          packageType: 'SINGLE',
+          image:
+            'https://images.sesamy.com/products/dedc1b40-c810-4cbf-adcf-5f85c3c71780/content/fbba0196-29e0-43e0-90a7-d18c3a34e574/1200535.jpg',
+          type: 'Recurring',
+        },
+        {
+          id: 'rss_kazJObDoNRFOJ-aApucZU-undefined',
+          title: 'Forord - Kjente Norske Ordtak',
+          description: 'Even snakker om kjente norske ordtak.',
+          priceOverrides: [],
+          sellingPoints: [],
+          price: 9,
+          currency: 'SEK',
+          period: 'MONTH',
+          time: 1,
+          purchaseType: 'OWN',
+          packageType: 'SINGLE',
+          image:
+            'https://images.sesamy.com/products/5f9355bc-b8f8-425c-8bfc-c6ec7a25eb83/content/8578b63c-b9cf-41db-b406-00b6daf07fbf/1200876.jpg',
+          type: 'Single Purchase',
+        },
+        {
+          id: 'rss_ob7yXk1n984zMpyh-w9Un',
+          title: 'Markus Monthly',
+          description: 'Desc',
+          priceOverrides: [],
+          sellingPoints: [],
+          price: 5,
+          currency: 'EUR',
+          period: 'MONTH',
+          time: 1,
+          purchaseType: 'RECURRING',
+          packageType: 'SINGLE',
+          image:
+            'https://images.sesamy.com/products/a231512b-773e-45d4-8246-8c4b120d53ce/content/f6eaa3e5-e278-4bb9-8359-ffc199c18429/1200349.jpg',
+          type: 'Recurring',
+        },
+      ],
+      categories: ['Education', 'History'],
+      sesamy: {
+        brandId: undefined,
+        feedId: undefined,
+        vendorId: 'demo',
+        isPrivate: false,
+      },
+    });
   });
 
   it('Check Sesamy Feed Proxy feed', async () => {

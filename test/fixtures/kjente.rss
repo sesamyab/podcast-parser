@@ -1,0 +1,90 @@
+
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/template/bWluaW1hbC54c2w"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:sesamy="http://schemas.sesamy.com/feed/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Markus Test</title>
+    <link>https://commerce.sesamy.dev/products/sid:kTVA3vfdEG1CMeXFzlM4q</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://feed.sesamy.dev/sid:kTVA3vfdEG1CMeXFzlM4q"/>
+    <atom:link rel="payment" title="Purchase" href="https://commerce.sesamy.dev/products/sid:kTVA3vfdEG1CMeXFzlM4q"/>
+    <copyright>Sesamy AB</copyright>
+    <description>Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj</description>
+    <content:encoded>Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj</content:encoded>
+    <pubDate>Mon, 15 Aug 2022 14:14:23 GMT</pubDate>
+    <lastBuildDate>Wed, 22 May 2024 10:02:03 GMT</lastBuildDate>
+    <language>en</language>
+    <ttl>30</ttl>
+    <image>
+      <url>https://assets.pod.space/system/shows/images/420/557/4c-/large/1660572666058-e3f2c312c751a91ad2ce104f36cbd69e.jpeg</url>
+      <title>Markus Test</title>
+      <link>https://commerce.sesamy.dev/products/sid:kTVA3vfdEG1CMeXFzlM4q</link>
+    </image>
+    <googleplay:block>no</googleplay:block>
+    <itunes:block>no</itunes:block>
+    <itunes:image href="https://assets.pod.space/system/shows/images/420/557/4c-/large/1660572666058-e3f2c312c751a91ad2ce104f36cbd69e.jpeg"/>
+    <itunes:summary>Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj</itunes:summary>
+    <itunes:author>Even C Jystad</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:category text="History"/>
+    <itunes:owner>
+      <itunes:name>Markus</itunes:name>
+      <itunes:email>markus@sesamy.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <sesamy:title>Markus Test</sesamy:title>
+    <sesamy:private>false</sesamy:private>
+    <sesamy:vendor-id>demo</sesamy:vendor-id>
+    <sesamy:product>
+      <id>rss_1K-03nMwHqboV2DsVuhwn</id>
+      <price>5</price>
+      <currency>EUR</currency>
+      <type>Recurring</type>
+      <title>Markus Bundle</title>
+      <description>The test show bundle</description>
+      <image>https://images.sesamy.com/products/dedc1b40-c810-4cbf-adcf-5f85c3c71780/content/fbba0196-29e0-43e0-90a7-d18c3a34e574/1200535.jpg</image>
+      <purchase_type>RECURRING</purchase_type>
+      <period>MONTH</period>
+      <time>1</time>
+      <purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_1K-03nMwHqboV2DsVuhwn&amp;client-id=undefined</purchase_url>
+    </sesamy:product>
+    <sesamy:product>
+      <id>rss_kazJObDoNRFOJ-aApucZU-undefined</id>
+      <price>9</price>
+      <currency>SEK</currency>
+      <type>Single Purchase</type>
+      <title>Forord - Kjente Norske Ordtak</title>
+      <description>Even snakker om kjente norske ordtak.</description>
+      <image>https://images.sesamy.com/products/5f9355bc-b8f8-425c-8bfc-c6ec7a25eb83/content/8578b63c-b9cf-41db-b406-00b6daf07fbf/1200876.jpg</image>
+      <purchase_type>OWN</purchase_type>
+      <period>MONTH</period>
+      <time>1</time>
+      <purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_kazJObDoNRFOJ-aApucZU-undefined&amp;client-id=undefined</purchase_url>
+    </sesamy:product>
+    <sesamy:product>
+      <id>rss_ob7yXk1n984zMpyh-w9Un</id>
+      <price>5</price>
+      <currency>EUR</currency>
+      <type>Recurring</type>
+      <title>Markus Monthly</title>
+      <description>Desc</description>
+      <image>https://images.sesamy.com/products/a231512b-773e-45d4-8246-8c4b120d53ce/content/f6eaa3e5-e278-4bb9-8359-ffc199c18429/1200349.jpg</image>
+      <purchase_type>RECURRING</purchase_type>
+      <period>MONTH</period>
+      <time>1</time>
+      <purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_ob7yXk1n984zMpyh-w9Un&amp;client-id=undefined</purchase_url>
+    </sesamy:product>
+    <item permissions="rss_ob7yXk1n984zMpyh-w9Un|rss_1K-03nMwHqboV2DsVuhwn|rss_kazJObDoNRFOJ-aApucZU">
+      <link>https://pod.space/kjentenorskeordtak/forord</link>
+      <guid isPermaLink="false">62fa54bf2c75a2001385f865</guid>
+      <title>Forord - Kjente Norske Ordtak</title>
+      <description>Even snakker om kjente norske ordtak.</description>
+      <content:encoded>&lt;p&gt;Even snakker om kjente norske ordtak.&lt;/p&gt;</content:encoded>
+      <itunes:subtitle>Even snakker om kjente norske ordtak.</itunes:subtitle>
+      <itunes:duration>00:01:11</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <enclosure url="https://splice.sesamy.dev/sid:kTVA3vfdEG1CMeXFzlM4q/62fa54bf2c75a2001385f865.mp3" length="1149056" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Aug 2022 14:14:23 GMT</pubDate>
+      <itunes:image href="https://assets.pod.space/system/shows/images/420/557/4c-/large/1660572666058-e3f2c312c751a91ad2ce104f36cbd69e.jpeg"/>
+    </item>
+  </channel>
+</rss>
