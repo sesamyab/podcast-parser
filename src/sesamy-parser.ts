@@ -8,6 +8,9 @@ import {
   sesamyFeedProductSchema,
   sesamyFeedEpisodeSchema,
   sesamyFeedSchema,
+  SesamyProduct,
+  SesamyFeed,
+  SesamyFeedProduct,
 } from '@sesamy/podcast-schemas';
 
 /**
@@ -136,23 +139,58 @@ export function parseFeedToSesamy(feed: RssFeed) {
       return item['sesamy:id'] && lockedEpisode.permissions.includes(item['sesamy:id']) && lockedEpisode.image;
     });
 
-    const product = sesamyFeedProductSchema.parse({
-      id: item['sesamy:id'] || item.id,
-      title: item['sesamy:title'] || item.title,
-      description: item['sesamy:description'] || item.description,
-      type: item.type,
-      priceOverrides: item['sesamy:price-override'] ?? [],
-      sellingPoints: item['sesamy:price-override'] ?? [],
-      price: item['sesamy:price'] || item.price,
-      currency: item['sesamy:currency'] || item.currency,
+    let purchaseType = item['sesamy:purchase-type'];
+    let packageType = item['sesamy:package-type'];
+    let type: 'Single Purchase' | 'single' | 'Recurring' | undefined;
+
+    // Fallbacks for old formats
+    switch (item['sesamy:purchase-type']) {
+      case 'OWN':
+        type = 'Single Purchase';
+        break;
+      case 'RECURRING':
+        type = 'Recurring';
+        break;
+      case 'SINGLE':
+        type = 'Single Purchase';
+        break;
+      default:
+        switch (item.type?.toLocaleLowerCase()) {
+          case 'recurring':
+            type = 'Recurring';
+            purchaseType = 'RECURRING';
+            break;
+          default:
+            type = 'Single Purchase';
+            purchaseType = 'OWN';
+            break;
+        }
+    }
+
+    // Add fallbacks. Remove once all systems are updated
+    const product: SesamyFeedProduct = {
+      id: item['sesamy:id'] || item.id || '',
+      title: item['sesamy:title'] || item.title || '',
+      description: item['sesamy:description'] || item.description || '',
+      priceOverrides: (item['sesamy:price-override'] ?? []).map(po => ({
+        price: po['sesamy:price'],
+        currency: po['sesamy:currency'],
+        market: po['sesamy:market'],
+      })),
+      sellingPoints: item['sesamy:selling-point'] ?? [],
+      price: item['sesamy:price'] || item.price || 0,
+      currency: item['sesamy:currency'] || item.currency || '',
       period: item['sesamy:period'] || item.period,
       time: item['sesamy:time'] || item.time,
-      productType: item['sesamy:product-type'],
-      purchaseType: item['sesamy:purchase-type'],
+      purchaseType: purchaseType || 'OWN',
+      packageType: packageType || 'SINGLE',
 
       // We get the first episode image or fallback to the show image
-      image: item.image ?? lockedEpisodeWithImage?.image ?? image,
-    });
+      image: item['sesamy:image'] || (item.image ?? lockedEpisodeWithImage?.image ?? image),
+
+      // @deprecated
+      type,
+    };
 
     return product;
   });
@@ -161,7 +199,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
   const unparsedCategories = channel['itunes:category'] ?? [];
   const spotifyLink = channel['atom:link']?.find(link => link['@_rel'] === 'spotify');
 
-  const sesamyFeed = sesamyFeedSchema.parse({
+  const sesamyFeed: SesamyFeed = {
     title: channel['sesamy:title'] || channel.title,
     titleWithUsername: channel.title,
     subtitle: channel['itunes:subtitle'],
@@ -215,7 +253,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
       vendorId: channel['sesamy:vendor-id'],
       isPrivate: channel['sesamy:private'] ? true : false,
     },
-  });
+  };
 
   const user = channel['sesamy:user'];
   if (user) {
