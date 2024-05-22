@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/sesamyab/podcast-parser/compare/v1.2.1...v1.2.2) (2024-05-22)
+
+
+### Bug Fixes
+
+* subtitle fallback ([734fcc0](https://github.com/sesamyab/podcast-parser/commit/734fcc0a26de97f4bea74fb6ff27a6b4fc24819c))
+
 ## [1.2.1](https://github.com/sesamyab/podcast-parser/compare/v1.2.0...v1.2.1) (2024-05-22)
 
 
