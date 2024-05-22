@@ -1,7 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import fs from 'fs';
-import { parseFeedToSesamy } from '../src/sesamy-parser';
-import parseFeedToJson from '../src/feed-parser';
+import { parseFeedToSesamy, parseFeedToJson } from '../src';
 
 // Mock structuredClone globally before your tests
 global.structuredClone = obj => JSON.parse(JSON.stringify(obj));
