@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/sesamyab/podcast-parser/compare/v1.2.3...v1.2.4) (2024-05-24)
+
+
+### Bug Fixes
+
+* default to collection if multiple episodes ([5ec0c65](https://github.com/sesamyab/podcast-parser/commit/5ec0c65939cabfdfb2a9d397dde9806ad42cb5c8))
+
 ## [1.2.3](https://github.com/sesamyab/podcast-parser/compare/v1.2.2...v1.2.3) (2024-05-22)
 
 
