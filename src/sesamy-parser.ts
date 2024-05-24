@@ -164,9 +164,19 @@ export function parseFeedToSesamy(feed: RssFeed) {
         }
     }
 
+    const id = item['sesamy:id'] || item.id || '';
+
+    if (!packageType) {
+      const episodes = lockedRssItems.filter(lockedEpisode => {
+        return lockedEpisode.permissions.includes(id);
+      });
+
+      packageType = episodes.length > 1 ? 'COLLECTION' : 'SINGLE';
+    }
+
     // Add fallbacks. Remove once all systems are updated
     const product: SesamyFeedProduct = {
-      id: item['sesamy:id'] || item.id || '',
+      id,
       title: item['sesamy:title'] || item.title || '',
       description: item['sesamy:description'] || item.description || '',
       priceOverrides: (item['sesamy:price-override'] ?? []).map(po => ({
@@ -180,7 +190,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
       period: item['sesamy:period'] || item.period,
       time: item['sesamy:time'] || item.time,
       purchaseType: purchaseType || 'OWN',
-      packageType: packageType || 'SINGLE',
+      packageType,
 
       // We get the first episode image or fallback to the show image
       image: item['sesamy:image'] || (item.image ?? lockedEpisodeWithImage?.image ?? image),
