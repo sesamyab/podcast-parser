@@ -9,6 +9,7 @@ const fredagspodden = fs.readFileSync('./test/fixtures/fredagspodden.rss');
 const spar = fs.readFileSync('./test/fixtures/spar.rss');
 const acast = fs.readFileSync('./test/fixtures/acast.rss');
 const kjente = fs.readFileSync('./test/fixtures/kjente.rss');
+const fof = fs.readFileSync('./test/fixtures/fof.rss');
 
 describe('Sesamy parser service tests', () => {
   it('Check podspace feed', async () => {
@@ -43,9 +44,33 @@ describe('Sesamy parser service tests', () => {
     expect(sesamyFeed.sesamy.isPrivate).toBe(false);
   });
 
+  it('Check collection products from ps', async () => {
+    const feedJson = await parseFeedToJson(fof.toString());
+    const sesamyFeed = parseFeedToSesamy(feedJson);
+
+    expect(sesamyFeed.title).toBe('Filip & Fredrik podcast');
+
+    expect(sesamyFeed.products.length).toBe(6);
+    expect(sesamyFeed.products[5]).toEqual({
+      currency: 'SEK',
+      description: 'Köp alla 5 avsnitt av Filip & Fredrik Svarar som släpps i December 2023',
+      id: 'b9f77f05-3ec0-4fc2-a9b1-f61e413ab7d9',
+      image: 'https://assets.pod.space/system/products/images/b9f/77f/05-/large/FFS_omslag.jpg',
+      packageType: 'COLLECTION',
+      period: undefined,
+      price: 59,
+      priceOverrides: [],
+      purchaseType: 'OWN',
+      sellingPoints: [],
+      time: undefined,
+      title: 'Paket med 5 avsnitt',
+      type: 'Single Purchase',
+    });
+  });
+
   it('Check Kjente Proxy feed', async () => {
-    const sparJson = await parseFeedToJson(kjente.toString());
-    const sesamyFeed = parseFeedToSesamy(sparJson);
+    const feedJson = await parseFeedToJson(kjente.toString());
+    const sesamyFeed = parseFeedToSesamy(feedJson);
 
     expect(sesamyFeed.title).toBe('Markus Test');
     expect(sesamyFeed.subtitle).toBe(
