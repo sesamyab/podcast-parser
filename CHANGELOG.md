@@ -1,3 +1,11 @@
+## [1.2.5](https://github.com/sesamyab/podcast-parser/compare/v1.2.4...v1.2.5) (2024-05-26)
+
+
+### Bug Fixes
+
+* add tests ([38419f3](https://github.com/sesamyab/podcast-parser/commit/38419f3aa5b6e4641f5b0c7841b34cf7fdd6f792))
+* filtering ([8e96417](https://github.com/sesamyab/podcast-parser/commit/8e964179a5088e766c590ca65681f241328ae6ff))
+
 ## [1.2.4](https://github.com/sesamyab/podcast-parser/compare/v1.2.3...v1.2.4) (2024-05-24)
 
 
