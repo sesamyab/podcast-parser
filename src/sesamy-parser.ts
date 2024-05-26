@@ -167,11 +167,11 @@ export function parseFeedToSesamy(feed: RssFeed) {
     const id = item['sesamy:id'] || item.id || '';
 
     if (!packageType) {
-      const episodes = lockedRssItems.filter(lockedEpisode => {
-        return lockedEpisode.permissions.includes(id);
+      const matchingEpisodes = episodes.filter(e => {
+        return e.permissions.includes(id);
       });
 
-      packageType = episodes.length > 1 ? 'COLLECTION' : 'SINGLE';
+      packageType = matchingEpisodes.length > 1 ? 'COLLECTION' : 'SINGLE';
     }
 
     // Add fallbacks. Remove once all systems are updated
@@ -250,7 +250,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
     podcastType: itunesType?.toLocaleLowerCase() === 'serial' ? 'SERIAL' : 'EPISODIC',
     totalSeasons,
     totalEpisodes: episodes.length,
-    episodes: episodes,
+    episodes,
     products,
     categories: getCategories(unparsedCategories),
     sesamy: {
