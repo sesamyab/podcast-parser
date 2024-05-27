@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/sesamyab/podcast-parser/compare/v1.2.5...v1.2.6) (2024-05-27)
+
+
+### Bug Fixes
+
+* do not overwrite purchase type ([7419a1e](https://github.com/sesamyab/podcast-parser/commit/7419a1e46076405f83111d41dea92cc773e9cc9c))
+
 ## [1.2.5](https://github.com/sesamyab/podcast-parser/compare/v1.2.4...v1.2.5) (2024-05-26)
 
 
