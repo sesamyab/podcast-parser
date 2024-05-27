@@ -155,11 +155,11 @@ export function parseFeedToSesamy(feed: RssFeed) {
         switch (item.type?.toLocaleLowerCase()) {
           case 'recurring':
             type = 'Recurring';
-            purchaseType = 'RECURRING';
+            purchaseType = purchaseType || 'RECURRING';
             break;
           default:
             type = 'Single Purchase';
-            purchaseType = 'OWN';
+            purchaseType = purchaseType || 'OWN';
             break;
         }
     }
