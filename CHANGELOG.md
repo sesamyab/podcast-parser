@@ -1,3 +1,10 @@
+## [1.2.7](https://github.com/sesamyab/podcast-parser/compare/v1.2.6...v1.2.7) (2024-06-03)
+
+
+### Bug Fixes
+
+* set seasons to 0 if there are none ([a42336a](https://github.com/sesamyab/podcast-parser/commit/a42336a603dcf044d540fd92b784d410558cb59f))
+
 ## [1.2.6](https://github.com/sesamyab/podcast-parser/compare/v1.2.5...v1.2.6) (2024-05-27)
 
 
