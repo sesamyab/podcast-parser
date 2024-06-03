@@ -124,11 +124,12 @@ export function parseFeedToSesamy(feed: RssFeed) {
   const isComplete = /yes/i.test(channel['itunes:complete'] ?? '');
   const isExplicit = /yes/i.test(channel['itunes:explicit'] ?? '');
   // Pick the highest season from episodes
-  const totalSeasons = Math.max(
-    ...episodes.map(episode => {
-      return episode.season ?? 0;
-    }),
-  );
+  const totalSeasons =
+    Math.max(
+      ...episodes.map(episode => {
+        return episode.season ?? 0;
+      }),
+    ) || 0;
   const rawProducts = channel['sesamy:product'] ?? [];
 
   const products = rawProducts.map(item => {
