@@ -1,0 +1,45 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/template/podspace.xsl" type="text/xsl" media="screen"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <atom:link href="https://feed.pod.space/aipodden" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com" rel="hub"/>
+    <title>AI-podden</title>
+    <link>https://pod.space/aipodden</link>
+    <description>This podcast explores the latest in AI with diverse perspectives, making it an essential listen for anyone interested in understanding the impact of artificial intelligence on society.</description>
+    <content:encoded>
+      <![CDATA[<div>This podcast explores the latest in AI with diverse perspectives, making it an essential listen for anyone interested in understanding the impact of artificial intelligence on society.</div>]]>
+    </content:encoded>
+    <language>en</language>
+    <copyright>Ather Gattami</copyright>
+    <generator>www.pod.space feed generator</generator>
+    <pubDate>Wed, 15 May 2024 14:11:04 +0000</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 14:11:04 +0000</lastBuildDate>
+    <itunes:author>Ather Gattami</itunes:author>
+    <itunes:summary>
+      <![CDATA[<div>This podcast explores the latest in AI with diverse perspectives, making it an essential listen for anyone interested in understanding the impact of artificial intelligence on society.</div>]]>
+    </itunes:summary>
+    <itunes:subtitle>This podcast explores the latest in AI with diverse perspectives, making it an essential listen for anyone interested in understanding the impact o...</itunes:subtitle>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="https://assets.pod.space/system/shows/images/021/f7c/df-/large/ai_podden_4_09_2019.png"/>
+    <itunes:owner>
+      <itunes:name>Ather Gattami</itunes:name>
+      <itunes:email>gattami@bitynamics.com</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://assets.pod.space/system/shows/images/021/f7c/df-/large/ai_podden_4_09_2019.png</url>
+      <title>AI-podden</title>
+      <link>https://pod.space/aipodden</link>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Science"/>
+  </channel>
+</rss>
