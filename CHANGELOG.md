@@ -1,3 +1,10 @@
+## [1.2.8](https://github.com/sesamyab/podcast-parser/compare/v1.2.7...v1.2.8) (2024-06-03)
+
+
+### Bug Fixes
+
+* season length ([e66e248](https://github.com/sesamyab/podcast-parser/commit/e66e24819a3e2c0cfd3463ddeca512008d4f968f))
+
 ## [1.2.7](https://github.com/sesamyab/podcast-parser/compare/v1.2.6...v1.2.7) (2024-06-03)
 
 
