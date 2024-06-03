@@ -10,6 +10,7 @@ const spar = fs.readFileSync('./test/fixtures/spar.rss');
 const acast = fs.readFileSync('./test/fixtures/acast.rss');
 const kjente = fs.readFileSync('./test/fixtures/kjente.rss');
 const fof = fs.readFileSync('./test/fixtures/fof.rss');
+const emptyFeed = fs.readFileSync('./test/fixtures/empty-feed.rss');
 
 describe('Sesamy parser service tests', () => {
   it('Check podspace feed', async () => {
@@ -66,6 +67,18 @@ describe('Sesamy parser service tests', () => {
       title: 'Paket med 5 avsnitt',
       type: 'Single Purchase',
     });
+  });
+
+  it('should parse an empty feed', async () => {
+    const feedJson = await parseFeedToJson(emptyFeed.toString());
+    const sesamyFeed = parseFeedToSesamy(feedJson);
+
+    expect(sesamyFeed.title).toBe('AI-podden');
+
+    expect(sesamyFeed.products.length).toBe(0);
+    expect(sesamyFeed.episodes.length).toBe(0);
+    expect(sesamyFeed.totalEpisodes).toBe(0);
+    expect(sesamyFeed.totalSeasons).toBe(0);
   });
 
   it('Check Kjente Proxy feed', async () => {
