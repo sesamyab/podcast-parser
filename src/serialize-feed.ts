@@ -1,5 +1,4 @@
 import { XMLBuilder } from 'fast-xml-parser';
-import iso6392BTo1 from './utils/country-codes';
 import { Item, Rss, RssBoolean, SesamyFeed, SesamyFeedEpisode } from '@sesamy/podcast-schemas';
 
 function formatDuration(totalSeconds: number): string {
@@ -93,7 +92,7 @@ export function generateRssFeed(feed: SesamyFeed): string {
       description: feed.description,
       pubDate: utcDate(feed.publishDate),
       lastBuildDate: new Date().toUTCString(),
-      language: iso6392BTo1(feed.language!) || 'en',
+      language: feed.language || 'en',
       ttl: 30,
       image: {
         url: feed.image || '',

@@ -112,7 +112,7 @@ describe('Sesamy parser service tests', () => {
         email: 'markus@sesamy.com',
       },
       publishDate: '2022-08-15T14:14:23.000Z',
-      language: 'en',
+      language: 'no',
       rssUrl: 'https://feed.sesamy.dev/sid:kTVA3vfdEG1CMeXFzlM4q',
       copyright: 'Sesamy AB',
       isHidden: false,
