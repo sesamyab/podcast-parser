@@ -1,3 +1,10 @@
+## [1.2.9](https://github.com/sesamyab/podcast-parser/compare/v1.2.8...v1.2.9) (2024-07-17)
+
+
+### Bug Fixes
+
+* skip country conversion ([1ca6f6c](https://github.com/sesamyab/podcast-parser/commit/1ca6f6c4dacf2c239b8163469f78f844fe374b35))
+
 ## [1.2.8](https://github.com/sesamyab/podcast-parser/compare/v1.2.7...v1.2.8) (2024-06-03)
 
 
