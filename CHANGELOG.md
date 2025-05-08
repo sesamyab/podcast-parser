@@ -1,3 +1,10 @@
+## [1.2.10](https://github.com/sesamyab/podcast-parser/compare/v1.2.9...v1.2.10) (2025-05-08)
+
+
+### Bug Fixes
+
+* add omny permissions ([b30f2fc](https://github.com/sesamyab/podcast-parser/commit/b30f2fc2ee936316682005d84341ceb595baad44))
+
 ## [1.2.9](https://github.com/sesamyab/podcast-parser/compare/v1.2.8...v1.2.9) (2024-07-17)
 
 
