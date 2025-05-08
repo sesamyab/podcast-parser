@@ -42,7 +42,11 @@ function decorateEpisode(episode: Item, isSesamy: boolean, isLocked: boolean, sh
 
   const image = episode['itunes:image']?.['@_href'] ?? showImage ?? '';
 
-  const permissions = episode['@_permissions']?.split('|').filter(Boolean) ?? [];
+  const omnyPermissions =
+    episode['omny:clipCustomField']?.filter(cf => cf['@_key'] === 'access-requirement').map(cf => cf['@_value']) ?? [];
+  const sesamyPermissions = episode['@_permissions']?.split('|').filter(Boolean) ?? [];
+
+  const permissions = [...omnyPermissions, ...sesamyPermissions];
 
   return sesamyFeedEpisodeSchema.parse({
     guid: episode?.guid['#text'],
