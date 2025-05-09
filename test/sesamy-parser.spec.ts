@@ -10,6 +10,7 @@ const spar = fs.readFileSync('./test/fixtures/spar.rss');
 const acast = fs.readFileSync('./test/fixtures/acast.rss');
 const kjente = fs.readFileSync('./test/fixtures/kjente.rss');
 const fof = fs.readFileSync('./test/fixtures/fof.rss');
+const omny = fs.readFileSync('./test/fixtures/omny.rss');
 const emptyFeed = fs.readFileSync('./test/fixtures/empty-feed.rss');
 
 describe('Sesamy parser service tests', () => {
@@ -43,6 +44,47 @@ describe('Sesamy parser service tests', () => {
 
     expect(sesamyFeed.categories[0]).toBe('Personal Journals');
     expect(sesamyFeed.sesamy.isPrivate).toBe(false);
+  });
+
+  it('check omny feed', async () => {
+    const omnyJson = await parseFeedToJson(omny.toString());
+
+    const omnyFeed = parseFeedToSesamy(omnyJson);
+    expect(omnyFeed.title).toBe('Afhørt test');
+    expect(omnyFeed.subtitle).toBe(' <p>kristoffer tester til sesamy</p> ');
+
+    expect(omnyFeed.description).toBe(' kristoffer tester til sesamy ');
+    expect(omnyFeed.summary).toBe('kristoffer tester til sesamy');
+    expect(omnyFeed.image).toBe(
+      'https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large',
+    );
+    expect(omnyFeed.author).toBe('example Bladet');
+    expect(omnyFeed.owner?.email).toBe('podcast@example.com');
+    expect(omnyFeed.owner?.name).toBe('example Bladet');
+
+    expect(omnyFeed.publishDate).toBe(undefined);
+    expect(omnyFeed.language).toBe('da');
+    expect(omnyFeed.rssUrl).toBe(
+      'https://www.omnycontent.com/shows/podcastd3216c/playlists/afh-rt-test.rss?accessToken=token',
+    );
+    expect(omnyFeed.copyright).toBe('2025 example Bladet');
+    expect(omnyFeed.isHidden).toBe(true);
+    expect(omnyFeed.isExplicit).toBe(false);
+    expect(omnyFeed.isComplete).toBe(false);
+    expect(omnyFeed.podcastType).toBe('EPISODIC');
+    expect(omnyFeed.totalSeasons).toBe(1);
+
+    expect(omnyFeed.totalEpisodes).toBe(2);
+
+    expect(omnyFeed.categories[0]).toBe('Society & Culture');
+    expect(omnyFeed.sesamy.isPrivate).toBe(false);
+
+    const episode = omnyFeed.episodes[0];
+    expect(episode.guid).toBe('8d43d06e-710b-48b0-910e-b2d70104b61a');
+    expect(episode.title).toBe('Ansigtstatoveret far holdt børn indespærret');
+    expect(episode.publishDate).toBe('2025-05-09T02:00:00.000Z');
+    expect(episode.permissions).toEqual(['example Bladet Plus']);
+    expect(episode.isLocked).toBe(true);
   });
 
   it('Check collection products from ps', async () => {
@@ -140,7 +182,7 @@ describe('Sesamy parser service tests', () => {
           contentType: 'audio/mpeg',
           contentLength: 1149056,
           episode: undefined,
-          isLocked: false,
+          isLocked: true,
           isSample: false,
           isSesamy: false,
           permissions: ['rss_ob7yXk1n984zMpyh-w9Un', 'rss_1K-03nMwHqboV2DsVuhwn', 'rss_kazJObDoNRFOJ-aApucZU'],
