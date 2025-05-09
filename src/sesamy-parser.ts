@@ -78,7 +78,7 @@ function decorateEpisode(episode: Item, isSesamy: boolean, isLocked: boolean, sh
     publishDate: episode.pubDate ? new Date(episode.pubDate).toISOString() : undefined,
     season: episode['itunes:season'],
     episode: episode['itunes:episode'],
-    isLocked: episode['@_locked'] || isLocked,
+    isLocked: episode['@_locked'] || !!permissions?.length || isLocked,
     isSesamy,
     isSample: episode['@_sample'] || false,
     permissions,
