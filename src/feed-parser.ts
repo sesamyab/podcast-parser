@@ -12,6 +12,7 @@ export async function parseFeedToJson(text: string): Promise<RssFeed> {
     'sesamy:selling-point',
     'sesamy:price-override',
     'enclosure',
+    'omny:clipCustomField',
   ];
 
   const options = {
