@@ -80,9 +80,9 @@ describe('Sesamy parser service tests', () => {
     expect(omnyFeed.sesamy.isPrivate).toBe(false);
 
     const episode = omnyFeed.episodes[0];
-    expect(episode.guid).toBe('8d43d06e-710b-48b0-910e-b2d70104b61a');
-    expect(episode.title).toBe('Ansigtstatoveret far holdt børn indespærret');
-    expect(episode.publishDate).toBe('2025-05-09T02:00:00.000Z');
+    expect(episode.guid).toBe('0019d650-95ad-43d9-98ec-b2d800e7dac4');
+    expect(episode.title).toBe('Drenge tiltalt for røveri og voldtægt af prostituerede');
+    expect(episode.publishDate).toBe('2025-05-12T02:00:00.000Z');
     expect(episode.permissions).toEqual(['example Bladet Plus']);
     expect(episode.isLocked).toBe(true);
   });

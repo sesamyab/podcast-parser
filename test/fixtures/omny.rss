@@ -1,99 +1,91 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-     xmlns:atom="http://www.w3.org/2005/Atom" 
-     xmlns:media="http://search.yahoo.com/mrss/" 
-     xmlns:psc="http://podlove.org/simple-chapters" 
-     xmlns:omny="https://omny.fm/rss-extensions" 
-     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-     xmlns:acast="https://schema.acast.com/1.0/" 
-     xmlns:podcast="https://podcastindex.org/namespace/1.0" 
-     version="2.0">
-    <channel>
-        <omny:organizationId>87e48115-d0ce-4e9b-83f0-ae5b01244e0a</omny:organizationId>
-        <omny:networkId>f167e182-618f-4ff9-be4d-b08f00b11f82</omny:networkId>
-        <omny:programId>6681eac1-37f8-4dea-8521-b11100826c48</omny:programId>
-        <omny:playlistId>94b0a468-69e9-4bb5-ba79-b2d100c39f53</omny:playlistId>
-        <omny:programCustomField key="frequency" value="daily"/>
-        <omny:programCustomField key="subtitle" value="Seneste nyt fra den kriminelle underverden"/>
-        <language>da</language>
-        <atom:link rel="self" type="application/rss+xml" href="https://www.omnycontent.com/shows/podcastd3216c/playlists/afh-rt-test.rss?accessToken=token"/>
-        <atom:link rel="first" type="application/rss+xml" href="https://www.omnycontent.com/shows/podcastd3216c/playlists/afh-rt-test.rss?accessToken=token&page=1"/>
-        <atom:link rel="last" type="application/rss+xml" href="https://www.omnycontent.com/shows/podcastd3216c/playlists/afh-rt-test.rss?accessToken=token&page=1"/>
-        <title>Afhørt test</title>
-        <link>https://examplebladet.dk/podcast/#/podcast/podcastd3216c/1</link>
-        <description>
-            <![CDATA[ <p>kristoffer tester til sesamy</p> ]]>
-        </description>
-        <itunes:type>episodic</itunes:type>
-        <itunes:summary>kristoffer tester til sesamy</itunes:summary>
-        <itunes:owner>
-            <itunes:name>example Bladet</itunes:name>
-            <itunes:email>podcast@example.com</itunes:email>
-        </itunes:owner>
-        <itunes:author>example Bladet</itunes:author>
-        <copyright>2025 example Bladet</copyright>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:block>yes</itunes:block>
-        <itunes:category text="Society &amp; Culture"/>
-        <itunes:category text="True Crime"/>
-        <itunes:category text="News"/>
-        <itunes:image href="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large"/>
-        <image>
-            <url>https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large</url>
-            <title>Afhørt test</title>
-            <link>https://examplebladet.dk/podcast/#/podcast/podcastd3216c/1</link>
-        </image>
-        <item>
-            <title>Ansigtstatoveret far holdt børn indespærret</title>
-            <itunes:title>Ansigtstatoveret far holdt børn indespærret</itunes:title>
-            <description>
-                <![CDATA[ <p>En 48-&aring;rig mand holdt sine b&oslash;rn indesp&aelig;rret i 25 timer, f&oslash;r han onsdag aften blev anholdt. Kenneth Meyer var til stede ved lejligheden i Husum, og Bjarke Vestesen var torsdag til grundlovsforh&oslash;r, hvor manden n&aelig;gtede sig skyldig.</p> <p>Bagefter fort&aelig;ller Kristian Korn&oslash; om en skudattentat, der onsdag udspillede sig i Kokkedal. Her blev en markant Hells Angels-rocker beskudt med et automatv&aring;ben.</p> <p>V&aelig;rt: Linette Kr&oslash;ger Jespersen.</p> <p>Produceret og klippet af: Rasmus S&oslash;gaard.</p> <p>Lyddesign: S&oslash;ren Gregersen.</p> <p>Programansvarlig: Rasmus S&oslash;gaard.</p> <p>Redakt&oslash;r: Knud Brix.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
-            </description>
-            <content:encoded>
-                <![CDATA[ <p>En 48-&aring;rig mand holdt sine b&oslash;rn indesp&aelig;rret i 25 timer, f&oslash;r han onsdag aften blev anholdt. Kenneth Meyer var til stede ved lejligheden i Husum, og Bjarke Vestesen var torsdag til grundlovsforh&oslash;r, hvor manden n&aelig;gtede sig skyldig.</p> <p>Bagefter fort&aelig;ller Kristian Korn&oslash; om en skudattentat, der onsdag udspillede sig i Kokkedal. Her blev en markant Hells Angels-rocker beskudt med et automatv&aring;ben.</p> <p>V&aelig;rt: Linette Kr&oslash;ger Jespersen.</p> <p>Produceret og klippet af: Rasmus S&oslash;gaard.</p> <p>Lyddesign: S&oslash;ren Gregersen.</p> <p>Programansvarlig: Rasmus S&oslash;gaard.</p> <p>Redakt&oslash;r: Knud Brix.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
-            </content:encoded>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>333</itunes:episode>
-            <itunes:author>example Bladet</itunes:author>
-            <itunes:image href="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large"/>
-            <media:content url="https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/8d43d06e-710b-48b0-910e-b2d70104b61a/audio.mp3?utm_source=Podcast&in_playlist=94b0a468-69e9-4bb5-ba79-b2d100c39f53&accessToken=token" type="audio/mpeg">
-                <media:player url="https://omny.fm/shows/podcastd3216c/ansigtstatoveret-far-holdt-b-rn-indesp-rret/embed?accessToken=token"/>
-            </media:content>
-            <media:content url="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large" type="image/jpeg"/>
-            <guid isPermaLink="false">8d43d06e-710b-48b0-910e-b2d70104b61a</guid>
-            <omny:clipId>8d43d06e-710b-48b0-910e-b2d70104b61a</omny:clipId>
-            <pubDate>Fri, 09 May 2025 02:00:00 +0000</pubDate>
-            <itunes:duration>1619</itunes:duration>
-            <enclosure url="https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/8d43d06e-710b-48b0-910e-b2d70104b61a/audio.mp3?utm_source=Podcast&in_playlist=94b0a468-69e9-4bb5-ba79-b2d100c39f53&accessToken=token" length="25954517" type="audio/mpeg"/>
-            <omny:clipCustomField key="access-requirement" value="example Bladet Plus"/>
-            <omny:clipCustomField key="author" value="example Bladet"/>
-        </item>
-        <item>
-            <title>Fartstrisser anklaget for at presse borgere til vanvidskørsel</title>
-            <itunes:title>Fartstrisser anklaget for at presse borgere til vanvidskørsel</itunes:title>
-            <description>
-                <![CDATA[ <p>Vi dykker ned i den opsigtsv&aelig;kkende sag om den nyligt pensionerede betjent Preben Sandager. example Bladets journalist Per Mathiessen er i studiet for at fort&aelig;lle om de absurde metoder, Sandager beskyldes for at bruge mod borgere i trafikken. Metoderne inkluderer en sort Golf med tonede ruder og et politikamera. Sandager n&aelig;gter alt og bakkes op af Statsadvokaten.</p> <p>V&aelig;rt: Emma Vinkel.</p> <p>Produktion og lyddesign: S&oslash;ren Gregersen.</p> <p>Programansvarlig: Rasmus S&oslash;gaard.</p> <p>Redakt&oslash;r: Knud Brix.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
-            </description>
-            <content:encoded>
-                <![CDATA[ <p>Vi dykker ned i den opsigtsv&aelig;kkende sag om den nyligt pensionerede betjent Preben Sandager. example Bladets journalist Per Mathiessen er i studiet for at fort&aelig;lle om de absurde metoder, Sandager beskyldes for at bruge mod borgere i trafikken. Metoderne inkluderer en sort Golf med tonede ruder og et politikamera. Sandager n&aelig;gter alt og bakkes op af Statsadvokaten.</p> <p>V&aelig;rt: Emma Vinkel.</p> <p>Produktion og lyddesign: S&oslash;ren Gregersen.</p> <p>Programansvarlig: Rasmus S&oslash;gaard.</p> <p>Redakt&oslash;r: Knud Brix.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
-            </content:encoded>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:season>1</itunes:season>
-            <itunes:episode>332</itunes:episode>
-            <itunes:author>example Bladet</itunes:author>
-            <itunes:image href="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large"/>
-            <media:content url="https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/dac66eab-f83e-4034-b216-b2d600db3ae5/audio.mp3?utm_source=Podcast&in_playlist=94b0a468-69e9-4bb5-ba79-b2d100c39f53&accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiZGFjNjZlYWItZjgzZS00MDM0LWIyMTYtYjJkNjAwZGIzYWU1IiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.H7-2kkyp4-mjODEP1GaYQE0M-sDzPHaUJfiFDMrmYBs" type="audio/mpeg">
-                <media:player url="https://omny.fm/shows/podcastd3216c/fartstrisser-anklaget-for-at-presse-borgere-til-vanvidsk-rsel/embed?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiZGFjNjZlYWItZjgzZS00MDM0LWIyMTYtYjJkNjAwZGIzYWU1IiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.H7-2kkyp4-mjODEP1GaYQE0M-sDzPHaUJfiFDMrmYBs"/>
-            </media:content>
-            <media:content url="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large" type="image/jpeg"/>
-            <guid isPermaLink="false">dac66eab-f83e-4034-b216-b2d600db3ae5</guid>
-            <omny:clipId>dac66eab-f83e-4034-b216-b2d600db3ae5</omny:clipId>
-            <pubDate>Thu, 08 May 2025 02:00:00 +0000</pubDate>
-            <itunes:duration>1100</itunes:duration>
-            <enclosure url="https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/dac66eab-f83e-4034-b216-b2d600db3ae5/audio.mp3?utm_source=Podcast&in_playlist=94b0a468-69e9-4bb5-ba79-b2d100c39f53&accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiZGFjNjZlYWItZjgzZS00MDM0LWIyMTYtYjJkNjAwZGIzYWU1IiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.H7-2kkyp4-mjODEP1GaYQE0M-sDzPHaUJfiFDMrmYBs" length="17642998" type="audio/mpeg"/>
-            <omny:clipCustomField key="access-requirement" value="example Bladet Plus"/>
-            <omny:clipCustomField key="author" value="example Bladet"/>
-        </item>
-    </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<channel>
+<omny:organizationId>87e48115-d0ce-4e9b-83f0-ae5b01244e0a</omny:organizationId>
+<omny:networkId>f167e182-618f-4ff9-be4d-b08f00b11f82</omny:networkId>
+<omny:programId>6681eac1-37f8-4dea-8521-b11100826c48</omny:programId>
+<omny:playlistId>94b0a468-69e9-4bb5-ba79-b2d100c39f53</omny:playlistId>
+<omny:programCustomField key="frequency" value="daily"/>
+<omny:programCustomField key="subtitle" value="Seneste nyt fra den kriminelle underverden"/>
+<language>da</language>
+<atom:link rel="self" type="application/rss+xml" href="https://www.omnycontent.com/shows/podcastd3216c/playlists/afh-rt-test.rss?accessToken=token"/>
+<atom:link rel="first" type="application/rss+xml" href="https://www.omnycontent.com/shows/podcastd3216c/playlists/afh-rt-test.rss?accessToken=token&page=1"/>
+<atom:link rel="last" type="application/rss+xml" href="https://www.omnycontent.com/shows/podcastd3216c/playlists/afh-rt-test.rss?accessToken=token&page=1"/>
+<title>Afhørt test</title>
+<link>https://examplebladet.dk/podcast/#/podcast/podcastd3216c/1</link>
+<description>
+<![CDATA[ <p>kristoffer tester til sesamy</p> ]]>
+</description>
+<itunes:type>episodic</itunes:type>
+<itunes:summary>kristoffer tester til sesamy</itunes:summary>
+<itunes:owner>
+<itunes:name>example Bladet</itunes:name>
+<itunes:email>podcast@example.com</itunes:email>
+</itunes:owner>
+<itunes:author>example Bladet</itunes:author>
+<copyright>2025 example Bladet</copyright>
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>yes</itunes:block>
+<itunes:category text="Society & Culture"/>
+<itunes:category text="True Crime"/>
+<itunes:category text="News"/>
+<itunes:image href="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large"/>
+<image>
+<url>https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large</url>
+<title>Afhørt test</title>
+<link>https://examplebladet.dk/podcast/#/podcast/podcastd3216c/1</link>
+</image>
+<item>
+<title>Drenge tiltalt for røveri og voldtægt af prostituerede</title>
+<itunes:title>Drenge tiltalt for røveri og voldtægt af prostituerede</itunes:title>
+<description>
+<![CDATA[ <p>En maskeret drengebande er tiltalt for at have r&oslash;vet og voldtaget flere prostituerede p&aring; forskellige adresser i Aarhus. Retssagen er netop begyndt, og if&oslash;lge politiet har de unge m&aelig;nd brugt s&aelig;rligt grove metoder for at skaffe penge fra kvinderne. Jeppe Grunnan f&oslash;lger sagen ved Retten i Aarhus.</p> <p>Husk, at Afh&oslash;rt er begyndt at sende alle hverdage. I sidste uge har vi blandt andet fortalt om en 48-&aring;rig mand, der holdt sine b&oslash;rn indesp&aelig;rret i 25 timer, f&oslash;r han onsdag aften blev anholdt.&nbsp;</p> <p>For at lytte til Afh&oslash;rt alle hverdage skal du have et abonnement p&aring; example Bladet Plus. Udover Afh&oslash;rt kan du ogs&aring; h&oslash;re de nyeste afsnit af Bag vesten og Bandeland, der lige nu g&aring;r t&aelig;t p&aring; Bandidos-rockeren Claus Palermo</p> <p>V&aelig;rt: Karoline Noer.</p> <p>Produceret og klippet af: Rasmus S&oslash;gaard.</p> <p>Lyddesign: S&oslash;ren Gregersen.</p> <p>Programansvarlig: Rasmus S&oslash;gaard.</p> <p>Redakt&oslash;r: Knud Brix.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>En maskeret drengebande er tiltalt for at have r&oslash;vet og voldtaget flere prostituerede p&aring; forskellige adresser i Aarhus. Retssagen er netop begyndt, og if&oslash;lge politiet har de unge m&aelig;nd brugt s&aelig;rligt grove metoder for at skaffe penge fra kvinderne. Jeppe Grunnan f&oslash;lger sagen ved Retten i Aarhus.</p> <p>Husk, at Afh&oslash;rt er begyndt at sende alle hverdage. I sidste uge har vi blandt andet fortalt om en 48-&aring;rig mand, der holdt sine b&oslash;rn indesp&aelig;rret i 25 timer, f&oslash;r han onsdag aften blev anholdt.&nbsp;</p> <p>For at lytte til Afh&oslash;rt alle hverdage skal du have et abonnement p&aring; example Bladet Plus. Udover Afh&oslash;rt kan du ogs&aring; h&oslash;re de nyeste afsnit af Bag vesten og Bandeland, der lige nu g&aring;r t&aelig;t p&aring; Bandidos-rockeren Claus Palermo</p> <p>V&aelig;rt: Karoline Noer.</p> <p>Produceret og klippet af: Rasmus S&oslash;gaard.</p> <p>Lyddesign: S&oslash;ren Gregersen.</p> <p>Programansvarlig: Rasmus S&oslash;gaard.</p> <p>Redakt&oslash;r: Knud Brix.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
+</content:encoded>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:season>1</itunes:season>
+<itunes:episode>334</itunes:episode>
+<itunes:author>example Bladet</itunes:author>
+<itunes:image href="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large"/>
+<media:content url="https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/0019d650-95ad-43d9-98ec-b2d800e7dac4/audio.mp3?utm_source=Podcast&in_playlist=94b0a468-69e9-4bb5-ba79-b2d100c39f53&accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiMDAxOWQ2NTAtOTVhZC00M2Q5LTk4ZWMtYjJkODAwZTdkYWM0IiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.eTGQG4jGNwBdsYJfyV1QYMpfXMWX3lB-Nm9QHOd2HdM" type="audio/mpeg">
+<media:player url="https://omny.fm/shows/podcastd3216c/drengebande-tiltalt-for-r-veri-og-voldt-gt-af-prostituerede/embed?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiMDAxOWQ2NTAtOTVhZC00M2Q5LTk4ZWMtYjJkODAwZTdkYWM0IiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.eTGQG4jGNwBdsYJfyV1QYMpfXMWX3lB-Nm9QHOd2HdM"/>
+</media:content>
+<media:content url="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large" type="image/jpeg"/>
+<guid isPermaLink="false">0019d650-95ad-43d9-98ec-b2d800e7dac4</guid>
+<omny:clipId>0019d650-95ad-43d9-98ec-b2d800e7dac4</omny:clipId>
+<pubDate>Mon, 12 May 2025 02:00:00 +0000</pubDate>
+<itunes:duration>1059</itunes:duration>
+<enclosure url="https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/0019d650-95ad-43d9-98ec-b2d800e7dac4/audio.mp3?utm_source=Podcast&in_playlist=94b0a468-69e9-4bb5-ba79-b2d100c39f53&accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiMDAxOWQ2NTAtOTVhZC00M2Q5LTk4ZWMtYjJkODAwZTdkYWM0IiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.eTGQG4jGNwBdsYJfyV1QYMpfXMWX3lB-Nm9QHOd2HdM" length="16984288" type="audio/mpeg"/>
+<omny:clipCustomField key="access-requirement" value="example Bladet Plus"/>
+<omny:clipCustomField key="author" value="example Bladet"/>
+</item>
+<item>
+<title>Ansigtstatoveret far holdt børn indespærret</title>
+<itunes:title>Ansigtstatoveret far holdt børn indespærret</itunes:title>
+<description>
+<![CDATA[ <p>En 48-&aring;rig mand holdt sine b&oslash;rn indesp&aelig;rret i 25 timer, f&oslash;r han onsdag aften blev anholdt. Kenneth Meyer var til stede ved lejligheden i Husum, og Bjarke Vestesen var torsdag til grundlovsforh&oslash;r, hvor manden n&aelig;gtede sig skyldig.</p> <p>Bagefter fort&aelig;ller Kristian Korn&oslash; om en skudattentat, der onsdag udspillede sig i Kokkedal. Her blev en markant Hells Angels-rocker beskudt med et automatv&aring;ben.</p> <p>V&aelig;rt: Linette Kr&oslash;ger Jespersen.</p> <p>Produceret og klippet af: Rasmus S&oslash;gaard.</p> <p>Lyddesign: S&oslash;ren Gregersen.</p> <p>Programansvarlig: Rasmus S&oslash;gaard.</p> <p>Redakt&oslash;r: Knud Brix.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
+</description>
+<content:encoded>
+<![CDATA[ <p>En 48-&aring;rig mand holdt sine b&oslash;rn indesp&aelig;rret i 25 timer, f&oslash;r han onsdag aften blev anholdt. Kenneth Meyer var til stede ved lejligheden i Husum, og Bjarke Vestesen var torsdag til grundlovsforh&oslash;r, hvor manden n&aelig;gtede sig skyldig.</p> <p>Bagefter fort&aelig;ller Kristian Korn&oslash; om en skudattentat, der onsdag udspillede sig i Kokkedal. Her blev en markant Hells Angels-rocker beskudt med et automatv&aring;ben.</p> <p>V&aelig;rt: Linette Kr&oslash;ger Jespersen.</p> <p>Produceret og klippet af: Rasmus S&oslash;gaard.</p> <p>Lyddesign: S&oslash;ren Gregersen.</p> <p>Programansvarlig: Rasmus S&oslash;gaard.</p> <p>Redakt&oslash;r: Knud Brix.</p><p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p> ]]>
+</content:encoded>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:season>1</itunes:season>
+<itunes:episode>333</itunes:episode>
+<itunes:author>example Bladet</itunes:author>
+<itunes:image href="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large"/>
+<media:content url="https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/8d43d06e-710b-48b0-910e-b2d70104b61a/audio.mp3?utm_source=Podcast&in_playlist=94b0a468-69e9-4bb5-ba79-b2d100c39f53&accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiOGQ0M2QwNmUtNzEwYi00OGIwLTkxMGUtYjJkNzAxMDRiNjFhIiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.4lIqVfI1HA995CWw9TKSgcsVum93V4DKkWIGIC4SnTI" type="audio/mpeg">
+<media:player url="https://omny.fm/shows/podcastd3216c/ansigtstatoveret-far-holdt-b-rn-indesp-rret/embed?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiOGQ0M2QwNmUtNzEwYi00OGIwLTkxMGUtYjJkNzAxMDRiNjFhIiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.4lIqVfI1HA995CWw9TKSgcsVum93V4DKkWIGIC4SnTI"/>
+</media:content>
+<media:content url="https://www.omnycontent.com/d/programs/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/image.jpg?t=1746611747&size=Large" type="image/jpeg"/>
+<guid isPermaLink="false">8d43d06e-710b-48b0-910e-b2d70104b61a</guid>
+<omny:clipId>8d43d06e-710b-48b0-910e-b2d70104b61a</omny:clipId>
+<pubDate>Fri, 09 May 2025 02:00:00 +0000</pubDate>
+<itunes:duration>1619</itunes:duration>
+<enclosure url="https://traffic.omny.fm/d/clips/87e48115-d0ce-4e9b-83f0-ae5b01244e0a/6681eac1-37f8-4dea-8521-b11100826c48/8d43d06e-710b-48b0-910e-b2d70104b61a/audio.mp3?utm_source=Podcast&in_playlist=94b0a468-69e9-4bb5-ba79-b2d100c39f53&accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjdxRG9scHVNdFUtYk1MRVJBSUxTSGciLCJ0eXAiOiJKV1QifQ.eyJjbGlwIjoiOGQ0M2QwNmUtNzEwYi00OGIwLTkxMGUtYjJkNzAxMDRiNjFhIiwiYWRzIjowLCJrZXkiOiIxYmk4TUcwRmlrbXNrVnBLU2xLTFRBIn0.4lIqVfI1HA995CWw9TKSgcsVum93V4DKkWIGIC4SnTI" length="25954517" type="audio/mpeg"/>
+<omny:clipCustomField key="access-requirement" value="example Bladet Plus"/>
+<omny:clipCustomField key="author" value="example Bladet"/>
+</item>
+</channel>
 </rss>
