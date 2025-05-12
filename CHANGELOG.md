@@ -1,3 +1,11 @@
+## [1.2.12](https://github.com/sesamyab/podcast-parser/compare/v1.2.11...v1.2.12) (2025-05-12)
+
+
+### Bug Fixes
+
+* array nodes ([7cbb01a](https://github.com/sesamyab/podcast-parser/commit/7cbb01a808e098d58a5374f669572e1aa603f942))
+* validate that the omny field is an array ([247e9ce](https://github.com/sesamyab/podcast-parser/commit/247e9ce639a369c48bb6febf681b62447fd90db0))
+
 ## [1.2.11](https://github.com/sesamyab/podcast-parser/compare/v1.2.10...v1.2.11) (2025-05-09)
 
 
