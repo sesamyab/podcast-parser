@@ -1,3 +1,11 @@
+## [1.2.13](https://github.com/sesamyab/podcast-parser/compare/v1.2.12...v1.2.13) (2025-05-13)
+
+
+### Bug Fixes
+
+* add omny tags ([dbf9572](https://github.com/sesamyab/podcast-parser/commit/dbf957283720cdd24b9af27521f380c7d8b7a082))
+* map all custom fields ([172cda2](https://github.com/sesamyab/podcast-parser/commit/172cda2bcee78d992643f702677a1f0e8ada3b77))
+
 ## [1.2.12](https://github.com/sesamyab/podcast-parser/compare/v1.2.11...v1.2.12) (2025-05-12)
 
 
