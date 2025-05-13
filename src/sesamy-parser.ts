@@ -43,7 +43,7 @@ function decorateEpisode(episode: Item, isSesamy: boolean, isLocked: boolean, sh
   const image = episode['itunes:image']?.['@_href'] ?? showImage ?? '';
 
   const tags = Array.isArray(episode['omny:clipCustomField'])
-    ? episode['omny:clipCustomField'].filter(cf => cf['@_key'] === 'access-requirement').map(cf => cf['@_value'])
+    ? episode['omny:clipCustomField'].map(cf => `${cf['@_key']}:${cf['@_value']}`)
     : [];
 
   const permissions = episode['@_permissions']?.split('|').filter(Boolean) ?? [];
