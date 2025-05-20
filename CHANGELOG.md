@@ -1,3 +1,10 @@
+## [1.2.14](https://github.com/sesamyab/podcast-parser/compare/v1.2.13...v1.2.14) (2025-05-20)
+
+
+### Bug Fixes
+
+* add purchase url to product ([780ff52](https://github.com/sesamyab/podcast-parser/commit/780ff52df680e4e7d23c350d8135f8818c2244ab))
+
 ## [1.2.13](https://github.com/sesamyab/podcast-parser/compare/v1.2.12...v1.2.13) (2025-05-13)
 
 
