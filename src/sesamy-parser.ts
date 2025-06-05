@@ -196,6 +196,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
       period: item['sesamy:period'] || item.period,
       time: item['sesamy:time'] || item.time,
       purchaseType: purchaseType || 'OWN',
+      purchaseUrl: item['sesamy:purchase-url'],
       packageType,
 
       // We get the first episode image or fallback to the show image
