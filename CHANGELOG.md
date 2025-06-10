@@ -1,3 +1,11 @@
+## [1.4.2](https://github.com/sesamyab/podcast-parser/compare/v1.4.1...v1.4.2) (2025-06-10)
+
+
+### Bug Fixes
+
+* build ([b2f74ad](https://github.com/sesamyab/podcast-parser/commit/b2f74ad03fe03d81aa03a489cea456987284dc8f))
+* changed spotify namespace link ([8ec5858](https://github.com/sesamyab/podcast-parser/commit/8ec5858beacad08f28eabe404bfb2cc31f059c36))
+
 ## [1.4.1](https://github.com/sesamyab/podcast-parser/compare/v1.4.0...v1.4.1) (2025-06-10)
 
 
