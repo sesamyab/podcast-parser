@@ -161,7 +161,7 @@ export function generateRssFeed(feed: SesamyFeed): string {
         '@_id': feed.spotify.partnerId || '',
       },
       sandbox: {
-        '@_enabled': (!feed.spotify.sandbox).toString(),
+        '@_enabled': (!!feed.spotify.sandbox).toString(),
       },
     };
   }

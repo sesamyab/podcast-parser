@@ -269,7 +269,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
     },
     spotify: channel['spotify:access']
       ? {
-          partnerId: '',
+          partnerId: channel['spotify:access'].partner?.['@_id'] || '',
           sandbox: channel['spotify:access'].sandbox
             ? channel['spotify:access'].sandbox['@_enabled'] === 'true'
             : undefined,
