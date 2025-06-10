@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/sesamyab/podcast-parser/compare/v1.3.0...v1.4.0) (2025-06-10)
+
+
+### Bug Fixes
+
+* code review comments ([2860bf0](https://github.com/sesamyab/podcast-parser/commit/2860bf0efef8b2ec09ff20daeacbaf4a5bcce3c9))
+
+
+### Features
+
+* add spotify element to channels ([40b8f59](https://github.com/sesamyab/podcast-parser/commit/40b8f5904f81599b73b32a477feba143c2ce2b2b))
+
 # [1.3.0](https://github.com/sesamyab/podcast-parser/compare/v1.2.14...v1.3.0) (2025-06-05)
 
 
