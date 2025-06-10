@@ -155,6 +155,17 @@ export function generateRssFeed(feed: SesamyFeed): string {
     };
   }
 
+  if (feed.spotify) {
+    rss.channel['spotify:access'] = {
+      partner: {
+        '@_id': feed.spotify.partnerId || '',
+      },
+      sandbox: {
+        '@_enabled': (!!feed.spotify.sandbox).toString(),
+      },
+    };
+  }
+
   const options = {
     format: true,
     ignoreAttributes: false,

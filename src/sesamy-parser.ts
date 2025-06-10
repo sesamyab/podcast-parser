@@ -267,6 +267,14 @@ export function parseFeedToSesamy(feed: RssFeed) {
       vendorId: channel['sesamy:vendor-id'],
       isPrivate: channel['sesamy:private'] ? true : false,
     },
+    spotify: channel['spotify:access']
+      ? {
+          partnerId: channel['spotify:access'].partner?.['@_id'] || '',
+          sandbox: channel['spotify:access'].sandbox
+            ? channel['spotify:access'].sandbox['@_enabled'] === 'true'
+            : undefined,
+        }
+      : {},
   };
 
   const user = channel['sesamy:user'];

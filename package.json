@@ -60,7 +60,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "@types/node": "22.15.29",
+    "@types/node": "22.15.30",
     "@types/sanitize-html": "2.16.0",
     "@typescript-eslint/eslint-plugin": "8.33.1",
     "@typescript-eslint/parser": "8.33.1",
@@ -74,13 +74,13 @@
     "semantic-release": "24.2.5",
     "typescript": "5.8.3",
     "vite": "6.3.5",
-    "vitest": "3.2.2"
+    "vitest": "3.2.3"
   },
   "dependencies": {
-    "@sesamy/podcast-schemas": "1.4.10",
-    "fast-xml-parser": "5.2.3",
+    "@sesamy/podcast-schemas": "1.5.1",
+    "fast-xml-parser": "5.2.5",
     "sanitize-html": "2.17.0",
-    "zod": "3.25.51"
+    "zod": "3.25.56"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
