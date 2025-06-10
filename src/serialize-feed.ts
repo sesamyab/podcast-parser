@@ -165,7 +165,7 @@ export function generateRssFeed(feed: SesamyFeed): string {
       },
     };
 
-    rss['@_xmlns:spotify'] = 'http://www.spotify.com/ns/rss';
+    rss['@_xmlns:spotify'] = 'https://www.spotify.com/ns/rss';
   }
 
   const options = {

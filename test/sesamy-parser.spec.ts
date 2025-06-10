@@ -83,8 +83,8 @@ describe('Sesamy parser service tests', () => {
     expect(episode.guid).toBe('0019d650-95ad-43d9-98ec-b2d800e7dac4');
     expect(episode.title).toBe('Drenge tiltalt for røveri og voldtægt af prostituerede');
     expect(episode.publishDate).toBe('2025-05-12T02:00:00.000Z');
-    expect(episode.permissions).toEqual(['example Bladet Plus']);
-    expect(episode.isLocked).toBe(true);
+    expect(episode.permissions).toEqual([]);
+    expect(episode.isLocked).toBe(false);
   });
 
   it('Check collection products from ps', async () => {

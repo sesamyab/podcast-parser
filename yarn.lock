@@ -810,10 +810,10 @@
     lodash-es "^4.17.21"
     read-package-up "^11.0.0"
 
-"@sesamy/podcast-schemas@1.5.1":
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/@sesamy/podcast-schemas/-/podcast-schemas-1.5.1.tgz#61e45b6862eaef38d45f8d0b3db2e0a60f0b2497"
-  integrity sha512-+teHb+dByxLrH7L0cD97DdTuoIlDcji3ZDj87uPu0iGTTHekhdmxS05lNY4CT8ex7GLwyKMKwZxFGnWSz2mzJQ==
+"@sesamy/podcast-schemas@1.5.2":
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/@sesamy/podcast-schemas/-/podcast-schemas-1.5.2.tgz#decc7388a0d2e8fb66610b5389356e75879121df"
+  integrity sha512-6a7QriIJcGwLgs26K0UEDU/N4Un5NB4iy8t/w4FebKoTPTSTMscYST9mk7a0bqIkmIstpEiaqZePyDi/hTAsUA==
   dependencies:
     zod "^3.25.51"
 
