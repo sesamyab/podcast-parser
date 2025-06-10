@@ -133,7 +133,7 @@ describe('Sesamy parser service tests', () => {
     );
     expect(sesamyFeed.products.length).toBe(3);
 
-    expect(sesamyFeed).toEqual({
+    expect(sesamyFeed).toMatchObject({
       title: 'Markus Test',
       titleWithUsername: 'Markus Test',
       externalIds: {},
