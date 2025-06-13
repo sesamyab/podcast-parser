@@ -107,7 +107,6 @@ describe('Sesamy parser service tests', () => {
       sellingPoints: [],
       time: undefined,
       title: 'Paket med 5 avsnitt',
-      type: 'Single Purchase',
     });
   });
 
@@ -199,11 +198,10 @@ describe('Sesamy parser service tests', () => {
           currency: 'EUR',
           period: 'MONTH',
           time: 1,
-          purchaseType: 'RECURRING',
+          purchaseType: 'OWN',
           packageType: 'SINGLE',
           image:
             'https://images.sesamy.com/products/dedc1b40-c810-4cbf-adcf-5f85c3c71780/content/fbba0196-29e0-43e0-90a7-d18c3a34e574/1200535.jpg',
-          type: 'Recurring',
         },
         {
           id: 'rss_kazJObDoNRFOJ-aApucZU-undefined',
@@ -219,7 +217,6 @@ describe('Sesamy parser service tests', () => {
           packageType: 'SINGLE',
           image:
             'https://images.sesamy.com/products/5f9355bc-b8f8-425c-8bfc-c6ec7a25eb83/content/8578b63c-b9cf-41db-b406-00b6daf07fbf/1200876.jpg',
-          type: 'Single Purchase',
         },
         {
           id: 'rss_ob7yXk1n984zMpyh-w9Un',
@@ -231,11 +228,10 @@ describe('Sesamy parser service tests', () => {
           currency: 'EUR',
           period: 'MONTH',
           time: 1,
-          purchaseType: 'RECURRING',
+          purchaseType: 'OWN',
           packageType: 'SINGLE',
           image:
             'https://images.sesamy.com/products/a231512b-773e-45d4-8246-8c4b120d53ce/content/f6eaa3e5-e278-4bb9-8359-ffc199c18429/1200349.jpg',
-          type: 'Recurring',
         },
       ],
       categories: ['Education', 'History'],
@@ -252,14 +248,14 @@ describe('Sesamy parser service tests', () => {
     const sparJson = await parseFeedToJson(spar.toString());
     const sesamyFeed = parseFeedToSesamy(sparJson);
 
-    const product = sesamyFeed.products[0];
     expect(sesamyFeed.products.length).toBe(1);
+    const [product] = sesamyFeed.products;
 
+    expect(product.sku).toBe('sid:InYYzPf__ogPcPBsoTtxs');
     expect(product.id).toBe('d2edWmywhM65BEETmjZ0l');
     expect(product.currency).toBe('SEK');
     expect(product.description).toBe('Lyssna obegränsat på alla podcasts från Third Ear Studio. Avsluta när du vill.');
     expect(product.title).toBe('Alla podcasts från Third Ear Studio');
-    expect(product.type).toBe('Recurring');
     expect(product.price).toBe(49);
     expect(product.image).toBe(
       'https://assets.pippa.io/shows/616ebe1886d7b1398620b943/1653852897984-a323f878a9d212e6dbe4e47fc0f062fa.jpeg',

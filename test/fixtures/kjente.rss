@@ -36,42 +36,39 @@
     <sesamy:vendor-id>demo</sesamy:vendor-id>
     <sesamy:product>
       <id>rss_1K-03nMwHqboV2DsVuhwn</id>
-      <price>5</price>
-      <currency>EUR</currency>
-      <type>Recurring</type>
+      <sesamy:price>5</sesamy:price>
+      <sesamy:currency>EUR</sesamy:currency>
       <title>Markus Bundle</title>
-      <description>The test show bundle</description>
+      <sesamy:description>The test show bundle</sesamy:description>
       <image>https://images.sesamy.com/products/dedc1b40-c810-4cbf-adcf-5f85c3c71780/content/fbba0196-29e0-43e0-90a7-d18c3a34e574/1200535.jpg</image>
       <purchase_type>RECURRING</purchase_type>
-      <period>MONTH</period>
-      <time>1</time>
-      <purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_1K-03nMwHqboV2DsVuhwn&amp;client-id=undefined</purchase_url>
+      <sesamy:period>MONTH</sesamy:period>
+      <sesamy:time>1</sesamy:time>
+      <sesamy:purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_1K-03nMwHqboV2DsVuhwn&amp;client-id=undefined</sesamy:purchase_url>
     </sesamy:product>
     <sesamy:product>
       <id>rss_kazJObDoNRFOJ-aApucZU-undefined</id>
-      <price>9</price>
-      <currency>SEK</currency>
-      <type>Single Purchase</type>
+      <sesamy:price>9</sesamy:price>
+      <sesamy:currency>SEK</sesamy:currency>      
       <title>Forord - Kjente Norske Ordtak</title>
       <description>Even snakker om kjente norske ordtak.</description>
       <image>https://images.sesamy.com/products/5f9355bc-b8f8-425c-8bfc-c6ec7a25eb83/content/8578b63c-b9cf-41db-b406-00b6daf07fbf/1200876.jpg</image>
       <purchase_type>OWN</purchase_type>
-      <period>MONTH</period>
-      <time>1</time>
-      <purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_kazJObDoNRFOJ-aApucZU-undefined&amp;client-id=undefined</purchase_url>
+      <sesamy:period>MONTH</sesamy:period>
+      <sesamy:time>1</sesamy:time>
+      <sesamy:purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_kazJObDoNRFOJ-aApucZU-undefined&amp;client-id=undefined</sesamy:purchase_url>
     </sesamy:product>
     <sesamy:product>
       <id>rss_ob7yXk1n984zMpyh-w9Un</id>
-      <price>5</price>
-      <currency>EUR</currency>
-      <type>Recurring</type>
+      <sesamy:price>5</sesamy:price>
+      <sesamy:currency>EUR</sesamy:currency>      
       <title>Markus Monthly</title>
       <description>Desc</description>
       <image>https://images.sesamy.com/products/a231512b-773e-45d4-8246-8c4b120d53ce/content/f6eaa3e5-e278-4bb9-8359-ffc199c18429/1200349.jpg</image>
       <purchase_type>RECURRING</purchase_type>
-      <period>MONTH</period>
-      <time>1</time>
-      <purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_ob7yXk1n984zMpyh-w9Un&amp;client-id=undefined</purchase_url>
+      <sesamy:period>MONTH</sesamy:period>
+      <sesamy:time>1</sesamy:time>
+      <sesamy:purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_ob7yXk1n984zMpyh-w9Un&amp;client-id=undefined</sesamy:purchase_url>
     </sesamy:product>
     <item permissions="rss_ob7yXk1n984zMpyh-w9Un|rss_1K-03nMwHqboV2DsVuhwn|rss_kazJObDoNRFOJ-aApucZU">
       <link>https://pod.space/kjentenorskeordtak/forord</link>
