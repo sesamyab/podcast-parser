@@ -144,31 +144,6 @@ export function parseFeedToSesamy(feed: RssFeed) {
 
     let purchaseType = item['sesamy:purchase-type'];
     let packageType = item['sesamy:package-type'];
-    let type: 'Single Purchase' | 'single' | 'Recurring' | undefined;
-
-    // Fallbacks for old formats
-    switch (item['sesamy:purchase-type']) {
-      case 'OWN':
-        type = 'Single Purchase';
-        break;
-      case 'RECURRING':
-        type = 'Recurring';
-        break;
-      case 'SINGLE':
-        type = 'Single Purchase';
-        break;
-      default:
-        switch (item.type?.toLocaleLowerCase()) {
-          case 'recurring':
-            type = 'Recurring';
-            purchaseType = purchaseType || 'RECURRING';
-            break;
-          default:
-            type = 'Single Purchase';
-            purchaseType = purchaseType || 'OWN';
-            break;
-        }
-    }
 
     const id = item['sesamy:id'] || item.id || '';
 
@@ -183,6 +158,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
     // Add fallbacks. Remove once all systems are updated
     const product: SesamyFeedProduct = {
       id,
+      sku: item['sesamy:sku'],
       title: item['sesamy:title'] || item.title || '',
       description: item['sesamy:description'] || item.description || '',
       priceOverrides: (item['sesamy:price-override'] ?? []).map(po => ({
@@ -193,7 +169,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
       sellingPoints: item['sesamy:selling-point'] ?? [],
       price: item['sesamy:price'] || item.price || 0,
       currency: item['sesamy:currency'] || item.currency || '',
-      period: item['sesamy:period'] || item.period,
+      period: item['sesamy:period'],
       time: item['sesamy:time'] || item.time,
       purchaseType: purchaseType || 'OWN',
       purchaseUrl: item['sesamy:purchase-url'],
@@ -201,9 +177,6 @@ export function parseFeedToSesamy(feed: RssFeed) {
 
       // We get the first episode image or fallback to the show image
       image: item['sesamy:image'] || (item.image ?? lockedEpisodeWithImage?.image ?? image),
-
-      // @deprecated
-      type,
     };
 
     return product;
@@ -261,7 +234,6 @@ export function parseFeedToSesamy(feed: RssFeed) {
     products,
     categories: getCategories(unparsedCategories),
     sesamy: {
-      // Adding the fields manually to have more control and defined types
       feedId: channel['sesamy:feed-id'],
       brandId: channel['sesamy:brand-id'],
       vendorId: channel['sesamy:vendor-id'],

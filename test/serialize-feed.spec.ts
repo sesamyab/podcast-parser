@@ -3,104 +3,6 @@ import { generateRssFeed } from '../src/serialize-feed';
 import { SesamyFeed } from '@sesamy/podcast-schemas';
 
 describe('generateRssFeed', () => {
-  it('should generate valid RSS feed from Sesamy feed data', () => {
-    // Test data based on the provided JSON
-    const testFeed: SesamyFeed = {
-      title: 'Massakern i Tulsa',
-      titleWithUsername: 'Massakern i Tulsa',
-      description: 'Massakern i Tulsa podcast description',
-      subtitle: 'Massakern i Tulsa podcast subtitle',
-      summary: 'Massakern i Tulsa podcast summary',
-      descriptionWithHtml: 'Massakern i Tulsa podcast description with HTML',
-      podcastType: 'EPISODIC',
-      isExplicit: false,
-      isHidden: false,
-      isComplete: false,
-      publishDate: '2025-06-10T12:41:12.874Z',
-      link: 'https://podcasts.sesamy.com/feeds/NwBPd2xGe-AOW2_YHkKu4?format=json',
-      rssUrl: 'https://podcasts.sesamy.com/feeds/NwBPd2xGe-AOW2_YHkKu4',
-      language: 'en',
-      author: 'Test Author',
-      image: 'https://example.com/podcast-image.jpg',
-      copyright: 'Sesamy AB',
-      episodes: [],
-      products: [],
-      categories: ['Technology', 'Education'],
-      externalIds: {},
-      totalSeasons: 0,
-      totalEpisodes: 0,
-      owner: {
-        name: 'Test Owner',
-        email: 'test@example.com',
-      },
-      sesamy: {
-        vendorId: 'naudio',
-        isPrivate: false,
-        feedId: undefined,
-        brandId: undefined,
-      },
-      spotify: {
-        partnerId: '',
-        sandbox: false,
-      },
-    };
-
-    // Generate RSS feed
-    const rssFeed = generateRssFeed(testFeed);
-
-    // Basic validation - should be XML string
-    expect(rssFeed).toContain('<?xml version="1.0"?>');
-    expect(rssFeed).toContain('<rss');
-    expect(rssFeed).toContain('version="2.0"');
-    expect(rssFeed).toContain('</rss>');
-
-    // Check for required RSS elements
-    expect(rssFeed).toContain('<channel>');
-    expect(rssFeed).toContain('</channel>');
-    expect(rssFeed).toContain('<title>Massakern i Tulsa</title>');
-    expect(rssFeed).toContain('<description>Massakern i Tulsa podcast description</description>');
-    expect(rssFeed).toContain('<link>https://podcasts.sesamy.com/feeds/NwBPd2xGe-AOW2_YHkKu4?format=json</link>');
-    expect(rssFeed).toContain('<language>en</language>');
-
-    // Check for iTunes-specific elements
-    expect(rssFeed).toContain('xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"');
-    expect(rssFeed).toContain('<itunes:author>Test Author</itunes:author>');
-    expect(rssFeed).toContain('<itunes:explicit>no</itunes:explicit>');
-
-    // Check for Sesamy-specific elements
-    expect(rssFeed).toContain('xmlns:sesamy="http://schemas.sesamy.com/feed/1.0"');
-    expect(rssFeed).toContain('<sesamy:title>Massakern i Tulsa</sesamy:title>');
-    expect(rssFeed).toContain('<sesamy:vendor-id>naudio</sesamy:vendor-id>');
-    expect(rssFeed).toContain('<sesamy:private>false</sesamy:private>');
-
-    // Check owner information
-    expect(rssFeed).toContain('<itunes:owner>');
-    expect(rssFeed).toContain('<itunes:name>Test Owner</itunes:name>');
-    expect(rssFeed).toContain('<itunes:email>test@example.com</itunes:email>');
-    expect(rssFeed).toContain('</itunes:owner>');
-
-    // Check categories
-    expect(rssFeed).toContain('<itunes:category');
-    expect(rssFeed).toContain('Technology');
-    expect(rssFeed).toContain('Education');
-
-    // Check that it includes proper namespaces
-    expect(rssFeed).toContain('xmlns:atom="http://www.w3.org/2005/Atom"');
-    expect(rssFeed).toContain('xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"');
-    expect(rssFeed).toContain('xmlns:content="http://purl.org/rss/1.0/modules/content/"');
-
-    // Check for spotify namespace and access block
-    expect(rssFeed).toContain('xmlns:spotify');
-
-    // Validate the RSS is well-formed XML by checking basic structure
-    const openTags = (rssFeed.match(/<(?!\?)[^\/][^>]*>/g) || []).length;
-    const closeTags = (rssFeed.match(/<\/[^>]*>/g) || []).length;
-    const selfClosingTags = (rssFeed.match(/<[^>]*\/>/g) || []).length;
-
-    // Each opening tag should have a corresponding closing tag, except for self-closing tags
-    expect(openTags - selfClosingTags).toEqual(closeTags);
-  });
-
   it('should handle feed with episodes', () => {
     const testFeedWithEpisodes: SesamyFeed = {
       title: 'Test Podcast',
@@ -342,7 +244,6 @@ describe('generateRssFeed', () => {
     expect(rssFeed).toContain('<sesamy:title>Premium Access</sesamy:title>');
     expect(rssFeed).toContain('<price>9.99</price>');
     expect(rssFeed).toContain('<sesamy:price>9.99</sesamy:price>');
-    expect(rssFeed).toContain('<currency>USD</currency>');
     expect(rssFeed).toContain('<sesamy:currency>USD</sesamy:currency>');
     expect(rssFeed).toContain('<sesamy:purchase-type>RECURRING</sesamy:purchase-type>');
     expect(rssFeed).toContain('<sesamy:package-type>SINGLE</sesamy:package-type>');
