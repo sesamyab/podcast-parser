@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/sesamyab/podcast-parser/compare/v1.4.2...v1.5.0) (2025-06-16)
+
+
+### Features
+
+* add sku and removed old fields ([bcb8aaf](https://github.com/sesamyab/podcast-parser/commit/bcb8aaf303934b35207be35b72e8dd5734271c5c))
+
 ## [1.4.2](https://github.com/sesamyab/podcast-parser/compare/v1.4.1...v1.4.2) (2025-06-10)
 
 
