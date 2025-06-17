@@ -211,6 +211,7 @@ describe('generateRssFeed', () => {
       products: [
         {
           id: 'product-1',
+          sku: 'sku-123',
           title: 'Premium Access',
           description: 'Get premium access',
           priceOverrides: [],
@@ -249,5 +250,8 @@ describe('generateRssFeed', () => {
     expect(rssFeed).toContain('<sesamy:package-type>SINGLE</sesamy:package-type>');
     expect(rssFeed).toContain('<sesamy:selling-point>Ad-free content</sesamy:selling-point>');
     expect(rssFeed).toContain('<sesamy:selling-point>Early access</sesamy:selling-point>');
+    expect(rssFeed).toContain('<sesamy:purchase-url>https://example.com/buy</sesamy:purchase-url>');
+    expect(rssFeed).toContain('<sesamy:image>https://example.com/product1.jpg</sesamy:image>');
+    expect(rssFeed).toContain('<sesamy:sku>sku-123</sesamy:sku>');
   });
 });
