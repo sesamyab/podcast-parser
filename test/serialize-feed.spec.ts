@@ -254,7 +254,7 @@ describe('generateRssFeed', () => {
     expect(rssFeed).toContain('<sesamy:purchase-url>https://example.com/buy</sesamy:purchase-url>');
     expect(rssFeed).toContain('<sesamy:image>https://example.com/product1.jpg</sesamy:image>');
     expect(rssFeed).toContain('<sesamy:sku>sku-123</sesamy:sku>');
-    expect(rssFeed).toContain('<seasmy:sellable>true</seasmy:sellable>');
+    expect(rssFeed).toContain('<sesamy:sellable>true</sesamy:sellable>');
     expect(rssFeed).toContain('<sesamy:hidden>false</sesamy:hidden>');
   });
 });

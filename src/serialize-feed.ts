@@ -135,7 +135,7 @@ export function generateRssFeed(feed: SesamyFeed): string {
         'sesamy:period': product.period,
         'sesamy:sku': product.sku,
         'sesamy:time': product.time,
-        'seasmy:sellable': product.isSellable,
+        'sesamy:sellable': product.isSellable,
         'sesamy:hidden': product.isHidden,
         'sesamy:selling-point': product.sellingPoints || [],
       })),
