@@ -230,6 +230,8 @@ describe('Sesamy parser service tests', () => {
           time: 1,
           purchaseType: 'OWN',
           packageType: 'SINGLE',
+          isHidden: false,
+          isSellable: true,
           image:
             'https://images.sesamy.com/products/a231512b-773e-45d4-8246-8c4b120d53ce/content/f6eaa3e5-e278-4bb9-8359-ffc199c18429/1200349.jpg',
         },

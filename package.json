@@ -60,27 +60,27 @@
   "devDependencies": {
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "@types/node": "24.0.1",
+    "@types/node": "24.0.3",
     "@types/sanitize-html": "2.16.0",
-    "@typescript-eslint/eslint-plugin": "8.34.0",
-    "@typescript-eslint/parser": "8.34.0",
+    "@typescript-eslint/eslint-plugin": "8.34.1",
+    "@typescript-eslint/parser": "8.34.1",
     "copyfiles": "2.4.1",
     "dts-bundle-generator": "9.5.1",
     "eslint": "9.29.0",
     "eslint-config-prettier": "10.1.5",
-    "eslint-plugin-prettier": "5.4.1",
+    "eslint-plugin-prettier": "5.5.0",
     "prettier": "3.5.3",
     "rimraf": "6.0.1",
     "semantic-release": "24.2.5",
     "typescript": "5.8.3",
     "vite": "6.3.5",
-    "vitest": "3.2.3"
+    "vitest": "3.2.4"
   },
   "dependencies": {
-    "@sesamy/podcast-schemas": "1.6.1",
+    "@sesamy/podcast-schemas": "1.7.0",
     "fast-xml-parser": "5.2.5",
     "sanitize-html": "2.17.0",
-    "zod": "3.25.64"
+    "zod": "3.25.67"
   },
   "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }

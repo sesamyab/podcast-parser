@@ -15,6 +15,8 @@ export async function parseFeedToJson(text: string): Promise<RssFeed> {
     'omny:clipCustomField',
   ];
 
+  const booleanTagNames = ['sesamy:sellable', 'sesamy:hidden'];
+
   const options = {
     ignoreAttributes: false,
     attributeNamePrefix: '@_',
@@ -26,6 +28,13 @@ export async function parseFeedToJson(text: string): Promise<RssFeed> {
         return false;
       }
       return value;
+    },
+    parseNodeValue: (val: string, tagName: string) => {
+      // Parse specific tag names as boolean values
+      if (booleanTagNames.includes(tagName)) {
+        return val === 'true';
+      }
+      return val;
     },
     isArray: (name: string) => {
       return arrayNodes.includes(name);
