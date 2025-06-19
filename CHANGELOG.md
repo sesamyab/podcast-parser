@@ -1,3 +1,11 @@
+## [1.5.1](https://github.com/sesamyab/podcast-parser/compare/v1.5.0...v1.5.1) (2025-06-19)
+
+
+### Bug Fixes
+
+* add support for sellable and hidden ([1778278](https://github.com/sesamyab/podcast-parser/commit/1778278ae37ddca11e10b5c934e571cf881761fa))
+* typo ([749f6c4](https://github.com/sesamyab/podcast-parser/commit/749f6c4f655b90ade06faa11f98b9a82c414a998))
+
 # [1.5.0](https://github.com/sesamyab/podcast-parser/compare/v1.4.2...v1.5.0) (2025-06-16)
 
 
