@@ -174,6 +174,8 @@ export function parseFeedToSesamy(feed: RssFeed) {
       purchaseType: purchaseType || 'OWN',
       purchaseUrl: item['sesamy:purchase-url'],
       packageType,
+      isSellable: item['sesamy:sellable'],
+      isHidden: item['sesamy:hidden'],
 
       // We get the first episode image or fallback to the show image
       image: item['sesamy:image'] || (item.image ?? lockedEpisodeWithImage?.image ?? image),

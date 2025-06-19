@@ -69,6 +69,8 @@
       <sesamy:period>MONTH</sesamy:period>
       <sesamy:time>1</sesamy:time>
       <sesamy:purchase_url>https://checkout3.sesamy.com?sku=sid:kTVA3vfdEG1CMeXFzlM4q&amp;option=rss_ob7yXk1n984zMpyh-w9Un&amp;client-id=undefined</sesamy:purchase_url>
+      <sesamy:sellable>true</sesamy:sellable>
+      <sesamy:hidden>false</sesamy:hidden>
     </sesamy:product>
     <item permissions="rss_ob7yXk1n984zMpyh-w9Un|rss_1K-03nMwHqboV2DsVuhwn|rss_kazJObDoNRFOJ-aApucZU">
       <link>https://pod.space/kjentenorskeordtak/forord</link>
