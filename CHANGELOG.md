@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/sesamyab/podcast-parser/compare/v1.6.0...v1.6.1) (2025-07-14)
+
+
+### Bug Fixes
+
+* external ids to be parsed as array ([7b632bd](https://github.com/sesamyab/podcast-parser/commit/7b632bd02773f02cf8906d947d66e038df3eac50))
+
 # [1.6.0](https://github.com/sesamyab/podcast-parser/compare/v1.5.1...v1.6.0) (2025-07-14)
 
 
