@@ -297,19 +297,4 @@ describe('Sesamy parser service tests', () => {
     expect(episode.isSesamy).toBe(false);
     expect(episode.permissions.length).toBe(0);
   });
-
-  it('Spotify url', async () => {
-    const feedJson = await parseFeedToJson(acast.toString());
-    const links = feedJson.rss.channel['atom:link'] || [];
-
-    links.push({
-      '@_href': 'https://open.spotify.com/show/41zWZdWCpVQrKj7ykQnXRc',
-      '@_rel': 'spotify',
-    });
-
-    feedJson.rss.channel['atom:link'] = links;
-    const sesamyFeed = parseFeedToSesamy(feedJson);
-
-    expect(sesamyFeed.externalIds.spotifyUrl).toBe('https://open.spotify.com/show/41zWZdWCpVQrKj7ykQnXRc');
-  });
 });

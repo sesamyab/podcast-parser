@@ -186,16 +186,17 @@ export function parseFeedToSesamy(feed: RssFeed) {
 
   const owner = channel['itunes:owner'];
   const unparsedCategories = channel['itunes:category'] ?? [];
-  const spotifyLink = channel['atom:link']?.find(link => link['@_rel'] === 'spotify');
+
+  const externalIds: Record<string, string> = {};
+  channel['sesamy:external-id']?.forEach(externalId => {
+    externalIds[externalId['@_id']] = externalId['@_value'];
+  });
 
   const sesamyFeed: SesamyFeed = {
     title: channel['sesamy:title'] || channel.title,
     titleWithUsername: channel.title,
     subtitle: channel['itunes:subtitle'] || channel.description,
-    externalIds: {
-      acastId: channel['acast:showId'],
-      spotifyUrl: spotifyLink?.['@_href'],
-    },
+    externalIds,
     description: sanitizeHtml(channel.description || '', {
       allowedTags: [],
       allowedAttributes: {},
