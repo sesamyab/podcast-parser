@@ -10,6 +10,7 @@ export async function parseFeedToJson(text: string): Promise<RssFeed> {
     'sesamy:sesamy-item',
     'sesamy:product',
     'sesamy:selling-point',
+    'sesamy:external-id',
     'sesamy:price-override',
     'enclosure',
     'omny:clipCustomField',
