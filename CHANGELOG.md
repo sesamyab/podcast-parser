@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/sesamyab/podcast-parser/compare/v1.5.1...v1.6.0) (2025-07-14)
+
+
+### Features
+
+* add support for external ids ([6850597](https://github.com/sesamyab/podcast-parser/commit/68505973a826eb69a5e6e569a2f4c87d98b40299))
+
 ## [1.5.1](https://github.com/sesamyab/podcast-parser/compare/v1.5.0...v1.5.1) (2025-06-19)
 
 
