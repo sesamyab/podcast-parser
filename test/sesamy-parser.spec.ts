@@ -7,7 +7,6 @@ global.structuredClone = obj => JSON.parse(JSON.stringify(obj));
 
 const fredagspodden = fs.readFileSync('./test/fixtures/fredagspodden.rss');
 const spar = fs.readFileSync('./test/fixtures/spar.rss');
-const acast = fs.readFileSync('./test/fixtures/acast.rss');
 const kjente = fs.readFileSync('./test/fixtures/kjente.rss');
 const fof = fs.readFileSync('./test/fixtures/fof.rss');
 const omny = fs.readFileSync('./test/fixtures/omny.rss');
@@ -135,7 +134,9 @@ describe('Sesamy parser service tests', () => {
     expect(sesamyFeed).toMatchObject({
       title: 'Markus Test',
       titleWithUsername: 'Markus Test',
-      externalIds: {},
+      externalIds: {
+        spotifyId: '6bWn1aLxsl',
+      },
       subtitle:
         'Kjente Norske ordtak i en tolkning av Even C. Jystad.Buy at https://sesamy.com/podcasts/sid:oPWrf4FIdFVRpS0chQ5Nj',
       description:

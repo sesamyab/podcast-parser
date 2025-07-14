@@ -33,7 +33,8 @@
     <itunes:explicit>no</itunes:explicit>
     <sesamy:title>Markus Test</sesamy:title>
     <sesamy:private>false</sesamy:private>
-    <sesamy:vendor-id>demo</sesamy:vendor-id>
+    <sesamy:vendor-id>demo</sesamy:vendor-id>    
+    <sesamy:external-id id="spotifyId" value="6bWn1aLxsl"/>    
     <sesamy:product>
       <id>rss_1K-03nMwHqboV2DsVuhwn</id>
       <sesamy:price>5</sesamy:price>
