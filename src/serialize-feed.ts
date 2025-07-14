@@ -117,6 +117,14 @@ export function generateRssFeed(feed: SesamyFeed): string {
       'sesamy:title': feed.title,
       'sesamy:private': feed.sesamy.isPrivate.toString(),
       'sesamy:vendor-id': feed.sesamy.vendorId,
+      'sesamy:external-id': feed.externalIds
+        ? Object.entries(feed.externalIds)
+            .filter(([id, value]) => id && value)
+            .map(([id, value]) => ({
+              '@_id': id,
+              '@_value': value as string,
+            }))
+        : [],
       'sesamy:product': feed.products.map(product => ({
         id: product.id,
         'sesamy:id': product.id,
