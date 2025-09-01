@@ -241,6 +241,7 @@ export function parseFeedToSesamy(feed: RssFeed) {
       brandId: channel['sesamy:brand-id'],
       vendorId: channel['sesamy:vendor-id'],
       isPrivate: channel['sesamy:private'] ? true : false,
+      autoOnboard: channel['sesamy:auto-onboard'],
     },
     spotify: channel['spotify:access']
       ? {
