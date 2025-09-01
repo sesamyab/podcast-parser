@@ -125,6 +125,7 @@ export function generateRssFeed(feed: SesamyFeed): string {
               '@_value': value as string,
             }))
         : [],
+      'sesamy:auto-onboard': feed.sesamy.autoOnboard,
       'sesamy:product': feed.products.map(product => ({
         id: product.id,
         'sesamy:id': product.id,
