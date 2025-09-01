@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/sesamyab/podcast-parser/compare/v1.6.1...v1.6.2) (2025-09-01)
+
+
+### Bug Fixes
+
+* add auto onboard ([cb6e4f9](https://github.com/sesamyab/podcast-parser/commit/cb6e4f965f8db0e803aff238908a9c6b7869f350))
+
 ## [1.6.1](https://github.com/sesamyab/podcast-parser/compare/v1.6.0...v1.6.1) (2025-07-14)
 
 
