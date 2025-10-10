@@ -1,3 +1,10 @@
+## [1.6.3](https://github.com/sesamyab/podcast-parser/compare/v1.6.2...v1.6.3) (2025-10-10)
+
+
+### Bug Fixes
+
+* force copyright to string ([76ddfbb](https://github.com/sesamyab/podcast-parser/commit/76ddfbbc376b881de293454db1ef7b7fe15fc266))
+
 ## [1.6.2](https://github.com/sesamyab/podcast-parser/compare/v1.6.1...v1.6.2) (2025-09-01)
 
 
