@@ -21,6 +21,24 @@ export async function parseFeedToJson(text: string): Promise<RssFeed> {
   const options = {
     ignoreAttributes: false,
     attributeNamePrefix: '@_',
+    tagValueProcessor: (
+      tagName: string,
+      tagValue: string,
+      _jPath: string,
+      _hasAttributes: boolean,
+      _isLeafNode: boolean,
+    ) => {
+      // Parse specific tag names as boolean values
+      if (booleanTagNames.includes(tagName)) {
+        return tagValue === 'true';
+      }
+      // For copyright, return null to prevent automatic number parsing
+      // This keeps the original string value
+      if (tagName === 'copyright') {
+        return null;
+      }
+      return tagValue;
+    },
     attributeValueProcessor: (_key: string, value: string) => {
       if (value.toLowerCase() === 'true') {
         return true;
@@ -29,13 +47,6 @@ export async function parseFeedToJson(text: string): Promise<RssFeed> {
         return false;
       }
       return value;
-    },
-    parseNodeValue: (val: string, tagName: string) => {
-      // Parse specific tag names as boolean values
-      if (booleanTagNames.includes(tagName)) {
-        return val === 'true';
-      }
-      return val;
     },
     isArray: (name: string) => {
       return arrayNodes.includes(name);

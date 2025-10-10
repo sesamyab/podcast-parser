@@ -298,4 +298,14 @@ describe('Sesamy parser service tests', () => {
     expect(episode.isSesamy).toBe(false);
     expect(episode.permissions.length).toBe(0);
   });
+
+  it('should parse copyright field with CDATA as string, not number', async () => {
+    const copyrightCdataFeed = fs.readFileSync('./test/fixtures/copyright-cdata.rss');
+    const feedJson = await parseFeedToJson(copyrightCdataFeed.toString());
+    const sesamyFeed = parseFeedToSesamy(feedJson);
+
+    // The copyright field should be a string, even when the CDATA contains only numbers
+    expect(typeof sesamyFeed.copyright).toBe('string');
+    expect(sesamyFeed.copyright).toBe('2025');
+  });
 });

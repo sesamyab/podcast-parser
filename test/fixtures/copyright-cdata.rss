@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+    <title>Test Feed</title>
+    <description>Test feed for copyright parsing</description>
+    <link>https://example.com</link>
+    <language>en-us</language>
+    <copyright><![CDATA[2025]]></copyright>
+    <itunes:author>Test Author</itunes:author>
+    <item>
+        <title>Test Episode</title>
+        <description>Test episode description</description>
+        <guid isPermaLink="false">test-guid-1</guid>
+        <pubDate>Mon, 01 Jan 2025 00:00:00 GMT</pubDate>
+        <itunes:duration>30:00</itunes:duration>
+        <enclosure url="https://example.com/episode1.mp3" type="audio/mpeg" length="1000"/>
+    </item>
+</channel>
+</rss>
