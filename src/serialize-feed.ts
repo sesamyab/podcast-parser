@@ -114,6 +114,7 @@ export function generateRssFeed(feed: SesamyFeed): string {
         'itunes:email': feed.owner?.email || 'feed@sesamy.com',
       },
       'itunes:explicit': boolToString(feed.isExplicit),
+      'itunes:type': feed.podcastType?.toLowerCase() || 'episodic',
       'sesamy:title': feed.title,
       'sesamy:private': feed.sesamy.isPrivate.toString(),
       'sesamy:vendor-id': feed.sesamy.vendorId,
