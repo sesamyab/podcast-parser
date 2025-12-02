@@ -1,3 +1,10 @@
+## [1.6.4](https://github.com/sesamyab/podcast-parser/compare/v1.6.3...v1.6.4) (2025-12-02)
+
+
+### Bug Fixes
+
+* render itunes type ([0a45e13](https://github.com/sesamyab/podcast-parser/commit/0a45e132ddb2f4271cb6b905d49803520d610f91))
+
 ## [1.6.3](https://github.com/sesamyab/podcast-parser/compare/v1.6.2...v1.6.3) (2025-10-10)
 
 
